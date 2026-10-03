@@ -1,0 +1,143 @@
+{
+  "name": "AI Club, IIT Madras",
+  "shortName": "AI Club",
+  "institution": "CFI · IIT Madras",
+  "email": "aiclubcfi@smail.iitm.ac.in",
+  "logo": "/images/b8ofBBM5dzdAJBhjCZ7hsdElk.png",
+  "introduction": "The AI Club, IITM is the center of the Student community at IIT Madras. We do rigorous AI Research and implementation, with the freedom of choosing ambitious problems to solve and rapidly iterating on various directions. Through workshops, sessions and hackathons, we foster a culture of hands-on learning. Our members represent IITM at top hackathons across the country and contribute to the AI Community through meaningful research and Open-source projects.",
+  "blogIntroduction": "We explore the technology, science, and research behind Artificial Intelligence. Our goal is to break down complex ideas into clear, thoughtful insights that make AI easier to understand and discuss.",
+  "copyright": "AI Club IITM",
+  "footerDescription": "Centre For Innovation (CFI), IIT Madras",
+  "contactHeading": "Get in touch",
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Projects",
+      "children": [
+        {
+          "label": "2026–27",
+          "href": "/projects-26-27/"
+        },
+        {
+          "label": "2025–26",
+          "href": "/projects-25-26/"
+        }
+      ]
+    },
+    {
+      "label": "Events",
+      "children": [
+        {
+          "label": "2026–27",
+          "href": "/events/26-27/"
+        },
+        {
+          "label": "2025–26",
+          "href": "/events/25-26/"
+        }
+      ]
+    },
+    {
+      "label": "Achievements",
+      "href": "/achievements/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog/"
+    },
+    {
+      "label": "Team",
+      "href": "/team/"
+    },
+    {
+      "label": "Contact",
+      "href": "/#contact"
+    }
+  ],
+  "socials": [
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/aiclub_iitm/"
+    },
+    {
+      "label": "GitHub",
+      "href": "https://github.com/AI-Club-IIT-Madras"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/ai-club-iit-madras/posts/?feedView=all"
+    },
+    {
+      "label": "YouTube",
+      "href": "https://www.youtube.com/@aiclubcfiIITM/videos"
+    },
+    {
+      "label": "X",
+      "href": "https://x.com/aiclubiitm"
+    }
+  ],
+  "labels": {
+    "events": "Events",
+    "blogs": "Blogs",
+    "blog": "Blog",
+    "projects": "Projects",
+    "team": "Team",
+    "achievements": "Achievements",
+    "partners": "Industry Partners",
+    "supporters": "Our Partners / Supporters",
+    "allEvents": "See all events",
+    "allBlogs": "See all blogs",
+    "allProjects": "Explore projects",
+    "readArticle": "Read article",
+    "resources": "Resources",
+    "viewProject": "View Project",
+    "meetTeam": "Meet the team",
+    "backProjects": "Back to projects",
+    "research": "Research",
+    "patents": "Patents",
+    "hackathons": "Hackathons",
+    "explore": "Explore",
+    "connect": "Connect",
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "pauseVideo": "Pause background animation",
+    "playVideo": "Play background animation",
+    "upcoming": "Upcoming event",
+    "announcementPlaceholder": "To be announced",
+    "upcomingNote": "TODO: Add the next event’s details when confirmed.",
+    "emptyEvents": "TODO: Add confirmed events for this academic year.",
+    "emptyTeam": "TODO: Add verified team members, roles and photographs.",
+    "missingDescription": "TODO: Article description.",
+    "missingReadingTime": "TODO: Reading time",
+    "missingLink": "TODO: Article link",
+    "missingProjectLink": "TODO: Project link",
+    "missingImage": "TODO: Event image",
+    "publications": "Blogs,Papers & Publications",
+    "comingSoon": "Coming soon …",
+    "missingPublications": "TODO: Add verified publications.",
+    "teamLabel": "Project team",
+    "application": "View application document",
+    "showApplication": "Preview application document",
+    "academicYear": "Academic year",
+    "articleCount": "articles",
+    "eventCount": "events",
+    "members": "Members",
+    "backHome": "Back to home",
+    "notFound": "Page not found",
+    "notFoundDescription": "This page may have moved. Explore the site using the navigation above."
+  },
+  "contact": {
+    "endpoint": "",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send message",
+    "emailAction": "Email the club",
+    "unconfigured": "The contact form is not connected yet. Please email the club directly.",
+    "todo": "TODO: Configure a form endpoint to enable message delivery.",
+    "privacy": "Your message will be sent to the AI Club."
+  }
+}

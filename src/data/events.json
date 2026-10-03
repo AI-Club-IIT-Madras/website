@@ -1,0 +1,62 @@
+[
+  {
+    "id": "epoch-2",
+    "title": "Epoch 2: How Machines Learned to See",
+    "date": "2026-01-28",
+    "displayDate": "28-30 January, 2026",
+    "description": "A three-day intensive session in collaboration with Jane Street, where participants explored the evolution of computer vision through the image classification task, from LeNET and AlexNet to modern architectures like ViTs and ConvNext. The session covered essential architectural innovations and interactive visualizations, like activation atlas, feature map visualizations and adverserial attacks on models trained natively.",
+    "academicYear": "25-26",
+    "image": "/images/0q9veGjb4s5hp1N4fk6LVCtxvXU.png",
+    "resourceUrl": "https://drive.google.com/drive/folders/1UZ22XucmNidm7XvRymspBN_rQHuCAOTn?usp=sharing",
+    "status": "published",
+    "legacyAnchor": "event-0"
+  },
+  {
+    "id": "ai-to-ai",
+    "title": "a_i to AI: Where Math Meets ML",
+    "date": "2025-10-25",
+    "displayDate": "25 October, 2025",
+    "description": "a_i to AI 4.0 is a joint event by the Mathematics Club and AI Club that explores how mathematical foundations drive modern artificial intelligence. From probability and optimization to Gaussian Mixture Models (GMMs), Expectation-Maximization (EM), and clustering, the event uncovers how elegant mathematical ideas translate into intelligent algorithms that predict, optimize, and reveal hidden real-world patterns.",
+    "academicYear": "25-26",
+    "image": "/images/OG42JtxAARaQVyTugKeu80lEjs.jpg",
+    "resourceUrl": null,
+    "status": "published",
+    "legacyAnchor": "event-1"
+  },
+  {
+    "id": "epoch-1",
+    "title": "Epoch 1: State Space Models",
+    "date": "2025-09-27",
+    "displayDate": "27-28 September, 2025",
+    "description": "A two-day intensive session conducted by the AI Club, where participants explored the evolution of sequence modeling from RNNs and Transformers to modern State Space Models (SSMs). The session covered essential mathematical foundations and dived deep into architectures like HiPPO, S4, and Mamba, combining theory with hands-on understanding of how these models power efficient long-context reasoning.",
+    "academicYear": "25-26",
+    "image": "/images/bJS0gBk77BZeyXE3gRnf7momawo.jpg",
+    "resourceUrl": "https://drive.google.com/drive/folders/1J-SZnsH_2E4LsLdsDrRui-Y_pw6N_1qW?usp=drive_link",
+    "status": "published",
+    "legacyAnchor": "event-2"
+  },
+  {
+    "id": "freshie-roadmap",
+    "title": "CFIxTechSoc: Freshie Roadmap",
+    "date": "2025-08-11",
+    "displayDate": "11 August, 2025",
+    "description": "A collaborative initiative between AI Club and TechSoc IIT Madras, designed exclusively for first-year students beginning their AI journey. Conducted in an interactive, beginner-friendly format, the session introduced the fundamentals of deep learning, starting from regression and gradually building up to the concept of neurons and neural networks, helping freshies gain their first hands-on experience in AI.",
+    "academicYear": "25-26",
+    "image": "/images/2CiRwT3rXWohTTowyLmOm2kOYPk.jpeg",
+    "resourceUrl": "https://drive.google.com/drive/folders/1NqIJXrDX5uDnUdZ0MpRKCiqFnddUaiAp?usp=drive_link",
+    "status": "published",
+    "legacyAnchor": "event-3"
+  },
+  {
+    "id": "knowledge-transfer-sessions",
+    "title": "Knowledge Transfer Sessions",
+    "date": "2025-06-16",
+    "displayDate": "16 June - 7 July, 2025",
+    "description": "A core learning initiative by the AI Club, aimed at strengthening the technical foundation of its members, the Knowledge Transfer Sessions (KTS) were a series of ten summer sessions covering core Machine Learning fundamentals, followed by an introduction to Deep Learning. The program emphasized collaboration, conceptual clarity, and hands-on learning across the ML–DL spectrum.",
+    "academicYear": "25-26",
+    "image": null,
+    "resourceUrl": "https://drive.google.com/drive/folders/1L_KVrz2pYMa9FD7RCYWN9wsgpv1C18Oc?usp=drive_link",
+    "status": "published",
+    "legacyAnchor": "event-4"
+  }
+]

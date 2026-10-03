@@ -1,0 +1,78 @@
+{
+  "publications": [
+    {
+      "title": "Enhancing Financial RAG with Agentic AI and Multi-HyDE: A Novel Approach to Knowledge Retrieval and Hallucination Reduction",
+      "description": "Proceedings of The 10th Workshop on Financial Technology and Natural Language Processing",
+      "url": "https://aclanthology.org/2025.finnlp-2.3/",
+      "category": "Research"
+    },
+    {
+      "title": "Gradient-based regularization for inverse airfoil design",
+      "description": "Research Article, American Institute of Physics (Physics of Fluids 37)",
+      "url": "https://doi.org/10.1063/5.0293320",
+      "category": "Research"
+    },
+    {
+      "title": "Fine-Grained control over Music Generation with Activation Steering",
+      "description": "arXiv preprint",
+      "url": "https://arxiv.org/abs/2506.10225",
+      "category": "Research"
+    },
+    {
+      "title": "VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems",
+      "description": "arXiv preprint",
+      "url": "https://arxiv.org/abs/2507.05146",
+      "category": "Research"
+    },
+    {
+      "title": "RE-GAINS & EnChAnT: Intelligent Tool Manipulation Systems For Enhanced Query Responses",
+      "description": "arXiv preprint",
+      "url": "https://arxiv.org/abs/2401.15724",
+      "category": "Research"
+    },
+    {
+      "title": "Query Management Systems For Large Language Models (LLMS)",
+      "description": "The Patent Office, Government of India",
+      "url": "https://drive.google.com/file/d/111XMpLDOOjZ-AwlnRem3xKlFiX_Xc3nr/view?usp=sharing",
+      "category": "Patents"
+    }
+  ],
+  "hackathons": [
+    {
+      "title": "Inter-IIT Tech Meet 14.0 - Observe.AI",
+      "result": "Gold"
+    },
+    {
+      "title": "Inter-IIT Tech Meet 11.0 - DevRev",
+      "result": "Gold"
+    },
+    {
+      "title": "Inter-IIT Tech Meet 10.0 - BRIDGEi2i",
+      "result": "Gold"
+    },
+    {
+      "title": "Convolve 1.0 - A Pan-IIT Hackathon",
+      "result": "Gold"
+    },
+    {
+      "title": "Amex Campus Super Bowl",
+      "result": "Silver"
+    },
+    {
+      "title": "Inter-IIT Tech Meet 14.0 - Adobe",
+      "result": "Bronze"
+    },
+    {
+      "title": "Convolve 2.0 - A Pan-IIT Hackathon",
+      "result": "Bronze"
+    },
+    {
+      "title": "Inter-IIT Tech Meet 12.0 - Adobe",
+      "result": "Bronze"
+    },
+    {
+      "title": "Inter-IIT Tech Meet 11.0 - ISRO",
+      "result": "Bronze"
+    }
+  ]
+}

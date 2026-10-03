@@ -1,0 +1,62 @@
+[
+  {
+    "id": "viveka",
+    "title": "Viveka",
+    "subtitle": "Reducing hallucinations in LLMs through mechanistic interpretability",
+    "description": "Addressing hallucinations in large language models through mechanistic interpretability — dissecting neural network internals to uncover why models produce factually incorrect outputs. Awarded grants from VCs and ExceptionRaised.",
+    "tags": ["Interpretability", "LLMs", "AI Safety"],
+    "academicYear": "25-26",
+    "image": "/images/agloUdk1E4YZuMpZ72CACXY6FXw.optimized.webp",
+    "url": null
+  },
+  {
+    "id": "deep-recall",
+    "title": "Deep Recall",
+    "subtitle": "Semantic search & retrieval for IIT Madras historical archives",
+    "description": "A scalable system that indexes and retrieves historical records from the IIT Madras Archive Center using embeddings, OCR, knowledge graphs, and frameworks like LangChain, GraphRAG, and FAISS.",
+    "tags": ["RAG", "Semantic Search", "OCR"],
+    "academicYear": "25-26",
+    "image": "/images/LSE53tHfo3ZG6skzcOtJVn3I2g.optimized.webp",
+    "url": null
+  },
+  {
+    "id": "speechseek",
+    "title": "SpeechSeek",
+    "subtitle": "Speaker diarization with emotion & language detection for Indic languages",
+    "description": "An advanced speaker diarization system with integrated emotion and language detection, designed to handle complex code-mixed speech and support multiple Indic languages — one of the most challenging problems in neural audio processing.",
+    "tags": ["Speech AI", "Diarization", "Indic Languages"],
+    "academicYear": "25-26",
+    "image": "/images/7NxYsOXgLokoIqD7LK7EuXuCurI.optimized.webp",
+    "url": null
+  },
+  {
+    "id": "viveka-2",
+    "title": "Viveka 2.0",
+    "subtitle": "Interpreting and advancing abstract reasoning models",
+    "description": "We mechanistically interpret efficient and performant architectures on Abstraction Reasoning Corpus and build on top of them. ARC AGI is a benchmark of puzzles that evaluates an AI model's reasoning capabilities that are trivial for humans but hard for current data-hungry AI systems.",
+    "tags": ["Interpretability", "Reasoning", "ARC AGI"],
+    "academicYear": "26-27",
+    "image": "/images/dno1lB58VOOXqwI2vGXBACQcIU.png",
+    "url": "https://viveka.aiclubcfi.com/viveka-2.html"
+  },
+  {
+    "id": "triton-cu",
+    "title": "triton::cu",
+    "subtitle": "High-performance GPU kernels for AI workloads",
+    "description": "triton::cu is a project done in collaboration with KLA. The aim of the project is to make an agentic pipeline capable of converting Triton code into CUDA code. CUDA code gives the programmer lower level control and therefore the code can be optimized more than Triton code.",
+    "tags": ["GPU Programming", "CUDA", "AI Agents"],
+    "academicYear": "26-27",
+    "image": "/images/6s64hSA6qNadTVIz3SgGY832A.optimized.webp",
+    "url": "/projects-26-27/triton-cu/"
+  },
+  {
+    "id": "kathai",
+    "title": "KathAI",
+    "subtitle": null,
+    "description": "Building an intelligent conversational system for low-resource languages by combining retrieval-augmented generation, translation, and speech processing. KathAI aims to make collected stories and language resources searchable and accessible while exploring audio cleaning, transcription, alignment, and speech-based interaction.",
+    "tags": ["NLP", "Generative AI", "Indic Languages"],
+    "academicYear": "26-27",
+    "image": "/images/VwrULPMGEXgffppB866m5VGeeVs.png",
+    "url": "/projects-26-27/kathai/"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "triton-cu",
+    "embed": "https://drive.google.com/file/d/1CleGw74eYZre43e3wXHr5mkHKrDCUavy/preview",
+    "title": "Triton :: cu",
+    "description": "The aim of this project is to make an agentic pipeline capable of converting Triton code into low level CUDA code . CUDA code gives the programmer lower level control and therefore the code can be optimized more than triton code",
+    "applicationNote": "Applications for triton :: cu are now closed. Download the application below",
+    "applicationHeading": "Join Triton :: cu",
+    "teamHeading": "Meet the Triton::cu Team",
+    "tagline": "Tackling parallelization"
+  },
+  {
+    "id": "kathai",
+    "embed": "https://drive.google.com/file/d/1IJb29hiioXVOH9folUMEtxHhrzEXe2qv/preview",
+    "title": "Kath AI",
+    "description": "Building an Intelligent conversational system for low resource languages by combining retrieval-augmented generation, translation and speech processing. KathAI aims to make collected stories and language resources searchable and accessible while exploring audio cleaning, transcritption , alignment , and speech-based interaction.",
+    "applicationNote": "Applications for KathAI just closed. Download the application below",
+    "applicationHeading": "Join KathAI",
+    "teamHeading": "Meet the KathAI Team",
+    "tagline": null
+  }
+]

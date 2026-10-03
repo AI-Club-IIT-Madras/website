@@ -1,0 +1,35 @@
+{
+  "years": ["26-27", "25-26"],
+  "members": [],
+  "groups": [
+    {
+      "id": "club",
+      "label": "AI Club"
+    },
+    {
+      "id": "viveka-2",
+      "label": "Viveka 2.0"
+    },
+    {
+      "id": "triton-cu",
+      "label": "triton::cu"
+    },
+    {
+      "id": "kathai",
+      "label": "KathAI"
+    },
+    {
+      "id": "viveka",
+      "label": "Viveka"
+    },
+    {
+      "id": "deep-recall",
+      "label": "Deep Recall"
+    },
+    {
+      "id": "speechseek",
+      "label": "SpeechSeek"
+    }
+  ],
+  "todo": "The source /team page returns 404. Names, roles, photos and profile links must be supplied or verified before publication."
+}
