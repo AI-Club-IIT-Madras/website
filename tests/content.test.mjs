@@ -49,6 +49,28 @@ test("blog archives group records by descending year", async () => {
   );
 });
 
+test("every linked blog has sourced card copy and a body-based reading estimate", async () => {
+  const blogs = await load("blogs");
+  const linked = blogs.filter((blog) => blog.url);
+
+  assert.equal(linked.length, 20);
+  assert.ok(linked.every((blog) => blog.description?.trim()));
+  assert.ok(linked.every((blog) => blog.descriptionSource === blog.url));
+  assert.ok(linked.every((blog) => blog.wordCount > 0));
+  assert.ok(
+    linked.every(
+      (blog) => blog.readingMinutes === Math.ceil(blog.wordCount / 200),
+    ),
+  );
+  assert.ok(
+    linked.every(
+      (blog) =>
+        blog.readingTimeSource ===
+        "Estimated at 200 words/minute from the public article body",
+    ),
+  );
+});
+
 test("reading time uses verified minutes or word-count estimates", () => {
   assert.equal(readingMinutes({ readingMinutes: 8, wordCount: 5000 }), 8);
   assert.equal(readingMinutes({ readingMinutes: null, wordCount: 401 }), 3);

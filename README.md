@@ -59,10 +59,10 @@ known.
 
 ### Add or edit a blog
 
-Edit `src/data/blogs.json`. Store the publisher's reading-time label in `readingMinutes`.
-If the publisher does not supply one, add a verified `wordCount`; the UI estimates reading
-time at 200 words per minute. Use `null` plus a TODO when neither value can be verified.
-The homepage automatically shows the three newest published blog records.
+Edit `src/data/blogs.json`. Store the accessible article-body count in `wordCount` and set
+`readingMinutes` to the word count divided by 200, rounded up. Recheck both values if the
+article changes. Use `null` plus a TODO when the article has no verifiable URL or body. The
+homepage automatically shows the three newest published blog records.
 
 Blog descriptions must be copied or closely paraphrased from the linked article. Keep
 `descriptionSource` and `readingTimeSource` so future maintainers can verify the card.
@@ -110,8 +110,6 @@ The first deployment still requires the repository owner to enable Pages and con
 ## Known content TODOs
 
 - The source `/team` page returns 404, so no names, roles, or photographs were invented.
-- Some Medium pages could not be read reliably. Their missing descriptions and reading times
-  remain explicit TODOs in `src/data/blogs.json`.
 - The newest CartPole article has no destination URL on the source site.
 - The 2026–27 upcoming event and event archive await confirmed content.
 
