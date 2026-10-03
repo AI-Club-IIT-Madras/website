@@ -4,15 +4,15 @@
     "title": "From Random Actions to Balance: Building a Reinforcement Learning Agent for the CartPole Problem",
     "date": "2026-04-13",
     "displayDate": "Apr 13, 2026",
-    "description": null,
-    "readingMinutes": null,
-    "url": null,
+    "description": "In this project, I built a reinforcement learning agent to solve the classic CartPole problem.",
+    "readingMinutes": 12,
+    "url": "https://aiclubiitmadras.substack.com/p/from-random-actions-to-balance-building",
     "image": "/images/pr4R0736AmkMzEyfBOrxkD4utqA.png",
     "status": "published",
-    "todo": [
-      "Verify article excerpt and reading time",
-      "Missing article URL on source site"
-    ]
+    "todo": [],
+    "wordCount": 2254,
+    "readingTimeSource": "Estimated at 200 words/minute from the public article body",
+    "descriptionSource": "https://aiclubiitmadras.substack.com/p/from-random-actions-to-balance-building"
   },
   {
     "id": "machines-can-transcribe-speech-but-can-they-understand-it",

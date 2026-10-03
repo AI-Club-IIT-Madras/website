@@ -53,7 +53,7 @@ test("every linked blog has sourced card copy and a body-based reading estimate"
   const blogs = await load("blogs");
   const linked = blogs.filter((blog) => blog.url);
 
-  assert.equal(linked.length, 20);
+  assert.equal(linked.length, 21);
   assert.ok(linked.every((blog) => blog.description?.trim()));
   assert.ok(linked.every((blog) => blog.descriptionSource === blog.url));
   assert.ok(linked.every((blog) => blog.wordCount > 0));
@@ -77,14 +77,12 @@ test("reading time uses verified minutes or word-count estimates", () => {
   assert.equal(readingMinutes({ readingMinutes: null, wordCount: null }), null);
 });
 
-test("unverified source content remains explicit instead of invented", async () => {
+test("remaining unverified source content stays explicit", async () => {
   const team = await load("team");
   const announcements = await load("announcements");
-  const blogs = await load("blogs");
 
   assert.deepEqual(team.members, []);
   assert.equal(announcements.upcomingEvent.status, "placeholder");
-  assert.ok(blogs.some((blog) => blog.todo?.length));
 });
 
 test("homepage and project partners use their verified source sets", async () => {
