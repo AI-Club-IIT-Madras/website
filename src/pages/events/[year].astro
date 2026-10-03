@@ -1,0 +1,8 @@
+---
+import EventsPage from "../../components/EventsPage.astro";
+export function getStaticPaths() {
+  return ["25-26", "26-27"].map((year) => ({ params: { year } }));
+}
+---
+
+<EventsPage year={Astro.params.year!} />

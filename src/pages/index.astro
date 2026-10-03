@@ -1,0 +1,59 @@
+---
+import Layout from "../layouts/Layout.astro";
+import EventCard from "../components/EventCard.astro";
+import BlogCard from "../components/BlogCard.astro";
+import Partners from "../components/Partners.astro";
+import Contact from "../components/Contact.astro";
+import Arrow from "../components/Arrow.astro";
+import site from "../data/site.json";
+import events from "../data/events.json";
+import blogs from "../data/blogs.json";
+import { newestPublished } from "../lib/content.mjs";
+import { localUrl } from "../lib/urls";
+const recentEvents = newestPublished(events).slice(0, 3);
+const recentBlogs = newestPublished(blogs).slice(0, 3);
+---
+
+<Layout>
+  <section class="hero shell">
+    <p class="eyebrow">{site.institution}</p>
+    <h1>{site.name}</h1>
+    <p class="hero-copy">{site.introduction}</p>
+    <a class="scroll-cue" href="#events" aria-label={site.labels.events}>
+      <Arrow />
+    </a>
+  </section>
+  <section class="section shell" id="events">
+    <div class="section-head">
+      <h2 class="section-title">{site.labels.events}</h2>
+      <a
+        class="text-link"
+        href={localUrl(`/events/${recentEvents[0]?.academicYear || "26-27"}/`)}
+      >
+        {site.labels.allEvents}
+        <Arrow />
+      </a>
+    </div>
+    <div class="event-grid">
+      {recentEvents.map((event) => (
+        <EventCard event={event} compact />
+      ))}
+    </div>
+  </section>
+  <section class="section shell">
+    <div class="section-head">
+      <h2 class="section-title">{site.labels.blogs}</h2>
+      <a class="text-link" href={localUrl("/blog/")}>
+        {site.labels.allBlogs}
+        <Arrow />
+      </a>
+    </div>
+    <div class="blog-grid">
+      {recentBlogs.map((blog) => (
+        <BlogCard blog={blog} />
+      ))}
+    </div>
+  </section>
+  <Partners />
+  <Contact />
+</Layout>

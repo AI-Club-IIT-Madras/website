@@ -1,0 +1,36 @@
+---
+import Layout from "../layouts/Layout.astro";
+import PageHeading from "../components/PageHeading.astro";
+import BlogCard from "../components/BlogCard.astro";
+import blogs from "../data/blogs.json";
+import site from "../data/site.json";
+import { groupByYear } from "../lib/content.mjs";
+const groups = groupByYear(blogs);
+---
+
+<Layout title={site.labels.blog} description={site.blogIntroduction}>
+  <PageHeading title={site.labels.blog} subtitle={site.blogIntroduction}>
+    <nav class="year-nav" aria-label="Blog year">
+      {groups.map((group) => (
+        <a href={`#year-${group.year}`}>{group.year}</a>
+      ))}
+    </nav>
+  </PageHeading>
+  <div class="shell archive-content">
+    {groups.map((group) => (
+      <section class="year-section" id={`year-${group.year}`}>
+        <div class="year-heading">
+          <h2>{group.year}</h2>
+          <span>
+            {group.records.length} {site.labels.articleCount}
+          </span>
+        </div>
+        <div class="blog-grid">
+          {group.records.map((blog) => (
+            <BlogCard blog={blog} />
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Layout>

@@ -1,0 +1,22 @@
+---
+import { localUrl, academicYear } from "../lib/urls";
+import site from "../data/site.json";
+interface Props {
+  kind: "events" | "projects";
+  current: string;
+}
+const { kind, current } = Astro.props;
+---
+
+<nav class="year-nav" aria-label={site.labels.academicYear}>
+  {["26-27", "25-26"].map((year) => (
+    <a
+      href={localUrl(
+        kind === "events" ? `/events/${year}/` : `/projects-${year}/`,
+      )}
+      aria-current={year === current ? "page" : undefined}
+    >
+      {academicYear(year)}
+    </a>
+  ))}
+</nav>

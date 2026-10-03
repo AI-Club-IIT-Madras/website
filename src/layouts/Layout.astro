@@ -1,0 +1,60 @@
+---
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import Background from "../components/Background.astro";
+import site from "../data/site.json";
+import { localUrl } from "../lib/urls";
+interface Props {
+  title?: string;
+  description?: string;
+  noindex?: boolean;
+}
+const { title, description = site.introduction, noindex = false } = Astro.props;
+const fullTitle = title ? `${title} | ${site.name}` : site.name;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = new URL(localUrl("/images/og.png"), Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#000000" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href={localUrl(site.logo)} type="image/png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:alt" content={site.name} />
+    <meta name="twitter:card" content="summary_large_image" />
+    {noindex && <meta name="robots" content="noindex" />}
+    <link
+      rel="preload"
+      href={localUrl("/fonts/instrument-sans.woff2")}
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <style
+      is:inline
+      set:html={`@font-face{font-family:'Instrument Sans';src:url('${localUrl("/fonts/instrument-sans.woff2")}') format('woff2');font-style:normal;font-weight:400 700;font-display:swap}@font-face{font-family:'Open Sans';src:url('${localUrl("/fonts/open-sans.woff2")}') format('woff2');font-style:normal;font-weight:400 700;font-display:swap}@font-face{font-family:Inter;src:url('${localUrl("/fonts/inter.woff2")}') format('woff2');font-style:normal;font-weight:100 900;font-display:swap}`}
+    />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">
+      {site.labels.skip}
+    </a>
+    <Background />
+    <Header />
+    <main id="main" tabindex="-1">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

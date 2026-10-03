@@ -1,0 +1,30 @@
+---
+import Layout from "../layouts/Layout.astro";
+import PageHeading from "../components/PageHeading.astro";
+import ProjectCard from "../components/ProjectCard.astro";
+import YearNav from "../components/YearNav.astro";
+import Partners from "../components/Partners.astro";
+import projects from "../data/projects.json";
+import site from "../data/site.json";
+import { academicYear } from "../lib/urls";
+export function getStaticPaths() {
+  return ["25-26", "26-27"].map((year) => ({ params: { year } }));
+}
+const year = Astro.params.year!;
+---
+
+<Layout title={`${site.labels.projects} ${academicYear(year)}`}>
+  <PageHeading title={site.labels.projects}>
+    <YearNav kind="projects" current={year} />
+  </PageHeading>
+  <div class="shell archive-content">
+    <div class="project-grid">
+      {projects
+        .filter((project) => project.academicYear === year)
+        .map((project) => (
+          <ProjectCard project={project} />
+        ))}
+    </div>
+  </div>
+  <Partners />
+</Layout>

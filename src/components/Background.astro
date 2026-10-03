@@ -1,0 +1,65 @@
+---
+import { localUrl } from "../lib/urls";
+---
+
+<div class="page-background" aria-hidden="true">
+  <video
+    id="background-video"
+    muted
+    loop
+    playsinline
+    preload="none"
+    tabindex="-1"
+  >
+    <source data-src={localUrl("/video/particles.mp4")} type="video/mp4" />
+  </video>
+  <div class="background-shade"></div>
+</div>
+<script>
+  const video = document.querySelector<HTMLVideoElement>("#background-video")!;
+  const control = document.querySelector<HTMLButtonElement>("#motion-toggle")!;
+  const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)");
+  let pausedByUser = false;
+  const update = () => {
+    control.textContent = video.paused
+      ? control.dataset.play!
+      : control.dataset.pause!;
+    control.setAttribute("aria-pressed", String(!video.paused));
+  };
+  const play = async () => {
+    if (reduceMotion.matches || pausedByUser || document.hidden) return;
+    const source = video.querySelector("source")!;
+    if (!source.src) {
+      source.src = source.dataset.src!;
+      video.load();
+    }
+    try {
+      await video.play();
+    } catch {
+      /* Poster remains visible if autoplay is unavailable. */
+    }
+    update();
+  };
+  control.hidden = false;
+  control.addEventListener("click", () => {
+    pausedByUser = !video.paused;
+    if (pausedByUser) video.pause();
+    else void play();
+    update();
+  });
+  video.addEventListener("play", update);
+  video.addEventListener("pause", update);
+  reduceMotion.addEventListener("change", () => {
+    if (reduceMotion.matches) video.pause();
+    else void play();
+    control.hidden = reduceMotion.matches;
+  });
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) video.pause();
+    else void play();
+  });
+  control.hidden = reduceMotion.matches;
+  // Delay decorative media until the page's primary content has loaded.
+  if (document.readyState === "complete") void play();
+  else window.addEventListener("load", () => void play(), { once: true });
+</script>

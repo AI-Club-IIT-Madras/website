@@ -1,0 +1,110 @@
+---
+import site from "../data/site.json";
+import { localUrl } from "../lib/urls";
+const current = Astro.url.pathname;
+const active = (href: string) =>
+  href === "/"
+    ? current === localUrl("/")
+    : !href.includes("#") && current.startsWith(localUrl(href));
+---
+
+<header class="site-header">
+  <div class="shell header-inner">
+    <a href={localUrl("/")} class="brand" aria-label={site.name}>
+      <img src={localUrl(site.logo)} width="40" height="40" alt="" />
+      <span>
+        {site.shortName}
+        <small>{site.institution}</small>
+      </span>
+    </a>
+    <button
+      id="menu-toggle"
+      class="menu-toggle"
+      aria-expanded="false"
+      aria-controls="main-nav"
+    >
+      <span>{site.labels.menu}</span>
+      <svg
+        width="22"
+        height="22"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        aria-hidden="true"
+      >
+        <path d="M3 8h18M3 16h18" />
+      </svg>
+    </button>
+    <nav id="main-nav" aria-label="Main navigation">
+      {site.navigation.map((item) =>
+        item.children ? (
+          <details class="nav-dropdown">
+            <summary
+              class:list={[
+                { active: item.children.some((child) => active(child.href)) },
+              ]}
+            >
+              {item.label}
+              <span aria-hidden="true">⌄</span>
+            </summary>
+            <div class="dropdown-panel">
+              {item.children.map((child) => (
+                <a
+                  href={localUrl(child.href)}
+                  aria-current={active(child.href) ? "page" : undefined}
+                >
+                  {child.label}
+                </a>
+              ))}
+            </div>
+          </details>
+        ) : (
+          <a
+            href={localUrl(item.href!)}
+            aria-current={active(item.href!) ? "page" : undefined}
+          >
+            {item.label}
+          </a>
+        ),
+      )}
+    </nav>
+  </div>
+</header>
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>("#menu-toggle")!;
+  const nav = document.querySelector<HTMLElement>("#main-nav")!;
+  const close = () => {
+    toggle.setAttribute("aria-expanded", "false");
+    nav.classList.remove("is-open");
+  };
+  toggle.addEventListener("click", () => {
+    const open = toggle.getAttribute("aria-expanded") !== "true";
+    toggle.setAttribute("aria-expanded", String(open));
+    nav.classList.toggle("is-open", open);
+  });
+  document.addEventListener("click", (event) => {
+    const target = event.target as Node;
+    document
+      .querySelectorAll<HTMLDetailsElement>(".nav-dropdown[open]")
+      .forEach((el) => {
+        if (!el.contains(target)) el.open = false;
+      });
+    if (!nav.contains(target) && !toggle.contains(target)) close();
+  });
+  nav.addEventListener("click", (event) => {
+    if ((event.target as Element).closest("a")) close();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key !== "Escape") return;
+    if (toggle.getAttribute("aria-expanded") === "true") {
+      close();
+      toggle.focus();
+    }
+    document
+      .querySelectorAll<HTMLDetailsElement>(".nav-dropdown[open]")
+      .forEach((el) => {
+        el.open = false;
+        el.querySelector("summary")?.focus();
+      });
+  });
+</script>

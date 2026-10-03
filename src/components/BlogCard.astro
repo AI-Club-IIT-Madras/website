@@ -1,0 +1,58 @@
+---
+import type blogs from "../data/blogs.json";
+import site from "../data/site.json";
+import { localUrl } from "../lib/urls";
+import { readingMinutes } from "../lib/content.mjs";
+import Arrow from "./Arrow.astro";
+interface Props {
+  blog: (typeof blogs)[number];
+}
+const { blog } = Astro.props;
+const minutes = readingMinutes(blog);
+---
+
+<article class="blog-card card" id={blog.id}>
+  <div class="blog-card-content">
+    <div class="card-meta">
+      <time datetime={blog.date}>{blog.displayDate}</time>
+      <span>
+        {minutes ? `${minutes} min read` : site.labels.missingReadingTime}
+      </span>
+    </div>
+    <h3>
+      {blog.url ? (
+        <a href={blog.url} target="_blank" rel="noopener noreferrer">
+          {blog.title}
+        </a>
+      ) : (
+        blog.title
+      )}
+    </h3>
+    <p class:list={["blog-excerpt", { "todo-copy": !blog.description }]}>
+      {blog.description || site.labels.missingDescription}
+    </p>
+    {blog.url ? (
+      <a
+        class="text-link"
+        href={blog.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label={`${site.labels.readArticle}: ${blog.title}`}
+      >
+        {site.labels.readArticle}
+        <Arrow diagonal />
+      </a>
+    ) : (
+      <span class="todo-copy">{site.labels.missingLink}</span>
+    )}
+  </div>
+  <img
+    class="blog-image"
+    src={localUrl(blog.image!)}
+    width="160"
+    height="200"
+    loading="lazy"
+    decoding="async"
+    alt=""
+  />
+</article>

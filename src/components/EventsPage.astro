@@ -1,0 +1,53 @@
+---
+import Layout from "../layouts/Layout.astro";
+import PageHeading from "./PageHeading.astro";
+import YearNav from "./YearNav.astro";
+import EventCard from "./EventCard.astro";
+import events from "../data/events.json";
+import announcements from "../data/announcements.json";
+import site from "../data/site.json";
+import { academicYear } from "../lib/urls";
+import { newestPublished } from "../lib/content.mjs";
+interface Props {
+  year: string;
+}
+const { year } = Astro.props;
+const records = newestPublished(events).filter(
+  (event) => event.academicYear === year,
+);
+const upcoming = announcements.upcomingEvent;
+---
+
+<Layout title={`${site.labels.events} ${academicYear(year)}`}>
+  <PageHeading title={site.labels.events}>
+    <YearNav kind="events" current={year} />
+  </PageHeading>
+  <div class="shell archive-content">
+    {year === "26-27" && (
+      <section class="upcoming-placeholder card">
+        <div>
+          <p class="eyebrow">{site.labels.upcoming}</p>
+          <h2>{upcoming.title || site.labels.announcementPlaceholder}</h2>
+          <p class="todo-copy">
+            {upcoming.description || site.labels.upcomingNote}
+          </p>
+        </div>
+        <span class="placeholder-symbol" aria-hidden="true">
+          — —
+        </span>
+      </section>
+    )}
+    <div class="year-heading">
+      <h2>{academicYear(year)}</h2>
+      <span>
+        {records.length} {site.labels.eventCount}
+      </span>
+    </div>
+    <div class="event-list">
+      {records.map((event) => (
+        <EventCard event={event} />
+      ))}
+    </div>
+    {!records.length && <p class="team-empty">{site.labels.emptyEvents}</p>}
+  </div>
+</Layout>

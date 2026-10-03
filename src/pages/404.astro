@@ -1,0 +1,19 @@
+---
+import Layout from "../layouts/Layout.astro";
+import PageHeading from "../components/PageHeading.astro";
+import site from "../data/site.json";
+import { localUrl } from "../lib/urls";
+---
+
+<Layout title={site.labels.notFound} noindex>
+  <PageHeading
+    title={site.labels.notFound}
+    subtitle={site.labels.notFoundDescription}
+    eyebrow="404"
+  />
+  <div class="shell archive-content text-center">
+    <a class="button" href={localUrl("/")}>
+      {site.labels.backHome}
+    </a>
+  </div>
+</Layout>

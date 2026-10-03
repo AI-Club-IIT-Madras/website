@@ -1,0 +1,23 @@
+---
+import partners from "../data/partners.json";
+import site from "../data/site.json";
+import { localUrl } from "../lib/urls";
+---
+
+<section class="section shell partners">
+  <h2 class="section-title">{site.labels.partners}</h2>
+  <ul class="partner-grid">
+    {partners.map((partner) => (
+      <li>
+        <img
+          src={localUrl(partner.image)}
+          width="220"
+          height="70"
+          alt={partner.name}
+          loading="lazy"
+          decoding="async"
+        />
+      </li>
+    ))}
+  </ul>
+</section>
