@@ -9,8 +9,16 @@ updates do not require editing page components.
 Use Node.js 22 or newer.
 
 ```sh
+cd /path/to/website
 npm install
 npm run dev
+```
+
+Run these commands from the repository root—the directory that contains `package.json`.
+For the current local checkout, that command is:
+
+```sh
+cd /Users/sbhandari/Documents/GitHub/website
 ```
 
 Astro serves the project under `/website/` by default. Before committing, run:
