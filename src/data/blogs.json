@@ -1,5 +1,20 @@
 [
   {
+    "id": "is-the-latent-reasoning-entangled",
+    "title": "Is the latent reasoning entangled?",
+    "date": "2026-08-14",
+    "displayDate": "Aug 14, 2026",
+    "description": "Does the latent embedding entirely hold the puzzle logic?",
+    "readingMinutes": 16,
+    "url": "https://aiclubiitmadras.substack.com/p/is-the-latent-reasoning-entangled",
+    "image": "/images/latent-reasoning-entangled-cover.webp",
+    "status": "published",
+    "todo": [],
+    "wordCount": 3029,
+    "readingTimeSource": "Estimated at 200 words/minute from the public article body",
+    "descriptionSource": "https://aiclubiitmadras.substack.com/p/is-the-latent-reasoning-entangled"
+  },
+  {
     "id": "from-random-actions-to-balance-building-a-reinforcement-learning-agent-for-the-cartpole-problem",
     "title": "From Random Actions to Balance: Building a Reinforcement Learning Agent for the CartPole Problem",
     "date": "2026-04-13",
@@ -37,7 +52,7 @@
     "description": "Why outputs from techniques like LogitLens need a careful relook.",
     "readingMinutes": 19,
     "url": "https://open.substack.com/pub/aiclubiitmadras/p/through-the-lenses-a-circuit-odyssey?utm_campaign=post&utm_medium=web",
-    "image": "/images/KEs52pIR75yKVdCHjygc2CoxHLU.optimized.webp",
+    "image": "/images/through-the-lenses-cover.webp",
     "status": "published",
     "todo": [],
     "wordCount": 3635,
@@ -52,7 +67,7 @@
     "description": "Extracting truthful representations even when the model is trained to respond untruthfully.",
     "readingMinutes": 20,
     "url": "https://open.substack.com/pub/aiclubiitmadras/p/distilling-truth-from-falsehood?utm_campaign=post&utm_medium=web",
-    "image": "/images/UrMufDdQdOPAw0aNgwmJwaoMok.optimized.webp",
+    "image": "/images/distilling-truth-cover.webp",
     "status": "published",
     "todo": [],
     "wordCount": 3948,

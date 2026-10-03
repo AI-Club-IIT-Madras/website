@@ -23,7 +23,7 @@ test("homepage content sorts newest published records first", async () => {
   assert.equal(events[0].id, "epoch-2");
   assert.equal(
     blogs[0].id,
-    "from-random-actions-to-balance-building-a-reinforcement-learning-agent-for-the-cartpole-problem",
+    "is-the-latent-reasoning-entangled",
   );
   assert.ok(
     events.every(
@@ -45,7 +45,7 @@ test("blog archives group records by descending year", async () => {
   );
   assert.equal(
     groups.reduce((total, group) => total + group.records.length, 0),
-    21,
+    22,
   );
 });
 
@@ -53,7 +53,7 @@ test("every linked blog has sourced card copy and a body-based reading estimate"
   const blogs = await load("blogs");
   const linked = blogs.filter((blog) => blog.url);
 
-  assert.equal(linked.length, 21);
+  assert.equal(linked.length, 22);
   assert.ok(linked.every((blog) => blog.description?.trim()));
   assert.ok(linked.every((blog) => blog.descriptionSource === blog.url));
   assert.ok(linked.every((blog) => blog.wordCount > 0));
