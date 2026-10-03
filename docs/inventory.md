@@ -3,17 +3,17 @@
 Inspected https://aiclubcfi.com/ on 2026-10-03. The repository was empty;
 `reference/source` contains captured live-site screenshots, not user-provided designs.
 
-| Route | Content |
-| --- | --- |
-| / | Hero, club introduction, latest events, latest blogs, partners, contact form, footer |
-| /events | Bharat Bricks feature, countdown, five event descriptions and resource links |
-| /achievements | Five research publications, one patent, industry partners, nine hackathon results |
-| /blog | Introduction and 21 article cards |
-| /projects-25-26 | Viveka, Deep Recall, SpeechSeek |
-| /projects-26-27 | Viveka 2.0, triton::cu, KathAI, partners |
-| /projects-26-27/triton-cu | Introduction, application embed, team/publications placeholders |
-| /projects-26-27/kathai | Introduction, application embed, team/publications placeholders |
-| /team | Broken destination (404) |
+| Route                     | Content                                                                              |
+| ------------------------- | ------------------------------------------------------------------------------------ |
+| /                         | Hero, club introduction, latest events, latest blogs, partners, contact form, footer |
+| /events                   | Bharat Bricks feature, countdown, five event descriptions and resource links         |
+| /achievements             | Five research publications, one patent, industry partners, nine hackathon results    |
+| /blog                     | Introduction and 21 article cards                                                    |
+| /projects-25-26           | Viveka, Deep Recall, SpeechSeek                                                      |
+| /projects-26-27           | Viveka 2.0, triton::cu, KathAI, partners                                             |
+| /projects-26-27/triton-cu | Introduction, application embed, team/publications placeholders                      |
+| /projects-26-27/kathai    | Introduction, application embed, team/publications placeholders                      |
+| /team                     | Broken destination (404)                                                             |
 
 ## Interaction and asset inventory
 
