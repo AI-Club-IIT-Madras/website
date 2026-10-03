@@ -12,38 +12,42 @@ const { contact } = site;
       {site.email}
       <Arrow diagonal />
     </a>
-    <p class="muted">{!contact.endpoint && contact.unconfigured}</p>
   </div>
   <div class="contact-panel">
-    {contact.endpoint ? (
-      <form method="POST" action={contact.endpoint}>
-        <label>
-          {contact.name}
-          <input type="text" name="name" autocomplete="name" required />
-        </label>
-        <label>
-          {contact.email}
-          <input type="email" name="email" autocomplete="email" required />
-        </label>
-        <label>
-          {contact.message}
-          <textarea name="message" rows="5" required />
-        </label>
-        <p class="muted">{contact.privacy}</p>
-        <button class="button" type="submit">
-          {contact.submit}
-          <Arrow />
-        </button>
-      </form>
-    ) : (
-      <>
-        <p class="eyebrow">{site.labels.connect}</p>
-        <a class="button" href={`mailto:${site.email}`}>
-          {contact.emailAction}
-          <Arrow diagonal />
-        </a>
-        <p class="todo-copy">{contact.todo}</p>
-      </>
-    )}
+    <form id="contact-form" action={contact.endpoint} method="get">
+      <label>
+        {contact.name}
+        <input type="text" name="name" autocomplete="name" required />
+      </label>
+      <label>
+        {contact.email}
+        <input type="email" name="email" autocomplete="email" required />
+      </label>
+      <label>
+        {contact.message}
+        <textarea name="message" rows="5" required></textarea>
+      </label>
+      <p class="muted">{contact.privacy}</p>
+      <button class="button" type="submit">
+        {contact.submit}
+        <Arrow />
+      </button>
+    </form>
   </div>
 </section>
+
+<script define:vars={{ recipient: site.email, subject: contact.subject }}>
+  document
+    .querySelector("#contact-form")
+    ?.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const form = event.currentTarget;
+      if (!(form instanceof HTMLFormElement) || !form.reportValidity()) return;
+      const data = new FormData(form);
+      const name = String(data.get("name") || "");
+      const sender = String(data.get("email") || "");
+      const message = String(data.get("message") || "");
+      const body = `${message}\n\nFrom: ${name}\nReply to: ${sender}`;
+      window.location.href = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    });
+</script>

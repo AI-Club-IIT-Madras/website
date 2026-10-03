@@ -64,3 +64,33 @@ test("unverified source content remains explicit instead of invented", async () 
   assert.equal(announcements.upcomingEvent.status, "placeholder");
   assert.ok(blogs.some((blog) => blog.todo?.length));
 });
+
+test("homepage and project partners use their verified source sets", async () => {
+  const partners = await load("partners");
+
+  assert.deepEqual(
+    partners.home.map((partner) => partner.name),
+    [
+      "Jane Street",
+      "GeeksforGeeks",
+      "Appian",
+      "Databricks",
+      "Qdrant",
+      "Mindsight Analytics",
+    ],
+  );
+  assert.deepEqual(
+    partners.projects.map((partner) => partner.name),
+    ["KLA and CΦ", "Shaastra", "LC-Lab", "gradCapital", "Exception Raised"],
+  );
+});
+
+test("projects without public detail pages omit the project-link placeholder", async () => {
+  const projects = await load("projects");
+  const withoutLinks = projects.filter((project) =>
+    ["deep-recall", "speechseek"].includes(project.id),
+  );
+
+  assert.equal(withoutLinks.length, 2);
+  assert.ok(withoutLinks.every((project) => project.showProjectLink === false));
+});

@@ -11,11 +11,13 @@ const active = (href: string) =>
 <header class="site-header">
   <div class="shell header-inner">
     <a href={localUrl("/")} class="brand" aria-label={site.name}>
-      <img src={localUrl(site.logo)} width="40" height="40" alt="" />
-      <span>
-        {site.shortName}
-        <small>{site.institution}</small>
-      </span>
+      <img
+        class="brand-logo"
+        src={localUrl(site.logo)}
+        width="176"
+        height="100"
+        alt=""
+      />
     </a>
     <button
       id="menu-toggle"

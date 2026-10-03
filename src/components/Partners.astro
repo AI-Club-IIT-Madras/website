@@ -2,22 +2,54 @@
 import partners from "../data/partners.json";
 import site from "../data/site.json";
 import { localUrl } from "../lib/urls";
+interface Props {
+  variant?: "home" | "projects";
+}
+const { variant = "home" } = Astro.props;
+const entries = partners[variant];
+const heading =
+  variant === "home" ? site.labels.partners : site.labels.supporters;
 ---
 
-<section class="section shell partners">
-  <h2 class="section-title">{site.labels.partners}</h2>
-  <ul class="partner-grid">
-    {partners.map((partner) => (
-      <li>
-        <img
-          src={localUrl(partner.image)}
-          width="220"
-          height="70"
-          alt={partner.name}
-          loading="lazy"
-          decoding="async"
-        />
-      </li>
-    ))}
-  </ul>
+<section class:list={["section partners", `partners-${variant}`]}>
+  <div class="shell">
+    <h2 class="section-title">{heading}</h2>
+  </div>
+  {variant === "home" ? (
+    <div class="partner-marquee" aria-label={heading}>
+      <div class="partner-track">
+        {[false, true].map((duplicate) => (
+          <ul class="partner-row" aria-hidden={duplicate ? "true" : undefined}>
+            {entries.map((partner) => (
+              <li>
+                <img
+                  src={localUrl(partner.image)}
+                  width="220"
+                  height="70"
+                  alt={duplicate ? "" : partner.name}
+                  loading="lazy"
+                  decoding="async"
+                />
+              </li>
+            ))}
+          </ul>
+        ))}
+      </div>
+    </div>
+  ) : (
+    <ul class="partner-grid shell">
+      {entries.map((partner) => (
+        <li>
+          <img
+            src={localUrl(partner.image)}
+            width="220"
+            height="70"
+            alt={partner.name}
+            loading="lazy"
+            decoding="async"
+          />
+        </li>
+      ))}
+    </ul>
+  )}
 </section>

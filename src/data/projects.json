@@ -7,7 +7,8 @@
     "tags": ["Interpretability", "LLMs", "AI Safety"],
     "academicYear": "25-26",
     "image": "/images/agloUdk1E4YZuMpZ72CACXY6FXw.optimized.webp",
-    "url": null
+    "url": null,
+    "showProjectLink": true
   },
   {
     "id": "deep-recall",
@@ -17,7 +18,8 @@
     "tags": ["RAG", "Semantic Search", "OCR"],
     "academicYear": "25-26",
     "image": "/images/LSE53tHfo3ZG6skzcOtJVn3I2g.optimized.webp",
-    "url": null
+    "url": null,
+    "showProjectLink": false
   },
   {
     "id": "speechseek",
@@ -27,7 +29,8 @@
     "tags": ["Speech AI", "Diarization", "Indic Languages"],
     "academicYear": "25-26",
     "image": "/images/7NxYsOXgLokoIqD7LK7EuXuCurI.optimized.webp",
-    "url": null
+    "url": null,
+    "showProjectLink": false
   },
   {
     "id": "viveka-2",
@@ -37,7 +40,8 @@
     "tags": ["Interpretability", "Reasoning", "ARC AGI"],
     "academicYear": "26-27",
     "image": "/images/dno1lB58VOOXqwI2vGXBACQcIU.png",
-    "url": "https://viveka.aiclubcfi.com/viveka-2.html"
+    "url": "https://viveka.aiclubcfi.com/viveka-2.html",
+    "showProjectLink": true
   },
   {
     "id": "triton-cu",
@@ -47,7 +51,8 @@
     "tags": ["GPU Programming", "CUDA", "AI Agents"],
     "academicYear": "26-27",
     "image": "/images/6s64hSA6qNadTVIz3SgGY832A.optimized.webp",
-    "url": "/projects-26-27/triton-cu/"
+    "url": "/projects-26-27/triton-cu/",
+    "showProjectLink": true
   },
   {
     "id": "kathai",
@@ -57,6 +62,7 @@
     "tags": ["NLP", "Generative AI", "Indic Languages"],
     "academicYear": "26-27",
     "image": "/images/VwrULPMGEXgffppB866m5VGeeVs.png",
-    "url": "/projects-26-27/kathai/"
+    "url": "/projects-26-27/kathai/",
+    "showProjectLink": true
   }
 ]

@@ -9,8 +9,13 @@ import Arrow from "./Arrow.astro";
     <div class="footer-grid">
       <div class="footer-brand">
         <a class="brand" href={localUrl("/")}>
-          <img src={localUrl(site.logo)} width="48" height="48" alt="" />
-          <span>{site.name}</span>
+          <img
+            class="brand-logo footer-logo"
+            src={localUrl(site.logo)}
+            width="220"
+            height="125"
+            alt={site.name}
+          />
         </a>
         <p>{site.footerDescription}</p>
         <a class="text-link" href={`mailto:${site.email}`}>

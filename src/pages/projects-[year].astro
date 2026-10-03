@@ -26,5 +26,5 @@ const year = Astro.params.year!;
         ))}
     </div>
   </div>
-  <Partners />
+  {year === "26-27" && <Partners variant="projects" />}
 </Layout>

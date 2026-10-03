@@ -87,11 +87,11 @@ Edit `src/data/team.json` and add an item to `members`:
 alt text through the member's verified name. The desktop grid supports five members per
 row, with three on tablet and two on mobile.
 
-### Enable the contact form
+### Contact form
 
-The old Framer form had no verifiable delivery endpoint. Until one is supplied, the site
-shows a working email link. Add the approved static form endpoint to
-`site.json > contact.endpoint`; the existing form fields then render automatically.
+The contact form opens the visitor's email app with a draft addressed to
+`aiclubcfi@smail.iitm.ac.in`. Update `site.json > email` and `site.json > contact.endpoint`
+together if the club address changes.
 
 ## GitHub Pages deployment
 
@@ -113,7 +113,6 @@ The first deployment still requires the repository owner to enable Pages and con
 - Some Medium pages could not be read reliably. Their missing descriptions and reading times
   remain explicit TODOs in `src/data/blogs.json`.
 - The newest CartPole article has no destination URL on the source site.
-- The contact form needs an approved form endpoint.
 - The 2026–27 upcoming event and event archive await confirmed content.
 
 See `docs/inventory.md` for the full source-page, interaction, token, and defect inventory.

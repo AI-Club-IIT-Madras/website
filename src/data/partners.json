@@ -1,26 +1,50 @@
-[
-  {
-    "name": "Jane Street",
-    "image": "/images/tTDEO2u82oRfqDwt89SktTbG70.png"
-  },
-  {
-    "name": "GeeksforGeeks",
-    "image": "/images/DfnIQNS5NDSyUidAk5JuV6GcG0.png"
-  },
-  {
-    "name": "Appian",
-    "image": "/images/u1JtqwQczYycOCBc0iTGRq1TnI.png"
-  },
-  {
-    "name": "Databricks",
-    "image": "/images/JP6DbFHnl6P0PGyM2BYyJZVwJbg.png"
-  },
-  {
-    "name": "Qdrant",
-    "image": "/images/BaHNV9GnuNXDLtRclISw1PAyPyY.png"
-  },
-  {
-    "name": "Mindsight Analytics",
-    "image": "/images/QlySZHyg1o25e1DzqBu4fQr194.png"
-  }
-]
+{
+  "home": [
+    {
+      "name": "Jane Street",
+      "image": "/images/tTDEO2u82oRfqDwt89SktTbG70.png"
+    },
+    {
+      "name": "GeeksforGeeks",
+      "image": "/images/DfnIQNS5NDSyUidAk5JuV6GcG0.png"
+    },
+    {
+      "name": "Appian",
+      "image": "/images/u1JtqwQczYycOCBc0iTGRq1TnI.png"
+    },
+    {
+      "name": "Databricks",
+      "image": "/images/JP6DbFHnl6P0PGyM2BYyJZVwJbg.png"
+    },
+    {
+      "name": "Qdrant",
+      "image": "/images/BaHNV9GnuNXDLtRclISw1PAyPyY.png"
+    },
+    {
+      "name": "Mindsight Analytics",
+      "image": "/images/QlySZHyg1o25e1DzqBu4fQr194.png"
+    }
+  ],
+  "projects": [
+    {
+      "name": "KLA and CΦ",
+      "image": "/images/suFonsTFn7NjmUijRKnBtpQDg.png"
+    },
+    {
+      "name": "Shaastra",
+      "image": "/images/QeZOqmhEmxK1wSmxl6dbdBJC8A.png"
+    },
+    {
+      "name": "LC-Lab",
+      "image": "/images/CPGE1YxEMRPVCI1jopZKxEEkVE.png"
+    },
+    {
+      "name": "gradCapital",
+      "image": "/images/FAfYybm9TmdYEIkggqF40ZHZt8Q.png"
+    },
+    {
+      "name": "Exception Raised",
+      "image": "/images/bvuMF7GoSFcbmPdKGGCfmiO3Qc0.png"
+    }
+  ]
+}
