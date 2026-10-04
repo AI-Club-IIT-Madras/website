@@ -45,7 +45,7 @@
       "href": "/achievements/"
     },
     {
-      "label": "Blog",
+      "label": "Blogs",
       "href": "/blog/"
     },
     {
@@ -82,7 +82,6 @@
   "labels": {
     "events": "Events",
     "blogs": "Blogs",
-    "blog": "Blog",
     "projects": "Projects",
     "team": "Team",
     "achievements": "Achievements",

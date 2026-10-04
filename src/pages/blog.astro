@@ -8,8 +8,8 @@ import { groupByYear } from "../lib/content.mjs";
 const groups = groupByYear(blogs);
 ---
 
-<Layout title={site.labels.blog} description={site.blogIntroduction}>
-  <PageHeading title={site.labels.blog} subtitle={site.blogIntroduction}>
+<Layout title={site.labels.blogs} description={site.blogIntroduction}>
+  <PageHeading title={site.labels.blogs} subtitle={site.blogIntroduction}>
     <nav class="year-nav" aria-label="Blog year">
       {groups.map((group) => (
         <a href={`#year-${group.year}`}>{group.year}</a>
