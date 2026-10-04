@@ -35,15 +35,6 @@ const resourceLinks =
     </div>
   )}
   <div class="event-content">
-    <p class="card-meta">
-      {event.date ? (
-        <time datetime={event.date}>{event.displayDate}</time>
-      ) : (
-        <span>{event.displayDate}</span>
-      )}
-      {event.displayTime && <span>{event.displayTime}</span>}
-      {event.location && <span>{event.location}</span>}
-    </p>
     <h3>{compact ? <a href={href}>{event.title}</a> : event.title}</h3>
     <p class:list={["event-description", { "line-clamp-3": compact }]}>
       {event.description}
@@ -85,5 +76,29 @@ const resourceLinks =
         </a>
       )
     )}
+    <dl class="event-meta" aria-label="Event details">
+      <div class="event-meta-item">
+        <dt>{site.labels.date}</dt>
+        <dd>
+          {event.date ? (
+            <time datetime={event.date}>{event.displayDate}</time>
+          ) : (
+            <span>{event.displayDate}</span>
+          )}
+        </dd>
+      </div>
+      {event.displayTime && (
+        <div class="event-meta-item">
+          <dt>{site.labels.time}</dt>
+          <dd>{event.displayTime}</dd>
+        </div>
+      )}
+      {event.location && (
+        <div class="event-meta-item event-meta-venue">
+          <dt>{site.labels.venue}</dt>
+          <dd>{event.location}</dd>
+        </div>
+      )}
+    </dl>
   </div>
 </article>

@@ -373,9 +373,12 @@
   }
   .event-content {
     padding: 32px;
+    display: flex;
+    min-width: 0;
+    flex-direction: column;
   }
   .event-content h3 {
-    margin-block: 12px 18px;
+    margin-block: 0 18px;
   }
   .event-description {
     color: #b8b8b8;
@@ -384,8 +387,6 @@
   .compact .event-content {
     padding: 26px;
     flex-grow: 1;
-    display: flex;
-    flex-direction: column;
   }
   .compact .event-content h3 {
     font-size: 25px;
@@ -394,7 +395,41 @@
     font-size: 14px;
   }
   .compact .text-link {
-    margin-top: auto;
+    margin-bottom: 0;
+  }
+  .event-meta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 18px 28px;
+    width: 100%;
+    margin: auto 0 0;
+    padding-top: 28px;
+    border-top: 1px solid #ffffff14;
+    text-align: right;
+  }
+  .event-meta-item {
+    min-width: 92px;
+  }
+  .event-meta dt {
+    margin-bottom: 6px;
+    color: #747474;
+    font:
+      600 9px/1.2 Inter,
+      sans-serif;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+  .event-meta dd {
+    margin: 0;
+    color: #d6d6d6;
+    font:
+      500 14px/1.35 "Instrument Sans",
+      sans-serif;
+    letter-spacing: -0.01em;
+  }
+  .event-meta-venue dd {
+    color: #fff;
   }
   .legacy-anchor {
     position: absolute;
