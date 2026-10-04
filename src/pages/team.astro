@@ -49,6 +49,9 @@ const cores = team.members.filter(
   (member) =>
     member.group === "hackathon-core" && member.role === "Hackathon Core",
 );
+const previousLeads = team.members.filter(
+  (member) => member.group === "previous-leads",
+);
 const projectTeamLinks = [
   {
     label: "Viveka 2.0",
@@ -80,6 +83,11 @@ const sections = [
     members: cores,
     link: "/team/coordinators/#hackathon-coordinators",
   },
+  {
+    id: "previous-leads",
+    label: "Previous Team Leads",
+    members: previousLeads,
+  },
 ];
 ---
 
@@ -90,10 +98,12 @@ const sections = [
       <section class="team-section" id={`team-${section.id}`}>
         <div class="team-section-heading">
           <h2>{section.label}</h2>
-          <a class="text-link" href={localUrl(section.link)}>
-            Meet our coordinators
-            <Arrow />
-          </a>
+          {section.link && (
+            <a class="text-link" href={localUrl(section.link)}>
+              Meet our coordinators
+              <Arrow />
+            </a>
+          )}
         </div>
         <TeamGrid members={section.members} />
         {section.id === "leads" && (

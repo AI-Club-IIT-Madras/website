@@ -12,6 +12,11 @@
       "page": "core"
     },
     {
+      "id": "previous-leads",
+      "label": "Previous Team Leads",
+      "page": "core"
+    },
+    {
       "id": "viveka-2",
       "label": "Project Viveka 2.0",
       "page": "project"
@@ -354,6 +359,83 @@
       "role": "Club Coordinator",
       "group": "club-coordinators",
       "image": "/images/team/krish-shah.jpg"
+    },
+    {
+      "id": "sagar-previous-lead",
+      "name": "Sagar",
+      "role": "Team Lead",
+      "group": "previous-leads",
+      "image": "/images/team/sagar-previous.jpeg"
+    },
+    {
+      "id": "harshith-previous-lead",
+      "name": "Harshith",
+      "role": "Team Lead",
+      "group": "previous-leads",
+      "image": "/images/team/harshith-previous.jpeg"
+    },
+    {
+      "id": "aniruddh-previous-lead",
+      "name": "Aniruddh",
+      "role": "Team Lead",
+      "group": "previous-leads",
+      "image": "/images/team/aniruddh-previous.jpg"
+    },
+    {
+      "id": "shailesh-previous-lead",
+      "name": "Shailesh",
+      "role": "Team Lead, 2024-25",
+      "group": "previous-leads",
+      "image": "/images/team/shailesh-previous.webp"
+    },
+    {
+      "id": "jaanav-previous-lead",
+      "name": "Jaanav",
+      "role": "Team Lead, 2024-25",
+      "group": "previous-leads",
+      "image": "/images/team/jaanav-previous.png"
+    },
+    {
+      "id": "mahendra-previous-lead",
+      "name": "Mahendra",
+      "role": "Team Lead, 2024-25",
+      "group": "previous-leads",
+      "image": "/images/team/mahendra-previous.png"
+    },
+    {
+      "id": "srikar-babu-previous-lead",
+      "name": "Srikar Babu",
+      "role": "Team Lead, 2023-24",
+      "group": "previous-leads",
+      "image": "/images/team/srikar-babu-previous.png"
+    },
+    {
+      "id": "karthick-krishna-previous-lead",
+      "name": "Karthick Krishna",
+      "role": "Team Lead, 2023-24",
+      "group": "previous-leads",
+      "image": "/images/team/karthick-krishna-previous.png"
+    },
+    {
+      "id": "ruthwik-chivukula-previous-lead",
+      "name": "Ruthwik Chivukula",
+      "role": "Team Lead, 2023-24",
+      "group": "previous-leads",
+      "image": "/images/team/ruthwik-chivukula-previous.png"
+    },
+    {
+      "id": "abhiram-previous-lead",
+      "name": "Abhiram",
+      "role": "Team Lead, 2022-23",
+      "group": "previous-leads",
+      "image": "/images/team/abhiram-previous.png"
+    },
+    {
+      "id": "archish-previous-lead",
+      "name": "Archish",
+      "role": "Team Lead, 2022-23",
+      "group": "previous-leads",
+      "image": "/images/team/archish-previous.png"
     }
   ]
 }
