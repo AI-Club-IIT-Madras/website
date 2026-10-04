@@ -6,7 +6,25 @@ import team from "../../data/team.json";
 import Layout from "../../layouts/Layout.astro";
 import { localUrl } from "../../lib/urls";
 
-const groups = team.groups.filter((group) => group.page === "coordinators");
+const sections = [
+  {
+    id: "club-coordinators",
+    label: "Club Coordinators",
+    members: [
+      ...team.members.filter((member) => member.group === "club-coordinators"),
+      ...team.members.filter(
+        (member) => member.role === "Project Member & Coordinator",
+      ),
+    ],
+  },
+  {
+    id: "hackathon-coordinators",
+    label: "Hackathon Coordinators",
+    members: team.members.filter(
+      (member) => member.group === "hackathon-coordinators",
+    ),
+  },
+];
 ---
 
 <Layout title="Coordinators">
@@ -18,19 +36,13 @@ const groups = team.groups.filter((group) => group.page === "coordinators");
     </div>
   </PageHeading>
   <div class="shell team-directory">
-    {groups.map((group) => {
-      const members = team.members.filter(
-        (member) => member.group === group.id,
-      );
-
-      return (
-        <section class="team-section" id={group.id}>
-          <div class="team-section-heading">
-            <h2>{group.label}</h2>
-          </div>
-          <TeamGrid members={members} />
-        </section>
-      );
-    })}
+    {sections.map((section) => (
+      <section class="team-section" id={section.id}>
+        <div class="team-section-heading">
+          <h2>{section.label}</h2>
+        </div>
+        <TeamGrid members={section.members} />
+      </section>
+    ))}
   </div>
 </Layout>

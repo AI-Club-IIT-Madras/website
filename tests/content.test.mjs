@@ -92,8 +92,14 @@ test("team data separates core, coordinators, and project rosters", async () => 
   assert.equal(count("viveka-2"), 11);
   assert.equal(count("triton-cu"), 11);
   assert.equal(count("kathai"), 9);
+  const clubCoordinators = team.members.filter(
+    (member) =>
+      member.group === "club-coordinators" ||
+      member.role === "Project Member & Coordinator",
+  );
+  assert.equal(clubCoordinators.length, 13);
   assert.deepEqual(
-    team.members
+    clubCoordinators
       .filter((member) => member.group === "club-coordinators")
       .map((member) => member.name),
     ["Madhura Gurav", "Krish Shah"],

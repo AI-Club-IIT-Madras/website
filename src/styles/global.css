@@ -912,12 +912,18 @@
   }
   .team-section-heading::after {
     content: "";
+    order: 2;
     height: 1px;
     flex: 1;
     background: var(--border);
   }
   .team-section-heading h2 {
     font-size: clamp(27px, 3vw, 38px);
+  }
+  .team-section-heading > .text-link {
+    order: 3;
+    margin-left: auto;
+    white-space: nowrap;
   }
   .team-section-heading span {
     color: var(--muted);
@@ -1287,6 +1293,9 @@
   .team-section-heading h2 {
     flex-basis: 100%;
     font-size: 26px;
+  }
+  .team-section-heading::after {
+    display: none;
   }
   .team-section-heading span {
     display: none;

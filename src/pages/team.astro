@@ -19,6 +19,12 @@ const sections = [
     link: "/team/coordinators/#club-coordinators",
     linkLabel: "Meet our coordinators",
   },
+  {
+    id: "hackathon-core",
+    label: "Hackathon Leads & Core",
+    link: "/team/coordinators/#hackathon-coordinators",
+    linkLabel: "Meet our coordinators",
+  },
   ...team.groups
     .filter((group) => group.page === "project")
     .map((group) => ({
@@ -28,12 +34,6 @@ const sections = [
       linkLabel: "Meet the project team",
       role: "Project Lead",
     })),
-  {
-    id: "hackathon-core",
-    label: "Hackathon Leads & Core",
-    link: "/team/coordinators/#hackathon-coordinators",
-    linkLabel: "Meet our coordinators",
-  },
 ];
 ---
 
