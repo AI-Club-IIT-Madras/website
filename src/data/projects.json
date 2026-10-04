@@ -1,13 +1,13 @@
 [
   {
     "id": "viveka",
-    "title": "Viveka",
+    "title": "Viveka 1.0",
     "subtitle": "Reducing hallucinations in LLMs through mechanistic interpretability",
     "description": "Addressing hallucinations in large language models through mechanistic interpretability — dissecting neural network internals to uncover why models produce factually incorrect outputs. Awarded grants from VCs and ExceptionRaised.",
     "tags": ["Interpretability", "LLMs", "AI Safety"],
     "academicYear": "25-26",
     "image": "/images/agloUdk1E4YZuMpZ72CACXY6FXw.optimized.webp",
-    "url": null,
+    "url": "https://viveka.aiclubcfi.com/viveka-1.html",
     "showProjectLink": true
   },
   {

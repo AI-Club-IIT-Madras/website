@@ -52,15 +52,18 @@ const cores = team.members.filter(
 const projectTeamLinks = [
   {
     label: "Viveka 2.0",
-    href: "/projects-26-27/viveka-2/#team",
+    href: "https://viveka.aiclubcfi.com/team.html#v2",
+    external: true,
   },
   {
     label: "triton::cu",
     href: "/projects-26-27/triton-cu/#team",
+    external: false,
   },
   {
     label: "KathAI",
     href: "/projects-26-27/kathai/#team",
+    external: false,
   },
 ];
 
@@ -98,9 +101,14 @@ const sections = [
             <span>Meet our project members</span>
             <div>
               {projectTeamLinks.map((project) => (
-                <a class="text-link" href={localUrl(project.href)}>
+                <a
+                  class="text-link"
+                  href={localUrl(project.href)}
+                  target={project.external ? "_blank" : undefined}
+                  rel={project.external ? "noopener noreferrer" : undefined}
+                >
                   {project.label}
-                  <Arrow />
+                  <Arrow diagonal={project.external} />
                 </a>
               ))}
             </div>

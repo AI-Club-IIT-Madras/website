@@ -176,6 +176,22 @@ test("homepage marquee includes every verified project partner once", async () =
   );
 });
 
+test("Viveka project cards use the dedicated project websites", async () => {
+  const projects = await load("projects");
+  const vivekaOne = projects.find((project) => project.id === "viveka");
+  const vivekaTwo = projects.find((project) => project.id === "viveka-2");
+
+  assert.equal(vivekaOne?.title, "Viveka 1.0");
+  assert.equal(
+    vivekaOne?.url,
+    "https://viveka.aiclubcfi.com/viveka-1.html",
+  );
+  assert.equal(
+    vivekaTwo?.url,
+    "https://viveka.aiclubcfi.com/viveka-2.html",
+  );
+});
+
 test("projects without public detail pages omit the project-link placeholder", async () => {
   const projects = await load("projects");
   const withoutLinks = projects.filter((project) =>
