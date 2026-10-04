@@ -76,6 +76,17 @@
     width: min(100% - 80px, 1440px);
     margin-inline: auto;
   }
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
   .section {
     padding-block: 72px;
   }
@@ -884,26 +895,99 @@
   .hackathon-result.bronze {
     color: #cd7f32;
   }
+  .team-directory {
+    padding-bottom: 96px;
+  }
+  .team-section {
+    margin-bottom: 76px;
+  }
+  .team-section:last-child {
+    margin-bottom: 0;
+  }
+  .team-section-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 18px;
+    margin-bottom: 28px;
+  }
+  .team-section-heading::after {
+    content: "";
+    height: 1px;
+    flex: 1;
+    background: var(--border);
+  }
+  .team-section-heading h2 {
+    font-size: clamp(27px, 3vw, 38px);
+  }
+  .team-section-heading span {
+    color: var(--muted);
+    font:
+      11px/1.4 Inter,
+      sans-serif;
+    white-space: nowrap;
+  }
   .team-grid {
-    display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px 20px;
   }
   .member-card {
-    padding: 16px;
+    flex: 0 1 calc((100% - 80px) / 5);
+    min-width: 0;
+    padding: 10px;
+    overflow: hidden;
+    background: linear-gradient(160deg, #151515e8, #080808e8);
   }
-  .member-card img {
+  .member-photo {
     width: 100%;
-    aspect-ratio: 1;
+    aspect-ratio: 4 / 5;
+    overflow: hidden;
+    border-radius: 13px;
+    background: #0a0a0a;
+  }
+  .member-photo img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    border-radius: 10px;
-    margin-bottom: 18px;
+    object-position: center 28%;
+    transition: transform 320ms ease;
+  }
+  .member-card:hover .member-photo img {
+    transform: scale(1.025);
+  }
+  .member-photo-placeholder {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    background:
+      radial-gradient(circle at 50% 30%, #ffffff16, transparent 42%), #0a0a0a;
+    color: #777;
+  }
+  .member-photo-placeholder span {
+    font:
+      500 clamp(48px, 6vw, 82px) "Instrument Sans",
+      sans-serif;
+  }
+  .member-card-copy {
+    min-height: 86px;
+    padding: 16px 8px 9px;
   }
   .member-card h3 {
-    font-size: 21px;
+    font-size: clamp(18px, 1.6vw, 22px);
+  }
+  .member-card h3 a {
+    transition: color 180ms ease;
+  }
+  .member-card h3 a:hover {
+    color: #c9c9c9;
   }
   .member-card p {
-    font-size: 12px;
+    margin-top: 5px;
+    font:
+      12px/1.45 Inter,
+      sans-serif;
     color: #aaa;
   }
   .team-empty {
@@ -1010,6 +1094,9 @@
   .team-grid,
   .team-placeholder-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+  .member-card {
+    flex-basis: calc((100% - 60px) / 4);
   }
 }
 @media (max-width: 809.98px) {
@@ -1185,6 +1272,25 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 14px;
   }
+  .member-card {
+    flex-basis: calc((100% - 14px) / 2);
+  }
+  .team-section {
+    margin-bottom: 52px;
+  }
+  .team-section-heading {
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    margin-bottom: 20px;
+  }
+  .team-section-heading h2 {
+    flex-basis: 100%;
+    font-size: 26px;
+  }
+  .team-section-heading span {
+    display: none;
+  }
   .team-placeholder-grid .member-skeleton:last-child {
     display: none;
   }
@@ -1236,6 +1342,9 @@
   .team-grid,
   .team-placeholder-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .member-card {
+    flex-basis: calc((100% - 28px) / 3);
   }
 }
 @keyframes partner-scroll {

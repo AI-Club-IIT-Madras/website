@@ -1,35 +1,415 @@
 {
-  "years": ["26-27", "25-26"],
-  "members": [],
+  "source": "https://aiclubcfi.com/team",
   "groups": [
     {
       "id": "club",
-      "label": "AI Club"
+      "label": "Team Leads & Strategists",
+      "page": "core"
+    },
+    {
+      "id": "hackathon-core",
+      "label": "Hackathon Leads & Core",
+      "page": "core"
     },
     {
       "id": "viveka-2",
-      "label": "Viveka 2.0"
+      "label": "Project Viveka 2.0",
+      "page": "project"
     },
     {
       "id": "triton-cu",
-      "label": "triton::cu"
+      "label": "Project triton::cu",
+      "page": "project"
     },
     {
       "id": "kathai",
-      "label": "KathAI"
+      "label": "Project KathAI",
+      "page": "project"
     },
     {
-      "id": "viveka",
-      "label": "Viveka"
+      "id": "club-coordinators",
+      "label": "Club Coordinators",
+      "page": "coordinators"
     },
     {
-      "id": "deep-recall",
-      "label": "Deep Recall"
-    },
-    {
-      "id": "speechseek",
-      "label": "SpeechSeek"
+      "id": "hackathon-coordinators",
+      "label": "Hackathon Coordinators",
+      "page": "coordinators"
     }
   ],
-  "todo": "The source /team page returns 404. Names, roles, photos and profile links must be supplied or verified before publication."
+  "members": [
+    {
+      "id": "pakshal-team-lead",
+      "name": "Pakshal",
+      "role": "Team Lead",
+      "group": "club",
+      "image": "/images/team/pakshal.jpg",
+      "url": "https://www.linkedin.com/in/pakshal-nagda-34b659341"
+    },
+    {
+      "id": "vaishali-team-lead",
+      "name": "Vaishali",
+      "role": "Team Lead",
+      "group": "club",
+      "image": "/images/team/vaishali.jpeg",
+      "url": "https://in.linkedin.com/in/vaishali-rambabu-b9bb61340"
+    },
+    {
+      "id": "smitali-strategist",
+      "name": "Smitali",
+      "role": "Strategist",
+      "group": "club",
+      "image": "/images/team/smitali.jpeg",
+      "url": "https://www.linkedin.com/in/smitali-bhandari"
+    },
+    {
+      "id": "saahil-strategist",
+      "name": "Saahil",
+      "role": "Strategist",
+      "group": "club",
+      "image": "/images/team/saahil.jpg",
+      "url": "https://www.linkedin.com/in/saahil-faraaz-shaikh-9b6713357"
+    },
+    {
+      "id": "venkatesh-strategist",
+      "name": "Venkatesh",
+      "role": "Strategist",
+      "group": "club",
+      "image": "/images/team/venkatesh.jpg",
+      "url": "https://www.linkedin.com/in/k-venkatesh-184737336/"
+    },
+    {
+      "id": "arsh-hackathon",
+      "name": "Arsh",
+      "role": "Hackathon Lead",
+      "group": "hackathon-core",
+      "image": "/images/team/arsh.jpg",
+      "url": "https://www.linkedin.com/in/arsh-mathur-20b804224"
+    },
+    {
+      "id": "sharan-hackathon",
+      "name": "Sharan",
+      "role": "Hackathon Lead",
+      "group": "hackathon-core",
+      "image": "/images/team/sharan.jpg",
+      "url": "https://www.linkedin.com/in/sharank7"
+    },
+    {
+      "id": "aseel-hackathon",
+      "name": "Aseel",
+      "role": "Hackathon Core",
+      "group": "hackathon-core",
+      "image": "/images/team/aseel.png",
+      "url": "https://www.linkedin.com/in/mohd-aseel/"
+    },
+    {
+      "id": "lokesh-hackathon",
+      "name": "Lokesh",
+      "role": "Hackathon Core",
+      "group": "hackathon-core",
+      "image": "/images/team/lokesh.png",
+      "url": "https://www.linkedin.com/in/lokeshkinnarkar/"
+    },
+    {
+      "id": "sudharshan-hackathon",
+      "name": "Sudharshan",
+      "role": "Hackathon Core",
+      "group": "hackathon-core",
+      "image": "/images/team/sudharshan.jpg",
+      "url": "https://www.linkedin.com/in/sudharshan-suresh-bb296a318/"
+    },
+    {
+      "id": "vibhu-hackathon",
+      "name": "Vibhu",
+      "role": "Hackathon Core",
+      "group": "hackathon-core",
+      "image": "/images/team/vibhu.png",
+      "url": "https://www.linkedin.com/in/vibhu-mehrotra-207620320/"
+    },
+    {
+      "id": "vishal-hackathon",
+      "name": "Vishal",
+      "role": "Hackathon Coordinator",
+      "group": "hackathon-coordinators",
+      "image": "/images/team/vishal.png",
+      "url": "https://www.linkedin.com/in/vishal-rajamanickam-560769374"
+    },
+    {
+      "id": "abhinav-hackathon",
+      "name": "Abhinav",
+      "role": "Hackathon Coordinator",
+      "group": "hackathon-coordinators",
+      "image": "/images/team/abhinav.png"
+    },
+    {
+      "id": "bhavana-hackathon",
+      "name": "Bhavana",
+      "role": "Hackathon Coordinator",
+      "group": "hackathon-coordinators",
+      "image": "/images/team/bhavana.png",
+      "url": "https://www.linkedin.com/in/bhavana-b-1a699138a/"
+    },
+    {
+      "id": "mahir-hackathon",
+      "name": "Mahir",
+      "role": "Hackathon Coordinator",
+      "group": "hackathon-coordinators",
+      "image": "/images/team/mahir.jpeg",
+      "url": "https://in.linkedin.com/in/mahir-ali-23163533b"
+    },
+    {
+      "id": "smitali-viveka-2",
+      "name": "Smitali",
+      "role": "Project Lead",
+      "group": "viveka-2",
+      "image": "/images/team/smitali.jpeg",
+      "url": "https://www.linkedin.com/in/smitali-bhandari"
+    },
+    {
+      "id": "saahil-viveka-2",
+      "name": "Saahil",
+      "role": "Project Lead",
+      "group": "viveka-2",
+      "image": "/images/team/saahil.jpg",
+      "url": "https://www.linkedin.com/in/saahil-faraaz-shaikh-9b6713357"
+    },
+    {
+      "id": "pakshal-viveka-2",
+      "name": "Pakshal",
+      "role": "Project Lead",
+      "group": "viveka-2",
+      "image": "/images/team/pakshal.jpg",
+      "url": "https://www.linkedin.com/in/pakshal-nagda-34b659341"
+    },
+    {
+      "id": "varnita-viveka-2",
+      "name": "Varnita",
+      "role": "Project Member & Coordinator",
+      "group": "viveka-2",
+      "image": "/images/team/varnita.jpeg"
+    },
+    {
+      "id": "rishi-viveka-2",
+      "name": "Rishi",
+      "role": "Project Member & Coordinator",
+      "group": "viveka-2",
+      "image": "/images/team/rishi.png",
+      "url": "https://www.linkedin.com/in/rishi-sujith-922554377"
+    },
+    {
+      "id": "shloka-viveka-2",
+      "name": "Shloka",
+      "role": "Project Member & Coordinator",
+      "group": "viveka-2",
+      "image": "/images/team/shloka.png",
+      "url": "https://www.linkedin.com/in/shloka-tomar-64b5a2321"
+    },
+    {
+      "id": "hriday-viveka-2",
+      "name": "Hriday",
+      "role": "Project Member & Coordinator",
+      "group": "viveka-2",
+      "image": "/images/team/hriday.png",
+      "url": "https://www.linkedin.com/in/hriday-pichholiya-5653b9395"
+    },
+    {
+      "id": "bhavana-viveka-2",
+      "name": "Bhavana",
+      "role": "Project Member & Coordinator",
+      "group": "viveka-2",
+      "image": "/images/team/bhavana.png",
+      "url": "https://www.linkedin.com/in/bhavana-b-1a699138a/"
+    },
+    {
+      "id": "lokajit-viveka-2",
+      "name": "Lokajit",
+      "role": "Project Member",
+      "group": "viveka-2",
+      "image": "/images/team/lokajit.png",
+      "url": "https://www.linkedin.com/in/lokajit-prabhakar-b17185427/"
+    },
+    {
+      "id": "rohan-viveka-2",
+      "name": "Rohan",
+      "role": "Project Member",
+      "group": "viveka-2",
+      "image": null
+    },
+    {
+      "id": "sanjana-viveka-2",
+      "name": "Sanjana Kannan",
+      "role": "Project Member",
+      "group": "viveka-2",
+      "image": "/images/team/sanjana.png"
+    },
+    {
+      "id": "vaishali-triton-cu",
+      "name": "Vaishali",
+      "role": "Project Lead",
+      "group": "triton-cu",
+      "image": "/images/team/vaishali.jpeg",
+      "url": "https://in.linkedin.com/in/vaishali-rambabu-b9bb61340"
+    },
+    {
+      "id": "kirthan-triton-cu",
+      "name": "Kirthan",
+      "role": "Project Lead",
+      "group": "triton-cu",
+      "image": "/images/team/kirthan.png"
+    },
+    {
+      "id": "ajay-triton-cu",
+      "name": "Ajay",
+      "role": "Project Member",
+      "group": "triton-cu",
+      "image": "/images/team/ajay.png",
+      "url": "https://www.linkedin.com/in/ajay-venkat-78999a395/"
+    },
+    {
+      "id": "pranauv-triton-cu",
+      "name": "Pranauv",
+      "role": "Project Member & Coordinator",
+      "group": "triton-cu",
+      "image": "/images/team/pranauv.png"
+    },
+    {
+      "id": "rithvik-triton-cu",
+      "name": "Rithvik",
+      "role": "Project Member & Coordinator",
+      "group": "triton-cu",
+      "image": "/images/team/rithvik.png"
+    },
+    {
+      "id": "mukunthan-triton-cu",
+      "name": "Mukunthan",
+      "role": "Project Member",
+      "group": "triton-cu",
+      "image": "/images/team/mukunthan.png"
+    },
+    {
+      "id": "pradish-triton-cu",
+      "name": "Pradish",
+      "role": "Project Member",
+      "group": "triton-cu",
+      "image": "/images/team/pradish.png"
+    },
+    {
+      "id": "harish-triton-cu",
+      "name": "Harish",
+      "role": "Project Member",
+      "group": "triton-cu",
+      "image": "/images/team/harish.png",
+      "url": "https://www.linkedin.com/in/hmiitm13"
+    },
+    {
+      "id": "atharva-triton-cu",
+      "name": "Atharva",
+      "role": "Project Member & Coordinator",
+      "group": "triton-cu",
+      "image": "/images/team/atharva.png",
+      "url": "https://in.linkedin.com/in/atharva-sen-9a0390219"
+    },
+    {
+      "id": "aditi-triton-cu",
+      "name": "Aditi",
+      "role": "Project Member",
+      "group": "triton-cu",
+      "image": "/images/team/aditi.png",
+      "url": "https://www.linkedin.com/in/aditi-gopinathan"
+    },
+    {
+      "id": "kshitij-triton-cu",
+      "name": "Kshitij",
+      "role": "Project Member",
+      "group": "triton-cu",
+      "image": "/images/team/kshitij.png",
+      "url": "https://www.linkedin.com/in/kshitijsdeepak"
+    },
+    {
+      "id": "venkatesh-kathai",
+      "name": "Venkatesh",
+      "role": "Project Lead",
+      "group": "kathai",
+      "image": "/images/team/venkatesh.jpg",
+      "url": "https://www.linkedin.com/in/k-venkatesh-184737336/"
+    },
+    {
+      "id": "vibhu-kathai",
+      "name": "Vibhu",
+      "role": "Project Lead",
+      "group": "kathai",
+      "image": "/images/team/vibhu.png",
+      "url": "https://www.linkedin.com/in/vibhu-mehrotra-207620320/"
+    },
+    {
+      "id": "chinmay-kathai",
+      "name": "Chinmay",
+      "role": "Project Member",
+      "group": "kathai",
+      "image": "/images/team/chinmay.jpg",
+      "url": "https://www.linkedin.com/in/chinmay-chitnis-4903ba326"
+    },
+    {
+      "id": "lokesh-kathai",
+      "name": "Lokesh",
+      "role": "Project Member & Coordinator",
+      "group": "kathai",
+      "image": "/images/team/lokesh.png",
+      "url": "https://www.linkedin.com/in/lokeshkinnarkar"
+    },
+    {
+      "id": "kartthik-kathai",
+      "name": "Kartthik",
+      "role": "Project Member",
+      "group": "kathai",
+      "image": "/images/team/kartthik.jpeg",
+      "url": "https://www.linkedin.com/in/kartthik-munukutla-a8aa412a7"
+    },
+    {
+      "id": "rohan-kathai",
+      "name": "Rohan",
+      "role": "Project Member",
+      "group": "kathai",
+      "image": "/images/team/rohan.jpeg",
+      "url": "https://www.linkedin.com/in/rohan-sai-p-a78960309"
+    },
+    {
+      "id": "rishabh-kathai",
+      "name": "Rishabh",
+      "role": "Project Member",
+      "group": "kathai",
+      "image": "/images/team/rishabh.jpg",
+      "url": "https://www.linkedin.com/in/rishabh-singh-840172313"
+    },
+    {
+      "id": "sahithi-kathai",
+      "name": "Sahithi",
+      "role": "Project Member & Coordinator",
+      "group": "kathai",
+      "image": "/images/team/sahithi.jpeg",
+      "url": "https://www.linkedin.com/in/sahithi-macharapu-46b266344/"
+    },
+    {
+      "id": "anvay-kathai",
+      "name": "Anvay",
+      "role": "Project Member & Coordinator",
+      "group": "kathai",
+      "image": "/images/team/anvay.jpg",
+      "url": "https://www.linkedin.com/in/anvayjain"
+    },
+    {
+      "id": "madhura-club-coordinator",
+      "name": "Madhura Gurav",
+      "role": "Club Coordinator",
+      "group": "club-coordinators",
+      "image": "/images/team/madhura-gurav.jpg"
+    },
+    {
+      "id": "krish-club-coordinator",
+      "name": "Krish Shah",
+      "role": "Club Coordinator",
+      "group": "club-coordinators",
+      "image": "/images/team/krish-shah.jpg"
+    }
+  ]
 }

@@ -21,10 +21,7 @@ test("homepage content sorts newest published records first", async () => {
   const blogs = newestPublished(await load("blogs"));
 
   assert.equal(events[0].id, "epoch-2");
-  assert.equal(
-    blogs[0].id,
-    "is-the-latent-reasoning-entangled",
-  );
+  assert.equal(blogs[0].id, "is-the-latent-reasoning-entangled");
   assert.ok(
     events.every(
       (record, index) => index === 0 || events[index - 1].date >= record.date,
@@ -77,12 +74,35 @@ test("reading time uses verified minutes or word-count estimates", () => {
   assert.equal(readingMinutes({ readingMinutes: null, wordCount: null }), null);
 });
 
-test("remaining unverified source content stays explicit", async () => {
-  const team = await load("team");
+test("upcoming event remains an explicit placeholder", async () => {
   const announcements = await load("announcements");
 
-  assert.deepEqual(team.members, []);
   assert.equal(announcements.upcomingEvent.status, "placeholder");
+});
+
+test("team data separates core, coordinators, and project rosters", async () => {
+  const team = await load("team");
+  const count = (group) =>
+    team.members.filter((member) => member.group === group).length;
+
+  assert.equal(team.source, "https://aiclubcfi.com/team");
+  assert.equal(count("club"), 5);
+  assert.equal(count("hackathon-core"), 6);
+  assert.equal(count("hackathon-coordinators"), 4);
+  assert.equal(count("viveka-2"), 11);
+  assert.equal(count("triton-cu"), 11);
+  assert.equal(count("kathai"), 9);
+  assert.deepEqual(
+    team.members
+      .filter((member) => member.group === "club-coordinators")
+      .map((member) => member.name),
+    ["Madhura Gurav", "Krish Shah"],
+  );
+  assert.ok(
+    team.members.every((member) =>
+      team.groups.some((group) => group.id === member.group),
+    ),
+  );
 });
 
 test("homepage marquee includes every verified project partner once", async () => {

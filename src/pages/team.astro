@@ -1,86 +1,64 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import Arrow from "../components/Arrow.astro";
 import PageHeading from "../components/PageHeading.astro";
-import site from "../data/site.json";
+import TeamGrid from "../components/TeamGrid.astro";
+import Layout from "../layouts/Layout.astro";
 import team from "../data/team.json";
 import { localUrl } from "../lib/urls";
-interface Member {
-  id: string;
-  name: string;
-  role: string;
-  year: string;
-  group: string;
-  image: string;
-  url?: string;
-}
-const members = team.members as Member[];
+
+const projectRoutes = {
+  "viveka-2": "/projects-26-27/viveka-2/#team",
+  "triton-cu": "/projects-26-27/triton-cu/#team",
+  kathai: "/projects-26-27/kathai/#team",
+};
+
+const sections = [
+  {
+    id: "club",
+    label: "Team Leads & Strategists",
+    link: "/team/coordinators/#club-coordinators",
+    linkLabel: "Meet our coordinators",
+  },
+  ...team.groups
+    .filter((group) => group.page === "project")
+    .map((group) => ({
+      id: group.id,
+      label: `${group.label} Leads`,
+      link: projectRoutes[group.id as keyof typeof projectRoutes],
+      linkLabel: "Meet the project team",
+      role: "Project Lead",
+    })),
+  {
+    id: "hackathon-core",
+    label: "Hackathon Leads & Core",
+    link: "/team/coordinators/#hackathon-coordinators",
+    linkLabel: "Meet our coordinators",
+  },
+];
 ---
 
-<Layout title={site.labels.team}>
-  <PageHeading
-    title={site.labels.team}
-    subtitle={!members.length ? site.labels.emptyTeam : undefined}
-  />
-  <div class="shell archive-content">
-    {!members.length && (
-      <div class="team-placeholder-grid" aria-hidden="true">
-        {Array.from({ length: 5 }, () => (
-          <div class="member-skeleton">
-            <svg
-              viewBox="0 0 48 48"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="1"
-            >
-              <circle cx="24" cy="16" r="8" />
-              <path d="M8 43v-5a16 16 0 0 1 32 0v5" />
-            </svg>
+<Layout title="Meet the Team">
+  <PageHeading title="Meet the Team!" eyebrow="Core team" />
+  <div class="shell team-directory">
+    {sections.map((section) => {
+      const members = team.members.filter(
+        (member) =>
+          member.group === section.id &&
+          (!("role" in section) || member.role === section.role),
+      );
+
+      return (
+        <section class="team-section" id={`team-${section.id}`}>
+          <div class="team-section-heading">
+            <h2>{section.label}</h2>
+            <a class="text-link" href={localUrl(section.link)}>
+              {section.linkLabel}
+              <Arrow />
+            </a>
           </div>
-        ))}
-      </div>
-    )}
-    {team.groups.map((group) => (
-      <section class="year-section" id={`team-${group.id}`}>
-        <div class="year-heading">
-          <h2>{group.label}</h2>
-        </div>
-        {team.years.map((year) => {
-          const groupMembers = members.filter(
-            (member) => member.group === group.id && member.year === year,
-          );
-          return (
-            groupMembers.length > 0 && (
-              <div class="year-section">
-                <h3 class="eyebrow">20{year}</h3>
-                <div class="team-grid">
-                  {groupMembers.map((member) => (
-                    <article class="member-card card">
-                      <img
-                        src={localUrl(member.image)}
-                        width="240"
-                        height="240"
-                        alt={member.name}
-                        loading="lazy"
-                      />
-                      <h3>
-                        {member.url ? (
-                          <a href={member.url}>{member.name}</a>
-                        ) : (
-                          member.name
-                        )}
-                      </h3>
-                      <p>{member.role}</p>
-                    </article>
-                  ))}
-                </div>
-              </div>
-            )
-          );
-        })}
-        {!members.some((member) => member.group === group.id) && (
-          <p class="team-empty">{site.labels.emptyTeam}</p>
-        )}
-      </section>
-    ))}
+          <TeamGrid members={members} />
+        </section>
+      );
+    })}
   </div>
 </Layout>

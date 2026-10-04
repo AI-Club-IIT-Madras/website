@@ -1,0 +1,36 @@
+---
+import Arrow from "../../components/Arrow.astro";
+import PageHeading from "../../components/PageHeading.astro";
+import TeamGrid from "../../components/TeamGrid.astro";
+import team from "../../data/team.json";
+import Layout from "../../layouts/Layout.astro";
+import { localUrl } from "../../lib/urls";
+
+const groups = team.groups.filter((group) => group.page === "coordinators");
+---
+
+<Layout title="Coordinators">
+  <PageHeading title="Meet Our Coordinators">
+    <div class="year-nav">
+      <a href={localUrl("/team/")}>
+        Core team <Arrow />
+      </a>
+    </div>
+  </PageHeading>
+  <div class="shell team-directory">
+    {groups.map((group) => {
+      const members = team.members.filter(
+        (member) => member.group === group.id,
+      );
+
+      return (
+        <section class="team-section" id={group.id}>
+          <div class="team-section-heading">
+            <h2>{group.label}</h2>
+          </div>
+          <TeamGrid members={members} />
+        </section>
+      );
+    })}
+  </div>
+</Layout>

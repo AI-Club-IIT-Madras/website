@@ -1,0 +1,58 @@
+---
+import { localUrl } from "../lib/urls";
+
+interface Member {
+  id: string;
+  name: string;
+  role: string;
+  group: string;
+  image: string | null;
+  url?: string;
+}
+
+interface Props {
+  members: Member[];
+}
+
+const { members } = Astro.props;
+---
+
+<div class="team-grid">
+  {members.map((member) => (
+    <article class="member-card card">
+      <div class="member-photo">
+        {member.image ? (
+          <img
+            src={localUrl(member.image)}
+            width="480"
+            height="600"
+            alt={`${member.name}, ${member.role}`}
+            loading="lazy"
+            decoding="async"
+          />
+        ) : (
+          <div
+            class="member-photo-placeholder"
+            role="img"
+            aria-label={`Portrait unavailable for ${member.name}`}
+          >
+            <span>{member.name.slice(0, 1)}</span>
+          </div>
+        )}
+      </div>
+      <div class="member-card-copy">
+        <h3>
+          {member.url ? (
+            <a href={member.url} target="_blank" rel="noreferrer">
+              {member.name}
+              <span class="sr-only"> on LinkedIn</span>
+            </a>
+          ) : (
+            member.name
+          )}
+        </h3>
+        <p>{member.role}</p>
+      </div>
+    </article>
+  ))}
+</div>

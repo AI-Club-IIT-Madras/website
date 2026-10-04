@@ -76,16 +76,18 @@ Edit `src/data/team.json` and add an item to `members`:
   "id": "unique-slug",
   "name": "Verified name",
   "role": "Verified role",
-  "year": "26-27",
-  "group": "club",
+  "group": "viveka-2",
   "image": "/images/member-photo.webp",
   "url": "https://optional-profile.example"
 }
 ```
 
 `group` must match an entry in `groups`. Add the photo to `public/images/` and use useful
-alt text through the member's verified name. The desktop grid supports five members per
-row, with three on tablet and two on mobile.
+alt text through the member's verified name. Use `null` for `image` until a verified photo
+is available. The core roster appears at `/team/`, club and hackathon coordinators appear
+at `/team/coordinators/`, and each current project roster appears on its project detail
+page. The desktop grid supports five members per row, with four on tablet, three on small
+tablet, and two on mobile.
 
 ### Contact form
 
