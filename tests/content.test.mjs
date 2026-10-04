@@ -232,10 +232,17 @@ test("team data separates core, coordinators, and project rosters", async () => 
   assert.ok(
     previousLeads.every((member) => member.url?.startsWith("https://")),
   );
+  const publishedAffiliations = previousLeads
+    .slice(3)
+    .map((member) => member.current)
+    .filter(Boolean);
+  assert.equal(publishedAffiliations.length, 7);
   assert.ok(
-    previousLeads
-      .slice(3)
-      .every((member) => member.current?.startsWith("Currently at ")),
+    publishedAffiliations.every(
+      (affiliation) =>
+        affiliation.startsWith("Currently at ") &&
+        !/IIT|AI Club|CFI/i.test(affiliation),
+    ),
   );
   assert.equal(count("hackathon-coordinators"), 4);
   assert.equal(count("viveka-2"), 11);
