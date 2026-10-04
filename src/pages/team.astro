@@ -49,6 +49,20 @@ const cores = team.members.filter(
   (member) =>
     member.group === "hackathon-core" && member.role === "Hackathon Core",
 );
+const projectTeamLinks = [
+  {
+    label: "Viveka 2.0",
+    href: "/projects-26-27/viveka-2/#team",
+  },
+  {
+    label: "triton::cu",
+    href: "/projects-26-27/triton-cu/#team",
+  },
+  {
+    label: "KathAI",
+    href: "/projects-26-27/kathai/#team",
+  },
+];
 
 const sections = [
   {
@@ -79,6 +93,19 @@ const sections = [
           </a>
         </div>
         <TeamGrid members={section.members} />
+        {section.id === "leads" && (
+          <nav class="project-team-links" aria-label="Project member pages">
+            <span>Meet our project members</span>
+            <div>
+              {projectTeamLinks.map((project) => (
+                <a class="text-link" href={localUrl(project.href)}>
+                  {project.label}
+                  <Arrow />
+                </a>
+              ))}
+            </div>
+          </nav>
+        )}
       </section>
     ))}
   </div>

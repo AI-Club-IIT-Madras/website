@@ -923,6 +923,7 @@
   .team-section-heading > .text-link {
     order: 3;
     margin-left: auto;
+    font-size: 16px;
     white-space: nowrap;
   }
   .team-section-heading span {
@@ -937,6 +938,30 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 24px 20px;
+  }
+  .project-team-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 22px;
+    margin-top: 26px;
+    padding: 18px 22px;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    background: #080808c9;
+  }
+  .project-team-links > span {
+    color: #bdbdbd;
+    font:
+      500 13px/1.5 "Instrument Sans",
+      sans-serif;
+    white-space: nowrap;
+  }
+  .project-team-links > div {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    gap: 12px 28px;
   }
   .member-card {
     flex: 0 1 calc((100% - 80px) / 5);
@@ -1322,6 +1347,16 @@
   }
   .team-section-heading span {
     display: none;
+  }
+  .project-team-links {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px;
+  }
+  .project-team-links > div {
+    justify-content: flex-start;
+    gap: 10px 20px;
   }
   .team-placeholder-grid .member-skeleton:last-child {
     display: none;

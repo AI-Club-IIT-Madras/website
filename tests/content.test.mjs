@@ -97,7 +97,7 @@ test("team data separates core, coordinators, and project rosters", async () => 
       member.group === "club-coordinators" ||
       member.role === "Project Member & Coordinator",
   );
-  assert.equal(clubCoordinators.length, 10);
+  assert.equal(clubCoordinators.length, 9);
   assert.deepEqual(
     clubCoordinators
       .filter((member) => member.group === "club-coordinators")
@@ -118,6 +118,10 @@ test("team data separates core, coordinators, and project rosters", async () => 
     "Hackathon Core",
   );
   assert.ok(!team.members.some((member) => member.name === "Sahithi"));
+  assert.equal(
+    team.members.find((member) => member.id === "bhavana-viveka-2")?.role,
+    "Project Member",
+  );
   assert.deepEqual(
     team.members
       .filter((member) => member.group === "kathai")
