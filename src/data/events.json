@@ -6,10 +6,24 @@
     "displayDate": "27-29 September, 2026",
     "displayTime": null,
     "location": "CRC 102",
-    "description": "A three-day session on diffusion models and how they create realistic images, we began with prerequisites required at pre epoch, moved onto to teaching the math and intuition behind diffusion models on day 1 and finally implemented the architecture on day 2",
+    "description": "The Pre-Epoch built the prerequisites needed to understand diffusion models by revisiting neural networks and probability distributions, then covering CNNs, U-Nets, autoencoders, and Markov chains in depth.\n\nOn Day 1, participants developed an intuition for generative modelling and diffusion models through data and probability landscapes, forward noising, score-based learning and training, reverse diffusion, and DDPMs.\n\nDay 2 focused on architecture and implementation, including modifications to U-Nets for diffusion, conditioning, samplers, latent diffusion, and implementing a diffusion model in code.",
     "academicYear": "26-27",
     "image": "/images/events/epoch-3-26-27.jpg",
     "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Session Slides",
+        "url": "https://drive.google.com/drive/folders/1u0NYbN_xuRf2VCV8eCXQlpvwwzJDPNQl?usp=share_link"
+      },
+      {
+        "label": "Pre-Epoch Recording",
+        "url": "https://youtu.be/FVdPiCfWvt8?si=OrwMxkw61_0A4K2n"
+      },
+      {
+        "label": "Day 1 Recording",
+        "url": "https://youtu.be/tJOETpmeRFk?si=n1yg4sqImKBtobzd"
+      }
+    ],
     "status": "published",
     "legacyAnchor": null
   },
@@ -20,7 +34,7 @@
     "displayDate": "24 September, 2026",
     "displayTime": "9:00 PM–11:00 PM",
     "location": "SSB 134 (Tentative)",
-    "description": "A beginner-friendly introduction to deep learning from scratch, covering neural networks, backpropagation, and gradient descent",
+    "description": "A beginner-friendly introduction to neural networks that began with linear and polynomial regression to frame models as learned functions. The session then developed the core building blocks of a neural network like loss functions, weights, biases, and activation functions and showed how forward propagation produces predictions while gradient descent and backpropagation improve the model during training.",
     "academicYear": "26-27",
     "image": "/images/events/introduction-neural-networks-26-27.jpg",
     "resourceUrl": null,

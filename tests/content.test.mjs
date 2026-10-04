@@ -172,6 +172,10 @@ test("the neural networks session links its slides and recording", async () => {
     neuralNetworks?.resourceLinks?.map((resource) => resource.label),
     ["Session Slides", "Session Recording"],
   );
+  assert.match(neuralNetworks?.description || "", /linear and polynomial regression/i);
+  assert.match(neuralNetworks?.description || "", /weights, biases, and activation functions/i);
+  assert.match(neuralNetworks?.description || "", /forward propagation/i);
+  assert.match(neuralNetworks?.description || "", /gradient descent and backpropagation/i);
 });
 
 test("the NLP roadmap links its slides and reflects their topics", async () => {
@@ -211,6 +215,21 @@ test("the Summer School card reflects its slides and links the deck", async () =
   assert.match(summerSchool?.description || "", /computer vision/i);
   assert.match(summerSchool?.description || "", /natural language processing/i);
   assert.match(summerSchool?.description || "", /backpropagation/i);
+});
+
+test("Epoch 3 links its slides and available recordings", async () => {
+  const events = await load("events");
+  const epoch = events.find((event) => event.id === "epoch-3");
+
+  assert.deepEqual(
+    epoch?.resourceLinks?.map((resource) => resource.label),
+    ["Session Slides", "Pre-Epoch Recording", "Day 1 Recording"],
+  );
+  assert.match(epoch?.description || "", /Pre-Epoch built the prerequisites/);
+  assert.match(epoch?.description || "", /On Day 1/);
+  assert.match(epoch?.description || "", /Day 2 focused on architecture/);
+  assert.equal(epoch?.description?.split("\n\n").length, 3);
+  assert.doesNotMatch(epoch?.description || "", /\b(?:7|9|11)(?::00)?\s*(?:AM|PM)\b/i);
 });
 
 test("team data separates core, coordinators, and project rosters", async () => {
