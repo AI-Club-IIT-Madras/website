@@ -384,6 +384,12 @@
     color: #b8b8b8;
     margin-bottom: 26px;
   }
+  .event-description p {
+    margin: 0;
+  }
+  .event-description p + p {
+    margin-top: 14px;
+  }
   .compact .event-content {
     padding: 26px;
     flex-grow: 1;
