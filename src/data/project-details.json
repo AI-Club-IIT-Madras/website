@@ -1,5 +1,15 @@
 [
   {
+    "id": "viveka-2",
+    "embed": null,
+    "title": "Viveka 2.0",
+    "description": "We mechanistically interpret efficient and performant architectures on Abstraction Reasoning Corpus and build on top of them. ARC AGI is a benchmark of puzzles that evaluates an AI model's reasoning capabilities that are trivial for humans but hard for current data-hungry AI systems.",
+    "applicationNote": null,
+    "applicationHeading": null,
+    "teamHeading": "Meet the Viveka 2.0 Team",
+    "tagline": "Interpreting and advancing abstract reasoning models"
+  },
+  {
     "id": "triton-cu",
     "embed": "https://drive.google.com/file/d/1CleGw74eYZre43e3wXHr5mkHKrDCUavy/preview",
     "title": "Triton :: cu",

@@ -8,6 +8,10 @@ interface Props {
 }
 const { project } = Astro.props;
 const external = project.url?.startsWith("https:");
+const currentTeamUrl =
+  project.academicYear === "26-27"
+    ? `/projects-26-27/${project.id}/#team`
+    : null;
 ---
 
 <article class="project-card card">
@@ -42,10 +46,12 @@ const external = project.url?.startsWith("https:");
       ) : project.showProjectLink ? (
         <span class="todo-copy">{site.labels.missingProjectLink}</span>
       ) : null}
-      <a class="text-link" href={localUrl(`/team/#team-${project.id}`)}>
-        {site.labels.meetTeam}
-        <Arrow />
-      </a>
+      {currentTeamUrl && (
+        <a class="text-link" href={localUrl(currentTeamUrl)}>
+          {site.labels.meetTeam}
+          <Arrow />
+        </a>
+      )}
     </div>
   </div>
 </article>
