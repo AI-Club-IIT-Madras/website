@@ -236,7 +236,7 @@ test("team data separates core, coordinators, and project rosters", async () => 
     .slice(3)
     .map((member) => member.current)
     .filter(Boolean);
-  assert.equal(publishedAffiliations.length, 7);
+  assert.equal(publishedAffiliations.length, 8);
   assert.ok(
     publishedAffiliations.every(
       (affiliation) =>
