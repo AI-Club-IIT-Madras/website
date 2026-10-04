@@ -45,6 +45,24 @@
     {
       "name": "Exception Raised",
       "image": "/images/bvuMF7GoSFcbmPdKGGCfmiO3Qc0.png"
+    },
+    {
+      "name": "CFI",
+      "image": "/images/cfi-logo.png"
+    }
+  ],
+  "projects2526": [
+    {
+      "name": "Exception Raised",
+      "image": "/images/bvuMF7GoSFcbmPdKGGCfmiO3Qc0.png"
+    },
+    {
+      "name": "CFI",
+      "image": "/images/cfi-logo.png"
+    },
+    {
+      "name": "Archive of IIT Madras",
+      "image": "/images/iitm-archive-logo.png"
     }
   ]
 }

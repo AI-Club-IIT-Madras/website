@@ -1,7 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import PageHeading from "../components/PageHeading.astro";
-import Partners from "../components/Partners.astro";
 import Arrow from "../components/Arrow.astro";
 import achievements from "../data/achievements.json";
 import site from "../data/site.json";
@@ -39,7 +38,6 @@ import { localUrl } from "../lib/urls";
       </div>
     </section>
   ))}
-  <Partners />
   <section class="section shell">
     <h2 class="section-title">{site.labels.hackathons}</h2>
     <div class="hackathon-grid">

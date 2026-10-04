@@ -3,7 +3,7 @@ import partners from "../data/partners.json";
 import site from "../data/site.json";
 import { localUrl } from "../lib/urls";
 interface Props {
-  variant?: "home" | "projects";
+  variant?: "home" | "projects" | "projects2526";
 }
 const { variant = "home" } = Astro.props;
 const entries = partners[variant];
@@ -11,7 +11,12 @@ const heading =
   variant === "home" ? site.labels.partners : site.labels.supporters;
 ---
 
-<section class:list={["section partners", `partners-${variant}`]}>
+<section
+  class:list={[
+    "section partners",
+    variant === "home" ? "partners-home" : "partners-projects",
+  ]}
+>
   <div class="shell">
     <h2 class="section-title">{heading}</h2>
   </div>

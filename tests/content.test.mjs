@@ -101,7 +101,18 @@ test("homepage and project partners use their verified source sets", async () =>
   );
   assert.deepEqual(
     partners.projects.map((partner) => partner.name),
-    ["KLA and CΦ", "Shaastra", "LC-Lab", "gradCapital", "Exception Raised"],
+    [
+      "KLA and CΦ",
+      "Shaastra",
+      "LC-Lab",
+      "gradCapital",
+      "Exception Raised",
+      "CFI",
+    ],
+  );
+  assert.deepEqual(
+    partners.projects2526.map((partner) => partner.name),
+    ["Exception Raised", "CFI", "Archive of IIT Madras"],
   );
 });
 
