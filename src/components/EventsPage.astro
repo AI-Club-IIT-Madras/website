@@ -12,9 +12,16 @@ interface Props {
   year: string;
 }
 const { year } = Astro.props;
-const records = newestPublished(events).filter(
+const datedRecords = newestPublished(events).filter(
   (event) => event.academicYear === year,
 );
+const undatedRecords = events.filter(
+  (event) =>
+    event.status === "published" &&
+    event.academicYear === year &&
+    !event.date,
+);
+const records = [...datedRecords, ...undatedRecords];
 const upcoming = announcements.upcomingEvent;
 ---
 
@@ -23,7 +30,7 @@ const upcoming = announcements.upcomingEvent;
     <YearNav kind="events" current={year} />
   </PageHeading>
   <div class="shell archive-content">
-    {year === "26-27" && (
+    {year === "26-27" && !records.length && upcoming.status !== "placeholder" && (
       <section class="upcoming-placeholder card">
         <div>
           <p class="eyebrow">{site.labels.upcoming}</p>

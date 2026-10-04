@@ -1,12 +1,188 @@
 [
   {
+    "id": "epoch-3",
+    "title": "Epoch 3: How Machines Learnt to Draw",
+    "date": "2026-09-27",
+    "displayDate": "27-29 September, 2026",
+    "displayTime": null,
+    "location": "CRC 102",
+    "description": "A three-day session on diffusion models and how they create realistic images, we began with prerequisites required at pre epoch, moved onto to teaching the math and intuition behind diffusion models on day 1 and finally implemented the architecture on day 2",
+    "academicYear": "26-27",
+    "image": "/images/events/epoch-3-26-27.jpg",
+    "resourceUrl": null,
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
+    "id": "introduction-to-neural-networks",
+    "title": "An Introduction to Neural Networks",
+    "date": "2026-09-24",
+    "displayDate": "24 September, 2026",
+    "displayTime": "9:00 PM–11:00 PM",
+    "location": "SSB 134 (Tentative)",
+    "description": "A beginner-friendly introduction to deep learning from scratch, covering neural networks, backpropagation, and gradient descent",
+    "academicYear": "26-27",
+    "image": "/images/events/introduction-neural-networks-26-27.jpg",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Session Slides",
+        "url": "https://canva.link/js5do89164p23mh"
+      },
+      {
+        "label": "Session Recording",
+        "url": "https://www.youtube.com/watch?v=J0jCaHtRBuc"
+      }
+    ],
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
+    "id": "prof-talk-kaushik-mitra",
+    "title": "Prof Talks: Extreme 3D Reconstruction and Visualization",
+    "date": "2026-09-24",
+    "displayDate": "24 September, 2026",
+    "displayTime": "5:15 PM",
+    "location": "ESB 106",
+    "description": "Prof. Kaushik Mitra explored how computational imaging can reconstruct and visualize 3D scenes beyond the limits of conventional cameras. The talk covered PRISM3D for severely motion-blurred scenes, PhotonSplat for extreme low-light reconstruction with single-photon sensors, and GANESH for lensless 3D novel-view synthesis, with applications spanning robotics, AR/VR, medical imaging, and wearable devices.",
+    "academicYear": "26-27",
+    "image": "/images/events/prof-talk-kaushik-mitra-26-27.jpg",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Presentation Slides",
+        "url": "https://drive.google.com/file/d/16ueHtjPLaAAeq9ZVlqj6G6xQTGjEwx4-/view?usp=share_link"
+      },
+      {
+        "label": "Talk Recording",
+        "url": "https://www.youtube.com/watch?v=zAGVPdA4a_w&authuser=1"
+      }
+    ],
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
+    "id": "informals-search-quest",
+    "title": "AI Club Informals: Search Quest",
+    "date": "2026-09-15",
+    "displayDate": "15 September, 2026",
+    "displayTime": "8:00 PM–10:00 PM",
+    "location": "ESB 127",
+    "description": "An informal session led by Adithya Rajagopalan on intelligent search algorithms. Starting with breadth-first search and Dijkstra’s algorithm, the session advanced to A*, AO*, optimization techniques, real-world applications, and hands-on demonstrations.",
+    "academicYear": "26-27",
+    "image": "/images/events/informals-search-quest-26-27.jpg",
+    "resourceUrl": null,
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
+    "id": "informals-gradient-flows",
+    "title": "AI Club Informals: Gradient Flows",
+    "date": "2026-09-08",
+    "displayDate": "8 September, 2026",
+    "displayTime": "8:00 PM–9:00 PM",
+    "location": "ESB 127",
+    "description": "Understanding training dynamics of modern deep learning models is quite challenging since they do not follow common assumptions on convexity, smoothness or large learning rates. Jayden, a student at IITM took a session giving an overview of gradient flows and central flows. The key idea was to find a differential equation that has the same behavior as gradient descent, I.e., the weights at timestep t are the same for both the continuous and discrete states. This helped give potential explanations for gradient descent self correcting despite a high learning rate relative to sharpness - i.e., how the model remains at the edge of stability without diverging. It also motivates why larger learning rates often end up in shallower minima.",
+    "academicYear": "26-27",
+    "image": "/images/events/informals-gradient-flows-26-27.jpg",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Introduction to Gradient Flows",
+        "url": "https://www.andyrdt.com/notes/gd_as_gradient_flow"
+      },
+      {
+        "label": "Central Flows Blogpost",
+        "url": "https://centralflows.github.io/part1/"
+      },
+      {
+        "label": "Central Flows Paper and Proofs",
+        "url": "https://arxiv.org/pdf/2410.24206"
+      },
+      {
+        "label": "Theoretical Motivation for Central Flows",
+        "url": "https://arxiv.org/pdf/2609.01034"
+      },
+      {
+        "label": "Hessian Regularization in Gradient Flows",
+        "url": "https://openreview.net/forum?id=3q5IqUrkcF"
+      },
+      {
+        "label": "Edge of Stability: Sharpness at 2/η",
+        "url": "https://arxiv.org/pdf/2103.00065"
+      },
+      {
+        "label": "Second-Order Loss-Landscape Approximation",
+        "url": "https://arxiv.org/pdf/2607.21716"
+      }
+    ],
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
+    "id": "freshie-roadmap-nlp",
+    "title": "Freshie Roadmap: Natural Language Processing",
+    "date": "2026-08-20",
+    "displayDate": "20 August, 2026",
+    "displayTime": "8:30 PM",
+    "location": "CRC 103",
+    "description": "A freshie-friendly tour of how large language models process language, beginning with playful failure cases such as counting letters and writing lipograms. The session explored autoregressive next-token prediction, why models use tokens instead of whole words or individual characters, how embeddings and cosine similarity represent meaning, and why seemingly simple language and coding tasks can still trip models up.",
+    "academicYear": "26-27",
+    "image": "/images/events/freshie-roadmap-26-27.jpg",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Session Slides",
+        "url": "https://canva.link/4diy7cbpyhdauc9"
+      }
+    ],
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
+    "id": "software-summer-school-ai",
+    "title": "Software Summer School 2026: Artificial Intelligence",
+    "date": "2026-07-20",
+    "displayDate": "20 July, 2026",
+    "displayTime": "5:00 PM",
+    "location": null,
+    "description": "The AI Club’s session in CFI’s beginner-friendly Software Summer School introduced how machines learn across neural networks, computer vision, and natural language processing. Participants explored neural networks as function approximators, the universal approximation idea, computational graphs, backpropagation, and gradient descent, connecting the mathematics to training their own models.",
+    "academicYear": "26-27",
+    "image": "/images/events/software-summer-school-ai-26-27.png",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Session Slides",
+        "url": "https://canva.link/anrxuk8jbks3l2q"
+      }
+    ],
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
+    "id": "knowledge-transfer-sessions-26-27",
+    "title": "Knowledge Transfer Sessions",
+    "date": "2026-06-23",
+    "displayDate": "23 June–15 July, 2026",
+    "displayTime": null,
+    "location": null,
+    "description": "A core learning initiative by the AI Club, aimed at strengthening the technical foundation of its members, the Knowledge Transfer Sessions (KTS) were a series of ten summer sessions covering core Machine Learning fundamentals, followed by an introduction to Deep Learning. The program emphasized collaboration, conceptual clarity, and hands-on learning across the ML–DL spectrum.",
+    "academicYear": "26-27",
+    "image": null,
+    "resourceUrl": "https://drive.google.com/drive/folders/1LgMTiBPpOvBZ1KPj5_IF2tA0IksnGnJ-?usp=share_link",
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
     "id": "epoch-2",
     "title": "Epoch 2: How Machines Learned to See",
     "date": "2026-01-28",
     "displayDate": "28-30 January, 2026",
+    "displayTime": "8:30 PM",
+    "location": "CRC 102",
     "description": "A three-day intensive session in collaboration with Jane Street, where participants explored the evolution of computer vision through the image classification task, from LeNET and AlexNet to modern architectures like ViTs and ConvNext. The session covered essential architectural innovations and interactive visualizations, like activation atlas, feature map visualizations and adverserial attacks on models trained natively.",
     "academicYear": "25-26",
-    "image": "/images/0q9veGjb4s5hp1N4fk6LVCtxvXU.png",
+    "image": "/images/events/epoch-2.jpg",
     "resourceUrl": "https://drive.google.com/drive/folders/1UZ22XucmNidm7XvRymspBN_rQHuCAOTn?usp=sharing",
     "status": "published",
     "legacyAnchor": "event-0"
@@ -16,9 +192,11 @@
     "title": "a_i to AI: Where Math Meets ML",
     "date": "2025-10-25",
     "displayDate": "25 October, 2025",
+    "displayTime": "4:30 PM–7:00 PM",
+    "location": null,
     "description": "a_i to AI 4.0 is a joint event by the Mathematics Club and AI Club that explores how mathematical foundations drive modern artificial intelligence. From probability and optimization to Gaussian Mixture Models (GMMs), Expectation-Maximization (EM), and clustering, the event uncovers how elegant mathematical ideas translate into intelligent algorithms that predict, optimize, and reveal hidden real-world patterns.",
     "academicYear": "25-26",
-    "image": "/images/OG42JtxAARaQVyTugKeu80lEjs.jpg",
+    "image": "/images/events/ai-to-ai.jpg",
     "resourceUrl": null,
     "status": "published",
     "legacyAnchor": "event-1"
@@ -28,21 +206,71 @@
     "title": "Epoch 1: State Space Models",
     "date": "2025-09-27",
     "displayDate": "27-28 September, 2025",
+    "displayTime": "3:00 PM–6:00 PM",
+    "location": "ESB 127",
     "description": "A two-day intensive session conducted by the AI Club, where participants explored the evolution of sequence modeling from RNNs and Transformers to modern State Space Models (SSMs). The session covered essential mathematical foundations and dived deep into architectures like HiPPO, S4, and Mamba, combining theory with hands-on understanding of how these models power efficient long-context reasoning.",
     "academicYear": "25-26",
-    "image": "/images/bJS0gBk77BZeyXE3gRnf7momawo.jpg",
+    "image": "/images/events/epoch-1.jpg",
     "resourceUrl": "https://drive.google.com/drive/folders/1J-SZnsH_2E4LsLdsDrRui-Y_pw6N_1qW?usp=drive_link",
     "status": "published",
     "legacyAnchor": "event-2"
+  },
+  {
+    "id": "ai-club-informals-math-for-ai",
+    "title": "AI × Math Informals: Linear Algebra and Probability",
+    "date": "2025-08-18",
+    "displayDate": "18 August, 2025 ",
+    "displayTime": "7:30 PM ",
+    "location": "ESB 128 ",
+    "description": "An informal, peer-led walkthrough of mathematical ideas useful when exploring AI, led by Navin, the Math Club head. Building on introductory familiarity with linear algebra and probability, the session covers linear algebra, Bayesian inference, and hypothesis testing to help participants develop a stronger mathematical foundation for AI.",
+    "academicYear": "25-26",
+    "image": "/images/events/ai-club-informals-math-for-ai.png",
+    "resourceUrl": null,
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
+    "id": "ai-club-informals",
+    "title": "AI Club Informals: Introduction to Spiking Neural Networks",
+    "date": "2025-08-12",
+    "displayDate": "12 August, 2025",
+    "displayTime": "9:00 PM",
+    "location": "ESB 127",
+    "description": "A session conducted by AI Club where members came together to exchange ideas and explore the connections between neuroscience and machine learning. This edition introduced Spiking Neural Networks and how neurons communicate through discrete spikes. Shared slides, coding exercises, and visual explainers encouraged further exploration of neural dynamics and predictive coding—a framework that uses local learning rules to approximate backpropagation.",
+    "academicYear": "25-26",
+    "image": "/images/events/ai-club-informals.jpg",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Neuroscience for Machine Learners",
+        "url": "https://neuro4ml.github.io/"
+      },
+      {
+        "label": "Cosyne 2022 Spiking Neural Network Tutorials",
+        "url": "https://github.com/neural-reckoning/cosyne-tutorial-2022/"
+      },
+      {
+        "label": "Predictive Coding Visual Explainer",
+        "url": "https://youtu.be/l-OLgbdZ3kk?si=kA0Z5PS7wWFx_iiI"
+      },
+      {
+        "label": "Predictive Coding Paper Explainer",
+        "url": "https://youtu.be/LB4B5FYvtdI?si=NHPhDfCF7k-5TxrQ"
+      }
+    ],
+    "status": "published",
+    "legacyAnchor": null
   },
   {
     "id": "freshie-roadmap",
     "title": "CFIxTechSoc: Freshie Roadmap",
     "date": "2025-08-11",
     "displayDate": "11 August, 2025",
+    "displayTime": "8:00 PM–10:00 PM",
+    "location": "CRC 101",
     "description": "A collaborative initiative between AI Club and TechSoc IIT Madras, designed exclusively for first-year students beginning their AI journey. Conducted in an interactive, beginner-friendly format, the session introduced the fundamentals of deep learning, starting from regression and gradually building up to the concept of neurons and neural networks, helping freshies gain their first hands-on experience in AI.",
     "academicYear": "25-26",
-    "image": "/images/2CiRwT3rXWohTTowyLmOm2kOYPk.jpeg",
+    "image": "/images/events/freshie-roadmap.jpg",
     "resourceUrl": "https://drive.google.com/drive/folders/1NqIJXrDX5uDnUdZ0MpRKCiqFnddUaiAp?usp=drive_link",
     "status": "published",
     "legacyAnchor": "event-3"
@@ -52,6 +280,8 @@
     "title": "Knowledge Transfer Sessions",
     "date": "2025-06-16",
     "displayDate": "16 June - 7 July, 2025",
+    "displayTime": null,
+    "location": null,
     "description": "A core learning initiative by the AI Club, aimed at strengthening the technical foundation of its members, the Knowledge Transfer Sessions (KTS) were a series of ten summer sessions covering core Machine Learning fundamentals, followed by an introduction to Deep Learning. The program emphasized collaboration, conceptual clarity, and hands-on learning across the ML–DL spectrum.",
     "academicYear": "25-26",
     "image": null,

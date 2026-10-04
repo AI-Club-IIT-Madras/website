@@ -1,15 +1,15 @@
 /**
  * Shared sorting keeps homepage previews and archives in the same order.
- * @template {{status: string, date: string, id: string}} T
+ * @template {{status: string, date: string | null, id: string}} T
  * @param {T[]} records
  * @returns {T[]}
  */
 export function newestPublished(records) {
   return records.filter(record => record.status === 'published' && record.date)
-    .toSorted((a, b) => b.date.localeCompare(a.date) || a.id.localeCompare(b.id));
+    .toSorted((a, b) => (b.date || '').localeCompare(a.date || '') || a.id.localeCompare(b.id));
 }
 
-/** @template {{status: string, date: string, id: string}} T @param {T[]} records */
+/** @template {{status: string, date: string | null, id: string}} T @param {T[]} records */
 export function groupByYear(records) {
   const sorted = newestPublished(records);
   return [...new Set(sorted.map(record => record.date.slice(0, 4)))]

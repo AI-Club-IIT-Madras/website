@@ -9,13 +9,15 @@ interface Props {
 }
 const { event, compact = false } = Astro.props;
 const href = localUrl(`/events/${event.academicYear}/#${event.id}`);
+const resourceLinks =
+  "resourceLinks" in event && event.resourceLinks ? event.resourceLinks : [];
 ---
 
 <article
   class:list={["event-card card", { compact }]}
   id={compact ? undefined : event.id}
 >
-  {!compact && (
+  {!compact && event.legacyAnchor && (
     <span id={event.legacyAnchor} class="legacy-anchor" aria-hidden="true" />
   )}
   {event.image ? (
@@ -30,12 +32,17 @@ const href = localUrl(`/events/${event.academicYear}/#${event.id}`);
   ) : (
     <div class="image-placeholder">
       <span>{event.title}</span>
-      <small>{site.labels.missingImage}</small>
     </div>
   )}
   <div class="event-content">
     <p class="card-meta">
-      <time datetime={event.date}>{event.displayDate}</time>
+      {event.date ? (
+        <time datetime={event.date}>{event.displayDate}</time>
+      ) : (
+        <span>{event.displayDate}</span>
+      )}
+      {event.displayTime && <span>{event.displayTime}</span>}
+      {event.location && <span>{event.location}</span>}
     </p>
     <h3>{compact ? <a href={href}>{event.title}</a> : event.title}</h3>
     <p class:list={["event-description", { "line-clamp-3": compact }]}>
@@ -46,6 +53,25 @@ const href = localUrl(`/events/${event.academicYear}/#${event.id}`);
         {site.labels.events}
         <Arrow />
       </a>
+    ) : resourceLinks.length ? (
+      <details class="event-resources">
+        <summary class="button button-secondary">
+          {site.labels.resources}
+          <span class="resource-chevron" aria-hidden="true">⌄</span>
+        </summary>
+        <div class="event-resource-menu">
+          {resourceLinks.map((resource) => (
+            <a
+              href={resource.url}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {resource.label}
+              <Arrow diagonal />
+            </a>
+          ))}
+        </div>
+      </details>
     ) : (
       event.resourceUrl && (
         <a

@@ -20,7 +20,7 @@ test("homepage content sorts newest published records first", async () => {
   const events = newestPublished(await load("events"));
   const blogs = newestPublished(await load("blogs"));
 
-  assert.equal(events[0].id, "epoch-2");
+  assert.equal(events[0].id, "epoch-3");
   assert.equal(blogs[0].id, "is-the-latent-reasoning-entangled");
   assert.ok(
     events.every(
@@ -31,6 +31,50 @@ test("homepage content sorts newest published records first", async () => {
     blogs.every(
       (record, index) => index === 0 || blogs[index - 1].date >= record.date,
     ),
+  );
+});
+
+test("event source records are stored newest to oldest", async () => {
+  const events = (await load("events")).filter((event) => event.date);
+
+  assert.ok(
+    events.every(
+      (event, index) => index === 0 || events[index - 1].date >= event.date,
+    ),
+  );
+});
+
+test("2026–27 events include the complete poster-backed archive", async () => {
+  const events = await load("events");
+  const current = newestPublished(events).filter(
+    (event) => event.academicYear === "26-27",
+  );
+  const currentKts = events.find(
+    (event) => event.id === "knowledge-transfer-sessions-26-27",
+  );
+  const previousKts = events.find(
+    (event) => event.id === "knowledge-transfer-sessions",
+  );
+
+  assert.deepEqual(
+    current.map((event) => event.id),
+    [
+      "epoch-3",
+      "introduction-to-neural-networks",
+      "prof-talk-kaushik-mitra",
+      "informals-search-quest",
+      "informals-gradient-flows",
+      "freshie-roadmap-nlp",
+      "software-summer-school-ai",
+      "knowledge-transfer-sessions-26-27",
+    ],
+  );
+  assert.equal(currentKts?.date, "2026-06-23");
+  assert.equal(currentKts?.displayDate, "23 June–15 July, 2026");
+  assert.equal(currentKts?.description, previousKts?.description);
+  assert.equal(
+    events.filter((event) => event.academicYear === "26-27").length,
+    8,
   );
 });
 
@@ -78,6 +122,95 @@ test("upcoming event remains an explicit placeholder", async () => {
   const announcements = await load("announcements");
 
   assert.equal(announcements.upcomingEvent.status, "placeholder");
+});
+
+test("event cards preserve available schedule labels", async () => {
+  const events = await load("events");
+
+  assert.ok(events.every((event) => event.displayDate?.trim()));
+  const mathInformals = events.find(
+    (event) => event.id === "ai-club-informals-math-for-ai",
+  );
+  assert.equal(mathInformals?.date, "2025-08-18");
+  assert.equal(mathInformals?.displayTime.trim(), "7:30 PM");
+  assert.equal(mathInformals?.location.trim(), "ESB 128");
+});
+
+test("the first Informals session includes all shared resources", async () => {
+  const events = await load("events");
+  const informals = events.find((event) => event.id === "ai-club-informals");
+
+  assert.equal(informals?.resourceLinks?.length, 4);
+  assert.ok(
+    informals.resourceLinks.every(
+      (resource) => resource.label?.trim() && resource.url?.startsWith("https://"),
+    ),
+  );
+});
+
+test("Gradient Flows includes all follow-up resources", async () => {
+  const events = await load("events");
+  const gradientFlows = events.find(
+    (event) => event.id === "informals-gradient-flows",
+  );
+
+  assert.equal(gradientFlows?.resourceLinks?.length, 7);
+  assert.ok(
+    gradientFlows.resourceLinks.every(
+      (resource) => resource.label?.trim() && resource.url?.startsWith("https://"),
+    ),
+  );
+});
+
+test("the neural networks session links its slides and recording", async () => {
+  const events = await load("events");
+  const neuralNetworks = events.find(
+    (event) => event.id === "introduction-to-neural-networks",
+  );
+
+  assert.deepEqual(
+    neuralNetworks?.resourceLinks?.map((resource) => resource.label),
+    ["Session Slides", "Session Recording"],
+  );
+});
+
+test("the NLP roadmap links its slides and reflects their topics", async () => {
+  const events = await load("events");
+  const nlp = events.find((event) => event.id === "freshie-roadmap-nlp");
+
+  assert.equal(nlp?.resourceLinks?.[0]?.label, "Session Slides");
+  assert.match(nlp?.description || "", /next-token prediction/i);
+  assert.match(nlp?.description || "", /embeddings and cosine similarity/i);
+});
+
+test("the professor talk reflects its deck and links both resources", async () => {
+  const events = await load("events");
+  const profTalk = events.find(
+    (event) => event.id === "prof-talk-kaushik-mitra",
+  );
+
+  assert.deepEqual(
+    profTalk?.resourceLinks?.map((resource) => resource.label),
+    ["Presentation Slides", "Talk Recording"],
+  );
+  assert.match(profTalk?.description || "", /PRISM3D/);
+  assert.match(profTalk?.description || "", /PhotonSplat/);
+  assert.match(profTalk?.description || "", /GANESH/);
+});
+
+test("the Summer School card reflects its slides and links the deck", async () => {
+  const events = await load("events");
+  const summerSchool = events.find(
+    (event) => event.id === "software-summer-school-ai",
+  );
+
+  assert.equal(summerSchool?.date, "2026-07-20");
+  assert.equal(summerSchool?.displayTime, "5:00 PM");
+  assert.equal(summerSchool?.resourceLinks?.[0]?.label, "Session Slides");
+  assert.match(summerSchool?.description || "", /neural networks/i);
+  assert.match(summerSchool?.description || "", /computer vision/i);
+  assert.match(summerSchool?.description || "", /natural language processing/i);
+  assert.match(summerSchool?.description || "", /backpropagation/i);
 });
 
 test("team data separates core, coordinators, and project rosters", async () => {
