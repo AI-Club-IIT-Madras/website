@@ -91,13 +91,13 @@ test("team data separates core, coordinators, and project rosters", async () => 
   assert.equal(count("hackathon-coordinators"), 4);
   assert.equal(count("viveka-2"), 11);
   assert.equal(count("triton-cu"), 11);
-  assert.equal(count("kathai"), 9);
+  assert.equal(count("kathai"), 2);
   const clubCoordinators = team.members.filter(
     (member) =>
       member.group === "club-coordinators" ||
       member.role === "Project Member & Coordinator",
   );
-  assert.equal(clubCoordinators.length, 13);
+  assert.equal(clubCoordinators.length, 10);
   assert.deepEqual(
     clubCoordinators
       .filter((member) => member.group === "club-coordinators")
@@ -108,6 +108,21 @@ test("team data separates core, coordinators, and project rosters", async () => 
     team.members.every((member) =>
       team.groups.some((group) => group.id === member.group),
     ),
+  );
+  assert.equal(
+    team.members.filter((member) => member.name === "Lokesh").length,
+    1,
+  );
+  assert.equal(
+    team.members.find((member) => member.name === "Lokesh")?.role,
+    "Hackathon Core",
+  );
+  assert.ok(!team.members.some((member) => member.name === "Sahithi"));
+  assert.deepEqual(
+    team.members
+      .filter((member) => member.group === "kathai")
+      .map((member) => member.name),
+    ["Venkatesh", "Vibhu"],
   );
 });
 

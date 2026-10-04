@@ -2,63 +2,84 @@
 import Arrow from "../components/Arrow.astro";
 import PageHeading from "../components/PageHeading.astro";
 import TeamGrid from "../components/TeamGrid.astro";
-import Layout from "../layouts/Layout.astro";
 import team from "../data/team.json";
+import Layout from "../layouts/Layout.astro";
 import { localUrl } from "../lib/urls";
 
-const projectRoutes = {
-  "viveka-2": "/projects-26-27/viveka-2/#team",
-  "triton-cu": "/projects-26-27/triton-cu/#team",
-  kathai: "/projects-26-27/kathai/#team",
+const projectNames = {
+  "viveka-2": "Viveka 2.0",
+  "triton-cu": "triton::cu",
+  kathai: "KathAI",
 };
+
+const projectLeads = team.members.filter(
+  (member) => member.role === "Project Lead",
+);
+const clubLeads = team.members
+  .filter((member) => member.group === "club")
+  .map((member) => {
+    const projectLead = projectLeads.find(
+      (candidate) => candidate.name === member.name,
+    );
+    return {
+      ...member,
+      role: projectLead
+        ? [
+            member.role,
+            `Project Lead · ${projectNames[projectLead.group as keyof typeof projectNames]}`,
+          ]
+        : member.role,
+    };
+  });
+const hackathonLeads = team.members.filter(
+  (member) =>
+    member.group === "hackathon-core" && member.role === "Hackathon Lead",
+);
+const listedLeadNames = new Set(
+  [...clubLeads, ...hackathonLeads].map((member) => member.name),
+);
+const remainingProjectLeads = projectLeads
+  .filter((member) => !listedLeadNames.has(member.name))
+  .map((member) => ({
+    ...member,
+    role: `Project Lead · ${projectNames[member.group as keyof typeof projectNames]}`,
+  }));
+const leads = [...clubLeads, ...hackathonLeads, ...remainingProjectLeads];
+const cores = team.members.filter(
+  (member) =>
+    member.group === "hackathon-core" && member.role === "Hackathon Core",
+);
 
 const sections = [
   {
-    id: "club",
-    label: "Team Leads & Strategists",
+    id: "leads",
+    label: "Leads",
+    members: leads,
     link: "/team/coordinators/#club-coordinators",
-    linkLabel: "Meet our coordinators",
   },
   {
-    id: "hackathon-core",
-    label: "Hackathon Leads & Core",
+    id: "cores",
+    label: "Cores",
+    members: cores,
     link: "/team/coordinators/#hackathon-coordinators",
-    linkLabel: "Meet our coordinators",
   },
-  ...team.groups
-    .filter((group) => group.page === "project")
-    .map((group) => ({
-      id: group.id,
-      label: `${group.label} Leads`,
-      link: projectRoutes[group.id as keyof typeof projectRoutes],
-      linkLabel: "Meet the project team",
-      role: "Project Lead",
-    })),
 ];
 ---
 
 <Layout title="Meet the Team">
   <PageHeading title="Meet the Team!" eyebrow="Core team" />
   <div class="shell team-directory">
-    {sections.map((section) => {
-      const members = team.members.filter(
-        (member) =>
-          member.group === section.id &&
-          (!("role" in section) || member.role === section.role),
-      );
-
-      return (
-        <section class="team-section" id={`team-${section.id}`}>
-          <div class="team-section-heading">
-            <h2>{section.label}</h2>
-            <a class="text-link" href={localUrl(section.link)}>
-              {section.linkLabel}
-              <Arrow />
-            </a>
-          </div>
-          <TeamGrid members={members} />
-        </section>
-      );
-    })}
+    {sections.map((section) => (
+      <section class="team-section" id={`team-${section.id}`}>
+        <div class="team-section-heading">
+          <h2>{section.label}</h2>
+          <a class="text-link" href={localUrl(section.link)}>
+            Meet our coordinators
+            <Arrow />
+          </a>
+        </div>
+        <TeamGrid members={section.members} />
+      </section>
+    ))}
   </div>
 </Layout>

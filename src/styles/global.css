@@ -977,24 +977,47 @@
       sans-serif;
   }
   .member-card-copy {
+    position: relative;
     min-height: 86px;
-    padding: 16px 8px 9px;
+    padding: 16px 42px 9px 8px;
   }
   .member-card h3 {
     font-size: clamp(18px, 1.6vw, 22px);
   }
-  .member-card h3 a {
-    transition: color 180ms ease;
+  .member-linkedin {
+    position: absolute;
+    top: 17px;
+    right: 8px;
+    display: grid;
+    width: 25px;
+    height: 25px;
+    place-items: center;
+    color: #a9a9a9;
+    transition:
+      color 180ms ease,
+      transform 180ms ease;
   }
-  .member-card h3 a:hover {
-    color: #c9c9c9;
+  .member-linkedin:hover {
+    color: #fff;
+    transform: translateY(-1px);
+  }
+  .member-linkedin svg {
+    width: 18px;
+    height: 18px;
+  }
+  .member-roles {
+    margin-top: 5px;
   }
   .member-card p {
-    margin-top: 5px;
+    margin: 0;
     font:
       12px/1.45 Inter,
       sans-serif;
     color: #aaa;
+  }
+  .member-card p + p {
+    margin-top: 3px;
+    color: #c5c5c5;
   }
   .team-empty {
     padding: 32px;

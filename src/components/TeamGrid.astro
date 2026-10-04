@@ -4,7 +4,7 @@ import { localUrl } from "../lib/urls";
 interface Member {
   id: string;
   name: string;
-  role: string;
+  role: string | string[];
   group: string;
   image: string | null;
   url?: string;
@@ -26,7 +26,7 @@ const { members } = Astro.props;
             src={localUrl(member.image)}
             width="480"
             height="600"
-            alt={`${member.name}, ${member.role}`}
+            alt={`${member.name}, ${Array.isArray(member.role) ? member.role.join(", ") : member.role}`}
             loading="lazy"
             decoding="async"
           />
@@ -41,17 +41,30 @@ const { members } = Astro.props;
         )}
       </div>
       <div class="member-card-copy">
-        <h3>
-          {member.url ? (
-            <a href={member.url} target="_blank" rel="noreferrer">
-              {member.name}
-              <span class="sr-only"> on LinkedIn</span>
-            </a>
-          ) : (
-            member.name
+        <h3>{member.name}</h3>
+        {member.url && (
+          <a
+            class="member-linkedin"
+            href={member.url}
+            target="_blank"
+            rel="noreferrer"
+            aria-label={`${member.name} on LinkedIn`}
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                fill="currentColor"
+                d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V8.98h3.42v1.57h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.29ZM5.32 7.41a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12Zm1.78 13.04H3.54V8.98H7.1v11.47ZM22.23 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.46c.98 0 1.77-.77 1.77-1.73V1.73C24 .77 23.21 0 22.23 0Z"
+              />
+            </svg>
+          </a>
+        )}
+        <div class="member-roles">
+          {(Array.isArray(member.role) ? member.role : [member.role]).map(
+            (role) => (
+              <p>{role}</p>
+            ),
           )}
-        </h3>
-        <p>{member.role}</p>
+        </div>
       </div>
     </article>
   ))}
