@@ -5,6 +5,7 @@ import Partners from "../components/Partners.astro";
 import Arrow from "../components/Arrow.astro";
 import achievements from "../data/achievements.json";
 import site from "../data/site.json";
+import { localUrl } from "../lib/urls";
 ---
 
 <Layout title={site.labels.achievements}>
@@ -41,13 +42,24 @@ import site from "../data/site.json";
   <Partners />
   <section class="section shell">
     <h2 class="section-title">{site.labels.hackathons}</h2>
-    <div class="result-list">
+    <div class="hackathon-grid">
       {achievements.hackathons.map((item) => (
-        <article class="result-item">
-          <h3>{item.title}</h3>
-          <span class:list={["medal", item.result.toLowerCase()]}>
-            {item.result}
-          </span>
+        <article class="hackathon-card">
+          <div class="hackathon-image">
+            <img
+              src={localUrl(item.image)}
+              alt=""
+              loading="lazy"
+              width="600"
+              height="300"
+            />
+          </div>
+          <div class="hackathon-card-body">
+            <h3>{item.title}</h3>
+            <p class:list={["hackathon-result", item.result.toLowerCase()]}>
+              {item.result}
+            </p>
+          </div>
         </article>
       ))}
     </div>

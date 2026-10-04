@@ -40,39 +40,48 @@
   "hackathons": [
     {
       "title": "Inter-IIT Tech Meet 14.0 - Observe.AI",
-      "result": "Gold"
+      "result": "Gold",
+      "image": "/images/fTLt02XAcEnRjfxERnenOauiRw.png"
     },
     {
       "title": "Inter-IIT Tech Meet 11.0 - DevRev",
-      "result": "Gold"
+      "result": "Gold",
+      "image": "/images/fTHt9wsIBYqIKsQx7v0qzWeBDQ.png"
     },
     {
       "title": "Inter-IIT Tech Meet 10.0 - BRIDGEi2i",
-      "result": "Gold"
+      "result": "Gold",
+      "image": "/images/dKqlOmH6xgfYn6FRLzy6XI4e0Jg.png"
     },
     {
       "title": "Convolve 1.0 - A Pan-IIT Hackathon",
-      "result": "Gold"
+      "result": "Gold",
+      "image": "/images/V78BMPZI0gk5MjG9nzL3u3fdjI4.png"
     },
     {
       "title": "Amex Campus Super Bowl",
-      "result": "Silver"
+      "result": "Silver",
+      "image": "/images/SZMbvf0w77q285aQSHPuan3U44.png"
     },
     {
       "title": "Inter-IIT Tech Meet 14.0 - Adobe",
-      "result": "Bronze"
+      "result": "Bronze",
+      "image": "/images/pGJHSDPqxUUYkgcJ6xQi43HhSHs.png"
     },
     {
       "title": "Convolve 2.0 - A Pan-IIT Hackathon",
-      "result": "Bronze"
+      "result": "Bronze",
+      "image": "/images/a9uoyJuGOYJwNM8asdBmmAaILdM.png"
     },
     {
       "title": "Inter-IIT Tech Meet 12.0 - Adobe",
-      "result": "Bronze"
+      "result": "Bronze",
+      "image": "/images/Ms2gK2BxNVyi2h0NXgK6eyu8U3I.png"
     },
     {
       "title": "Inter-IIT Tech Meet 11.0 - ISRO",
-      "result": "Bronze"
+      "result": "Bronze",
+      "image": "/images/AyVtq5TgyxYDF0PeQOLShcdvMQ.png"
     }
   ]
 }
