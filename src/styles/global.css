@@ -1074,13 +1074,6 @@
   .detail-hero .page-intro {
     max-width: 920px;
   }
-  .detail-visual {
-    width: 100%;
-    max-height: 470px;
-    object-fit: cover;
-    border-radius: 20px;
-    margin-bottom: 50px;
-  }
   .detail-section {
     padding-block: 40px;
     border-top: 1px solid var(--border);

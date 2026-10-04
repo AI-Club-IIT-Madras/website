@@ -4,7 +4,6 @@ import PageHeading from "../../components/PageHeading.astro";
 import Arrow from "../../components/Arrow.astro";
 import TeamGrid from "../../components/TeamGrid.astro";
 import details from "../../data/project-details.json";
-import projects from "../../data/projects.json";
 import site from "../../data/site.json";
 import team from "../../data/team.json";
 import { localUrl } from "../../lib/urls";
@@ -15,7 +14,6 @@ export function getStaticPaths() {
   }));
 }
 const { detail } = Astro.props;
-const project = projects.find((project) => project.id === detail.id)!;
 const projectTeam = team.members.filter((member) => member.group === detail.id);
 ---
 
@@ -31,13 +29,6 @@ const projectTeam = team.members.filter((member) => member.group === detail.id);
     </div>
   </PageHeading>
   <div class="shell detail-hero archive-content">
-    <img
-      class="detail-visual"
-      src={localUrl(project.image!)}
-      width="1100"
-      height="470"
-      alt={`${project.title} — project illustration`}
-    />
     <section class="detail-section project-team-section" id="team">
       <h2>{detail.teamHeading}</h2>
       <TeamGrid members={projectTeam} />
