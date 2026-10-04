@@ -23,6 +23,7 @@ const undatedRecords = events.filter(
 );
 const records = [...datedRecords, ...undatedRecords];
 const upcoming = announcements.upcomingEvent;
+const youtube = site.socials.find((social) => social.label === "YouTube");
 ---
 
 <Layout title={`${site.labels.events} ${academicYear(year)}`}>
@@ -43,6 +44,14 @@ const upcoming = announcements.upcomingEvent;
           — —
         </span>
       </section>
+    )}
+    {youtube && (
+      <p class="events-recording-note">
+        {site.labels.eventRecordings}{" "}
+        <a href={youtube.href} target="_blank" rel="noopener noreferrer">
+          {site.labels.youtubePage}
+        </a>
+      </p>
     )}
     <div class="year-heading">
       <h2>{academicYear(year)}</h2>
