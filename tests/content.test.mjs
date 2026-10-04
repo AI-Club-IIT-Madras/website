@@ -222,6 +222,21 @@ test("team data separates core, coordinators, and project rosters", async () => 
   assert.equal(count("club"), 5);
   assert.equal(count("hackathon-core"), 6);
   assert.equal(count("previous-leads"), 11);
+  const previousLeads = team.members.filter(
+    (member) => member.group === "previous-leads",
+  );
+  assert.deepEqual(
+    previousLeads.slice(0, 3).map((member) => member.role),
+    Array(3).fill("Team Lead, 2025-26"),
+  );
+  assert.ok(
+    previousLeads.every((member) => member.url?.startsWith("https://")),
+  );
+  assert.ok(
+    previousLeads
+      .slice(3)
+      .every((member) => member.current?.startsWith("Currently at ")),
+  );
   assert.equal(count("hackathon-coordinators"), 4);
   assert.equal(count("viveka-2"), 11);
   assert.equal(count("triton-cu"), 11);

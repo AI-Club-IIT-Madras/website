@@ -1167,6 +1167,12 @@
     margin-top: 3px;
     color: #c5c5c5;
   }
+  .member-card .member-current {
+    margin-top: 9px;
+    color: #e0e0e0;
+    font-size: 11px;
+    line-height: 1.45;
+  }
   .team-empty {
     padding: 32px;
     border: 1px dashed #ffffff30;
