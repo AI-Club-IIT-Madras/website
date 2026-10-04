@@ -85,11 +85,19 @@ test("remaining unverified source content stays explicit", async () => {
   assert.equal(announcements.upcomingEvent.status, "placeholder");
 });
 
-test("homepage and project partners use their verified source sets", async () => {
+test("homepage marquee includes every verified project partner once", async () => {
   const partners = await load("partners");
+  const marquee = [
+    ...partners.home,
+    ...partners.projects,
+    ...partners.projects2526,
+  ].filter(
+    (partner, index, all) =>
+      all.findIndex((entry) => entry.name === partner.name) === index,
+  );
 
   assert.deepEqual(
-    partners.home.map((partner) => partner.name),
+    marquee.map((partner) => partner.name),
     [
       "Jane Street",
       "GeeksforGeeks",
@@ -97,6 +105,13 @@ test("homepage and project partners use their verified source sets", async () =>
       "Databricks",
       "Qdrant",
       "Mindsight Analytics",
+      "KLA and CΦ",
+      "Shaastra",
+      "LC-Lab",
+      "gradCapital",
+      "Exception Raised",
+      "CFI",
+      "Archive of IIT Madras",
     ],
   );
   assert.deepEqual(

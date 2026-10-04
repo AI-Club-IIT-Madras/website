@@ -6,7 +6,14 @@ interface Props {
   variant?: "home" | "projects" | "projects2526";
 }
 const { variant = "home" } = Astro.props;
-const entries = partners[variant];
+const sourceEntries =
+  variant === "home"
+    ? [...partners.home, ...partners.projects, ...partners.projects2526]
+    : partners[variant];
+const entries = sourceEntries.filter(
+  (partner, index, all) =>
+    all.findIndex((entry) => entry.name === partner.name) === index,
+);
 const heading =
   variant === "home" ? site.labels.partners : site.labels.supporters;
 ---
