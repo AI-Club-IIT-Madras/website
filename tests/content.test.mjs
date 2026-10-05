@@ -307,6 +307,27 @@ test("team data separates core, coordinators, and project rosters", async () => 
       .map((member) => member.name),
     ["Venkatesh", "Vibhu"],
   );
+  assert.equal(
+    team.members.find((member) => member.id === "mukunthan-triton-cu")?.url,
+    "https://www.linkedin.com/in/mukunthan-k-u-b078b9308/",
+  );
+  assert.equal(
+    team.members.find((member) => member.id === "pradish-triton-cu")?.url,
+    "https://www.linkedin.com/in/pradish-gandhi-s-9285a2383",
+  );
+  assert.equal(
+    team.members.find((member) => member.id === "rithvik-triton-cu")?.url,
+    "https://in.linkedin.com/in/rithvik-kalyani-563b453b7",
+  );
+  assert.match(
+    team.members.find((member) => member.id === "madhura-club-coordinator")
+      ?.url || "",
+    /linkedin\.com\/in\/madhura-gurav-896978378/,
+  );
+  assert.equal(
+    team.members.find((member) => member.id === "varnita-viveka-2")?.url,
+    "https://www.linkedin.com/in/varnita-avuthu-9ab806398",
+  );
 });
 
 test("homepage marquee includes every verified project partner once", async () => {
