@@ -22,6 +22,10 @@
       {
         "label": "Day 1 Recording",
         "url": "https://youtu.be/tJOETpmeRFk?si=n1yg4sqImKBtobzd"
+      },
+      {
+        "label": "Day 2 Recording",
+        "url": "https://www.youtube.com/watch?v=QZzemwvmVsY"
       }
     ],
     "status": "published",
@@ -186,12 +190,16 @@
     "resourceUrl": null,
     "resourceLinks": [
       {
-        "label": "KTS Resources",
+        "label": "Slides & Notebooks",
         "url": "https://drive.google.com/drive/folders/1LgMTiBPpOvBZ1KPj5_IF2tA0IksnGnJ-?usp=share_link"
       },
       {
         "label": "Translating Tensors",
         "url": "https://drive.google.com/file/d/1e17JxcSM3K_ST2e25m3tfDKmUTY4e_ui/view?usp=share_link"
+      },
+      {
+        "label": "Session Recordings",
+        "url": "https://www.youtube.com/playlist?list=PLC9TZSja48vY"
       }
     ],
     "status": "published",
@@ -309,7 +317,17 @@
     "description": "A core learning initiative by the AI Club, aimed at strengthening the technical foundation of its members, the Knowledge Transfer Sessions (KTS) were a series of ten summer sessions covering core Machine Learning fundamentals, followed by an introduction to Deep Learning. The program emphasized collaboration, conceptual clarity, and hands-on learning across the ML–DL spectrum.",
     "academicYear": "25-26",
     "image": null,
-    "resourceUrl": "https://drive.google.com/drive/folders/1L_KVrz2pYMa9FD7RCYWN9wsgpv1C18Oc?usp=drive_link",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Slides & Notebooks",
+        "url": "https://drive.google.com/drive/folders/1L_KVrz2pYMa9FD7RCYWN9wsgpv1C18Oc?usp=drive_link"
+      },
+      {
+        "label": "Session Recordings",
+        "url": "https://www.youtube.com/playlist?list=PLWkFppvOIj_ToR0qUdltuIeEaBMeiqCUi"
+      }
+    ],
     "status": "published",
     "legacyAnchor": "event-4"
   }
