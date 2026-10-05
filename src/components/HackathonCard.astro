@@ -1,0 +1,30 @@
+---
+import type achievements from "../data/achievements.json";
+import { localUrl } from "../lib/urls";
+
+interface Props {
+  item: (typeof achievements)["hackathons"][number];
+  reveal?: boolean;
+}
+
+const { item, reveal = false } = Astro.props;
+---
+
+<article class="hackathon-card" data-reveal={reveal ? "row" : undefined}>
+  <div class="hackathon-image">
+    <img
+      src={localUrl(item.image)}
+      alt=""
+      loading="lazy"
+      decoding="async"
+      width="600"
+      height="300"
+    />
+  </div>
+  <div class="hackathon-card-body">
+    <h3>{item.title}</h3>
+    <p class:list={["hackathon-result", item.result.toLowerCase()]}>
+      {item.result}
+    </p>
+  </div>
+</article>

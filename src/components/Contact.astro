@@ -22,7 +22,9 @@ const { reveal } = Astro.props;
     </a>
   </div>
   <div class="contact-panel">
-    <form id="contact-form" action={contact.endpoint} method="get">
+    <form id="contact-form" action={contact.endpoint} method="post">
+      <input type="hidden" name="_subject" value={contact.subject} />
+      <input type="hidden" name="_honey" tabindex="-1" autocomplete="off" />
       <label>
         {contact.name}
         <input type="text" name="name" autocomplete="name" required />
@@ -40,22 +42,55 @@ const { reveal } = Astro.props;
         {contact.submit}
         <Arrow />
       </button>
+      <p class="contact-status" role="status" aria-live="polite"></p>
     </form>
   </div>
 </section>
 
-<script define:vars={{ recipient: site.email, subject: contact.subject }}>
-  document
-    .querySelector("#contact-form")
-    ?.addEventListener("submit", (event) => {
-      event.preventDefault();
-      const form = event.currentTarget;
-      if (!(form instanceof HTMLFormElement) || !form.reportValidity()) return;
-      const data = new FormData(form);
-      const name = String(data.get("name") || "");
-      const sender = String(data.get("email") || "");
-      const message = String(data.get("message") || "");
-      const body = `${message}\n\nFrom: ${name}\nReply to: ${sender}`;
-      window.location.href = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-    });
+<script define:vars={{ contact }}>
+  const form = document.querySelector("#contact-form");
+  form?.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    if (!(form instanceof HTMLFormElement) || !form.reportValidity()) return;
+
+    const button = form.querySelector('button[type="submit"]');
+    const status = form.querySelector(".contact-status");
+    if (
+      !(button instanceof HTMLButtonElement) ||
+      !(status instanceof HTMLElement)
+    )
+      return;
+
+    const fields = Object.fromEntries(new FormData(form));
+    fields._replyto = fields.email;
+    button.disabled = true;
+    form.setAttribute("aria-busy", "true");
+    status.textContent = contact.sending;
+
+    try {
+      const response = await fetch(contact.ajaxEndpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify(fields),
+      });
+      const result = await response.json();
+      if (
+        !response.ok ||
+        result.success === false ||
+        result.success === "false"
+      ) {
+        throw new Error("FormSubmit rejected the submission");
+      }
+      form.reset();
+      status.textContent = contact.sent;
+    } catch {
+      status.textContent = contact.sendError;
+    } finally {
+      button.disabled = false;
+      form.removeAttribute("aria-busy");
+    }
+  });
 </script>

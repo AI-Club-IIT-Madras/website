@@ -1,0 +1,31 @@
+---
+import type achievements from "../data/achievements.json";
+import site from "../data/site.json";
+import Arrow from "./Arrow.astro";
+
+interface Props {
+  item: (typeof achievements)["publications"][number];
+  reveal?: boolean;
+}
+
+const { item, reveal = false } = Astro.props;
+---
+
+<article class="research-card card" data-reveal={reveal ? "row" : undefined}>
+  <h3>
+    <a href={item.url} target="_blank" rel="noopener noreferrer">
+      {item.title}
+    </a>
+  </h3>
+  <p>{item.description}</p>
+  <a
+    class="text-link"
+    href={item.url}
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label={`${site.labels.readArticle}: ${item.title}`}
+  >
+    {site.labels.readArticle}
+    <Arrow diagonal />
+  </a>
+</article>

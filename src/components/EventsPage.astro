@@ -29,6 +29,12 @@ const youtube = site.socials.find((social) => social.label === "YouTube");
     <YearNav kind="events" current={year} />
   </PageHeading>
   <div class="shell archive-content">
+    {year === "26-27" && upcoming.status === "placeholder" && (
+      <p class="upcoming-status">
+        <span>{site.labels.upcomingEvents}</span>
+        <strong>{site.labels.noUpcomingEvents}</strong>
+      </p>
+    )}
     {year === "26-27" &&
       !records.length &&
       upcoming.status !== "placeholder" && (

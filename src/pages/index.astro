@@ -8,10 +8,16 @@ import Arrow from "../components/Arrow.astro";
 import site from "../data/site.json";
 import events from "../data/events.json";
 import blogs from "../data/blogs.json";
+import achievements from "../data/achievements.json";
+import announcements from "../data/announcements.json";
 import { newestPublished } from "../lib/content.mjs";
 import { localUrl } from "../lib/urls";
 const recentEvents = newestPublished(events).slice(0, 3);
 const recentBlogs = newestPublished(blogs).slice(0, 3);
+const featuredResearch = achievements.publications
+  .filter((item) => item.category === "Research")
+  .slice(0, 3);
+const featuredHackathons = achievements.hackathons.slice(0, 3);
 ---
 
 <Layout>
@@ -41,6 +47,12 @@ const recentBlogs = newestPublished(blogs).slice(0, 3);
         <Arrow />
       </a>
     </div>
+    {announcements.upcomingEvent.status === "placeholder" && (
+      <p class="upcoming-status">
+        <span>{site.labels.upcomingEvents}</span>
+        <strong>{site.labels.noUpcomingEvents}</strong>
+      </p>
+    )}
     <div class="event-grid">
       {recentEvents.map((event) => (
         <EventCard event={event} compact />
@@ -61,6 +73,54 @@ const recentBlogs = newestPublished(blogs).slice(0, 3);
       ))}
     </div>
   </section>
-  <Partners reveal="right" />
-  <Contact reveal="left" />
+  <section class="section shell home-achievements" id="achievements">
+    <div class="section-head" data-reveal="right">
+      <h2 class="section-title">{site.labels.achievements}</h2>
+      <a class="text-link" href={localUrl("/achievements/")}>
+        {site.labels.allAchievements}
+        <Arrow />
+      </a>
+    </div>
+    <div class="home-achievement-layout">
+      <section class="home-achievement-panel card" data-reveal="left">
+        <h3>{site.labels.research}</h3>
+        <ul class="home-research-list">
+          {featuredResearch.map((item) => (
+            <li>
+              <a href={item.url} target="_blank" rel="noopener noreferrer">
+                {item.title}
+                <Arrow diagonal />
+              </a>
+              <p>{item.description}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+      <section class="home-achievement-panel card" data-reveal="right">
+        <h3>{site.labels.hackathons}</h3>
+        <ul class="home-award-list">
+          {featuredHackathons.map((item) => (
+            <li>
+              <img
+                src={localUrl(item.image)}
+                alt=""
+                width="112"
+                height="84"
+                loading="lazy"
+                decoding="async"
+              />
+              <div>
+                <h4>{item.title}</h4>
+                <p class:list={["hackathon-result", item.result.toLowerCase()]}>
+                  {item.result}
+                </p>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </section>
+    </div>
+  </section>
+  <Partners reveal="left" />
+  <Contact reveal="right" />
 </Layout>
