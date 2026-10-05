@@ -686,24 +686,18 @@
     height: 210px;
     object-fit: cover;
   }
-  .project-image-placeholder {
-    display: grid;
-    width: 100%;
-    height: 150px;
-    place-items: end start;
-    padding: 20px 24px;
-    background:
-      radial-gradient(circle at 82% 18%, #ffffff1d, transparent 34%),
-      linear-gradient(145deg, #1a1a1a, #090909);
-    color: #777;
-    font:
-      600 13px/1.4 "Instrument Sans",
-      sans-serif;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
   .archive-project-card .project-content {
-    padding-top: 20px;
+    padding: 30px;
+  }
+  .archive-project-card .project-content h2 {
+    margin-bottom: 18px;
+    font-size: 30px;
+  }
+  .archive-project-card .project-description {
+    margin-bottom: 0;
+    color: #c4c4c4;
+    font-size: 15px;
+    line-height: 1.7;
   }
   .project-card > img.project-image-contain {
     object-fit: contain;

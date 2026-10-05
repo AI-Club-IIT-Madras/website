@@ -23,7 +23,7 @@ const externalTeam = currentTeamUrl?.startsWith("https:");
     { "archive-project-card": project.academicYear === "22-25" },
   ]}
 >
-  {project.image ? (
+  {project.image && (
     <img
       class:list={{ "project-image-contain": project.id === "kathai" }}
       src={localUrl(project.image)}
@@ -33,10 +33,6 @@ const externalTeam = currentTeamUrl?.startsWith("https:");
       loading="lazy"
       decoding="async"
     />
-  ) : (
-    <div class="project-image-placeholder" aria-hidden="true">
-      <span>{project.title}</span>
-    </div>
   )}
   <div class="project-content">
     <h2>{project.title}</h2>
