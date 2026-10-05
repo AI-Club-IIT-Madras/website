@@ -46,7 +46,7 @@
   {
     "id": "triton-cu",
     "title": "triton::cu",
-    "subtitle": "High-performance GPU kernels for AI workloads",
+    "subtitle": "Agentic pipeline for translation from Triton to CUDA",
     "description": "triton::cu is a project done in collaboration with KLA. The aim of the project is to make an agentic pipeline capable of converting Triton code into CUDA code. CUDA code gives the programmer lower level control and therefore the code can be optimized more than Triton code.",
     "tags": ["GPU Programming", "CUDA", "AI Agents"],
     "academicYear": "26-27",
