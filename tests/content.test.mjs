@@ -72,6 +72,10 @@ test("2026–27 events include the complete poster-backed archive", async () => 
   assert.equal(currentKts?.date, "2026-06-23");
   assert.equal(currentKts?.displayDate, "23 June–15 July, 2026");
   assert.equal(currentKts?.description, previousKts?.description);
+  assert.deepEqual(
+    currentKts?.resourceLinks?.map((resource) => resource.label),
+    ["KTS Resources", "Translating Tensors"],
+  );
   assert.equal(
     events.filter((event) => event.academicYear === "26-27").length,
     8,

@@ -33,7 +33,7 @@
     "date": "2026-09-24",
     "displayDate": "24 September, 2026",
     "displayTime": "9:00 PM–11:00 PM",
-    "location": "SSB 134 (Tentative)",
+    "location": "SSB 134",
     "description": "A beginner-friendly introduction to neural networks that began with linear and polynomial regression to frame models as learned functions. The session then developed the core building blocks of a neural network like loss functions, weights, biases, and activation functions and showed how forward propagation produces predictions while gradient descent and backpropagation improve the model during training.",
     "academicYear": "26-27",
     "image": "/images/events/introduction-neural-networks-26-27.jpg",
@@ -85,7 +85,7 @@
     "description": "An informal session led by Adithya Rajagopalan on intelligent search algorithms. Starting with breadth-first search and Dijkstra’s algorithm, the session advanced to A*, AO*, optimization techniques, real-world applications, and hands-on demonstrations.",
     "academicYear": "26-27",
     "image": "/images/events/informals-search-quest-26-27.jpg",
-    "resourceUrl": null,
+    "resourceUrl": "https://docs.google.com/presentation/d/1VcTOCiMtqVmoCfil8qKz3RMdSuRCWG0v/edit?usp=share_link&ouid=105107466758785879661&rtpof=true&sd=true",
     "status": "published",
     "legacyAnchor": null
   },
@@ -182,8 +182,18 @@
     "location": null,
     "description": "A core learning initiative by the AI Club, aimed at strengthening the technical foundation of its members, the Knowledge Transfer Sessions (KTS) were a series of ten summer sessions covering core Machine Learning fundamentals, followed by an introduction to Deep Learning. The program emphasized collaboration, conceptual clarity, and hands-on learning across the ML–DL spectrum.",
     "academicYear": "26-27",
-    "image": null,
-    "resourceUrl": "https://drive.google.com/drive/folders/1LgMTiBPpOvBZ1KPj5_IF2tA0IksnGnJ-?usp=share_link",
+    "image": "/images/events/KTS.jpg",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "KTS Resources",
+        "url": "https://drive.google.com/drive/folders/1LgMTiBPpOvBZ1KPj5_IF2tA0IksnGnJ-?usp=share_link"
+      },
+      {
+        "label": "Translating Tensors",
+        "url": "https://drive.google.com/file/d/1e17JxcSM3K_ST2e25m3tfDKmUTY4e_ui/view?usp=share_link"
+      }
+    ],
     "status": "published",
     "legacyAnchor": null
   },
