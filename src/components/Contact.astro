@@ -42,55 +42,6 @@ const { reveal } = Astro.props;
         {contact.submit}
         <Arrow />
       </button>
-      <p class="contact-status" role="status" aria-live="polite"></p>
     </form>
   </div>
 </section>
-
-<script define:vars={{ contact }}>
-  const form = document.querySelector("#contact-form");
-  form?.addEventListener("submit", async (event) => {
-    event.preventDefault();
-    if (!(form instanceof HTMLFormElement) || !form.reportValidity()) return;
-
-    const button = form.querySelector('button[type="submit"]');
-    const status = form.querySelector(".contact-status");
-    if (
-      !(button instanceof HTMLButtonElement) ||
-      !(status instanceof HTMLElement)
-    )
-      return;
-
-    const fields = Object.fromEntries(new FormData(form));
-    fields._replyto = fields.email;
-    button.disabled = true;
-    form.setAttribute("aria-busy", "true");
-    status.textContent = contact.sending;
-
-    try {
-      const response = await fetch(contact.ajaxEndpoint, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Accept: "application/json",
-        },
-        body: JSON.stringify(fields),
-      });
-      const result = await response.json();
-      if (
-        !response.ok ||
-        result.success === false ||
-        result.success === "false"
-      ) {
-        throw new Error("FormSubmit rejected the submission");
-      }
-      form.reset();
-      status.textContent = contact.sent;
-    } catch {
-      status.textContent = contact.sendError;
-    } finally {
-      button.disabled = false;
-      form.removeAttribute("aria-busy");
-    }
-  });
-</script>

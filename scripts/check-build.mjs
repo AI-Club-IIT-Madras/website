@@ -67,6 +67,13 @@ for (const required of [
     errors.push(`missing build output: ${required}`);
 }
 
+const home = load(readFileSync(join(root, "index.html"), "utf8"));
+const contactForm = home("#contact-form");
+if (contactForm.attr("method")?.toLowerCase() !== "post")
+  errors.push("homepage: contact form must use POST");
+if (!contactForm.attr("action")?.startsWith("https://formsubmit.co/"))
+  errors.push("homepage: contact form is missing its delivery endpoint");
+
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exit(1);

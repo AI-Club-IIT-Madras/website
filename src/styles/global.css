@@ -1007,17 +1007,6 @@
     font-size: 13px;
     color: #aaa;
   }
-  .contact-status:empty {
-    display: none;
-  }
-  .contact-status {
-    color: #ddd;
-    font-size: 14px;
-  }
-  .contact-panel button:disabled {
-    cursor: wait;
-    opacity: 0.65;
-  }
   input,
   textarea {
     width: 100%;

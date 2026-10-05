@@ -95,10 +95,10 @@ The contact form sends submissions to `aiclubcfi@smail.iitm.ac.in` through
 [FormSubmit](https://formsubmit.co/), without opening the visitor's email app. The first
 submission triggers a verification email to that inbox; a club mail administrator must
 follow its confirmation link before FormSubmit delivers messages. Check the spam folder
-if it does not arrive. The form shows sending, success, and error messages, and its
-ordinary POST action works when JavaScript is unavailable. If the club address changes,
-update `site.json > email`, `site.json > contact.endpoint`, and
-`site.json > contact.ajaxEndpoint` together, then verify the new address with FormSubmit.
+if it does not arrive. The form uses a standard POST and shows FormSubmit's confirmation
+page after submission; it works without JavaScript. If the club address changes,
+update `site.json > email` and `site.json > contact.endpoint` together, then verify the
+new address with FormSubmit.
 
 ## GitHub Pages deployment
 

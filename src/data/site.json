@@ -143,16 +143,12 @@
   },
   "contact": {
     "endpoint": "https://formsubmit.co/aiclubcfi@smail.iitm.ac.in",
-    "ajaxEndpoint": "https://formsubmit.co/ajax/aiclubcfi@smail.iitm.ac.in",
     "name": "Name",
     "email": "Email",
     "message": "Message",
     "submit": "Send message",
     "emailAction": "Email the club",
     "subject": "AI Club website enquiry",
-    "privacy": "Your message is sent to the AI Club inbox through FormSubmit.",
-    "sending": "Sending your message…",
-    "sent": "Message submitted. Thank you for reaching out!",
-    "sendError": "The message could not be sent. Please email us using the address on this page."
+    "privacy": "Your message is sent to the AI Club inbox through FormSubmit. After sending, FormSubmit will show a confirmation page."
   }
 }
