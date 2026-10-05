@@ -11,6 +11,10 @@ export function getStaticPaths() {
   return ["22-25", "25-26", "26-27"].map((year) => ({ params: { year } }));
 }
 const year = Astro.params.year!;
+const yearProjects = projects.filter(
+  (project) => project.academicYear === year,
+);
+const archiveTenures = ["24-25", "23-24"];
 ---
 
 <Layout title={`${site.labels.projects} ${academicYear(year)}`}>
@@ -18,13 +22,31 @@ const year = Astro.params.year!;
     <YearNav kind="projects" current={year} />
   </PageHeading>
   <div class="shell archive-content">
-    <div class="project-grid">
-      {projects
-        .filter((project) => project.academicYear === year)
-        .map((project) => (
+    {year === "22-25" ? (
+      <div class="archive-project-groups">
+        {archiveTenures.map((tenure) => (
+          <section
+            class="archive-project-group"
+            aria-labelledby={`projects-${tenure}`}
+          >
+            <h2 id={`projects-${tenure}`}>{academicYear(tenure)}</h2>
+            <div class="project-grid">
+              {yearProjects
+                .filter((project) => project.tenure === tenure)
+                .map((project) => (
+                  <ProjectCard project={project} />
+                ))}
+            </div>
+          </section>
+        ))}
+      </div>
+    ) : (
+      <div class="project-grid">
+        {yearProjects.map((project) => (
           <ProjectCard project={project} />
         ))}
-    </div>
+      </div>
+    )}
   </div>
   {year === "25-26" && <Partners variant="projects2526" />}
   {year === "26-27" && <Partners variant="projects" />}

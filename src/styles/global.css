@@ -677,6 +677,14 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 22px;
   }
+  .archive-project-groups {
+    display: grid;
+    gap: 64px;
+  }
+  .archive-project-group > h2 {
+    margin-bottom: 24px;
+    font-size: clamp(30px, 3vw, 42px);
+  }
   .project-card {
     display: flex;
     flex-direction: column;

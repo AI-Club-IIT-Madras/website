@@ -395,21 +395,14 @@ test("homepage marquee includes every verified project partner once", async () =
       "Shaastra",
       "LC-Lab",
       "gradCapital",
-      "Exception Raised",
       "CFI",
+      "Exception Raised",
       "Archive of IIT Madras",
     ],
   );
   assert.deepEqual(
     partners.projects.map((partner) => partner.name),
-    [
-      "KLA and CΦ",
-      "Shaastra",
-      "LC-Lab",
-      "gradCapital",
-      "Exception Raised",
-      "CFI",
-    ],
+    ["KLA and CΦ", "Shaastra", "LC-Lab", "gradCapital", "CFI"],
   );
   assert.deepEqual(
     partners.projects2526.map((partner) => partner.name),
@@ -459,4 +452,23 @@ test("the 2022–25 project archive preserves the Wix project inventory", async 
   );
   assert.ok(archive.every((project) => project.description.trim()));
   assert.ok(archive.every((project) => project.showProjectLink === false));
+  assert.deepEqual(
+    archive
+      .filter((project) => project.tenure === "24-25")
+      .map((project) => project.title),
+    ["AI Rahman", "Night Vision", "Suncast"],
+  );
+  assert.deepEqual(
+    archive
+      .filter((project) => project.tenure === "23-24")
+      .map((project) => project.title),
+    [
+      "Text 2 Scene",
+      "Spike Drive",
+      "RL Games",
+      "Deepfake Detection",
+      "OptiWing",
+      "AI Choreography",
+    ],
+  );
 });
