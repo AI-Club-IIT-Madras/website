@@ -23,6 +23,7 @@ const { reveal } = Astro.props;
   </div>
   <div class="contact-panel">
     <form id="contact-form" action={contact.endpoint} method="post">
+      <input type="hidden" name="_url" value={contact.formUrl} />
       <input type="hidden" name="_subject" value={contact.subject} />
       <input type="hidden" name="_honey" tabindex="-1" autocomplete="off" />
       <label>

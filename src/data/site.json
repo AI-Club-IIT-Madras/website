@@ -143,6 +143,7 @@
   },
   "contact": {
     "endpoint": "https://formsubmit.co/aiclubcfi@smail.iitm.ac.in",
+    "formUrl": "https://aiclubcfi.com/",
     "name": "Name",
     "email": "Email",
     "message": "Message",

@@ -98,7 +98,10 @@ follow its confirmation link before FormSubmit delivers messages. Check the spam
 if it does not arrive. The form uses a standard POST and shows FormSubmit's confirmation
 page after submission; it works without JavaScript. If the club address changes,
 update `site.json > email` and `site.json > contact.endpoint` together, then verify the
-new address with FormSubmit.
+new address with FormSubmit. `site.json > contact.formUrl` identifies the published
+site in FormSubmit's activation messages. After deploying, submit a test from
+`https://aiclubcfi.com/` and activate the resulting email; do not use a local preview
+to activate the published form.
 
 ## GitHub Pages deployment
 

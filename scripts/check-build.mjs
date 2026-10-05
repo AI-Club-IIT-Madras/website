@@ -73,6 +73,10 @@ if (contactForm.attr("method")?.toLowerCase() !== "post")
   errors.push("homepage: contact form must use POST");
 if (!contactForm.attr("action")?.startsWith("https://formsubmit.co/"))
   errors.push("homepage: contact form is missing its delivery endpoint");
+if (
+  contactForm.find('[name="_url"]').attr("value") !== "https://aiclubcfi.com/"
+)
+  errors.push("homepage: contact form must identify the published website");
 
 if (errors.length) {
   console.error(errors.join("\n"));
