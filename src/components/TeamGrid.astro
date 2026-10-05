@@ -13,14 +13,19 @@ interface Member {
 
 interface Props {
   members: Member[];
+  reveal?: boolean;
 }
 
-const { members } = Astro.props;
+const { members, reveal = false } = Astro.props;
 ---
 
 <div class="team-grid">
-  {members.map((member) => (
-    <article class="member-card card">
+  {members.map((member, index) => (
+    <article
+      class="member-card card"
+      data-reveal={reveal ? "pop" : undefined}
+      style={reveal ? `--reveal-delay: ${(index % 5) * 55}ms;` : undefined}
+    >
       <div class="member-photo">
         {member.image ? (
           <img

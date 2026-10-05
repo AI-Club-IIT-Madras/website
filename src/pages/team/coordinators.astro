@@ -38,10 +38,10 @@ const sections = [
   <div class="shell team-directory">
     {sections.map((section) => (
       <section class="team-section" id={section.id}>
-        <div class="team-section-heading">
+        <div class="team-section-heading" data-reveal="pop">
           <h2>{section.label}</h2>
         </div>
-        <TeamGrid members={section.members} />
+        <TeamGrid members={section.members} reveal />
       </section>
     ))}
   </div>

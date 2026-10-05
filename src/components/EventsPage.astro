@@ -17,9 +17,7 @@ const datedRecords = newestPublished(events).filter(
 );
 const undatedRecords = events.filter(
   (event) =>
-    event.status === "published" &&
-    event.academicYear === year &&
-    !event.date,
+    event.status === "published" && event.academicYear === year && !event.date,
 );
 const records = [...datedRecords, ...undatedRecords];
 const upcoming = announcements.upcomingEvent;
@@ -31,20 +29,22 @@ const youtube = site.socials.find((social) => social.label === "YouTube");
     <YearNav kind="events" current={year} />
   </PageHeading>
   <div class="shell archive-content">
-    {year === "26-27" && !records.length && upcoming.status !== "placeholder" && (
-      <section class="upcoming-placeholder card">
-        <div>
-          <p class="eyebrow">{site.labels.upcoming}</p>
-          <h2>{upcoming.title || site.labels.announcementPlaceholder}</h2>
-          <p class="todo-copy">
-            {upcoming.description || site.labels.upcomingNote}
-          </p>
-        </div>
-        <span class="placeholder-symbol" aria-hidden="true">
-          — —
-        </span>
-      </section>
-    )}
+    {year === "26-27" &&
+      !records.length &&
+      upcoming.status !== "placeholder" && (
+        <section class="upcoming-placeholder card">
+          <div>
+            <p class="eyebrow">{site.labels.upcoming}</p>
+            <h2>{upcoming.title || site.labels.announcementPlaceholder}</h2>
+            <p class="todo-copy">
+              {upcoming.description || site.labels.upcomingNote}
+            </p>
+          </div>
+          <span class="placeholder-symbol" aria-hidden="true">
+            — —
+          </span>
+        </section>
+      )}
     {youtube && (
       <p class="events-recording-note">
         {site.labels.eventRecordings}{" "}
@@ -60,8 +60,8 @@ const youtube = site.socials.find((social) => social.label === "YouTube");
       </span>
     </div>
     <div class="event-list">
-      {records.map((event) => (
-        <EventCard event={event} />
+      {records.map((event, index) => (
+        <EventCard event={event} stackIndex={index} />
       ))}
     </div>
     {!records.length && <p class="team-empty">{site.labels.emptyEvents}</p>}

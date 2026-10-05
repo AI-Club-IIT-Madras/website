@@ -15,11 +15,11 @@ const recentBlogs = newestPublished(blogs).slice(0, 3);
 ---
 
 <Layout>
-  <section class="hero shell">
+  <section class="hero shell" data-reveal="left">
     <h1>{site.name}</h1>
     <p class="hero-copy">{site.introduction}</p>
   </section>
-  <section class="section shell" id="events">
+  <section class="section shell" id="events" data-reveal="right">
     <div class="section-head">
       <h2 class="section-title">{site.labels.events}</h2>
       <a
@@ -36,7 +36,7 @@ const recentBlogs = newestPublished(blogs).slice(0, 3);
       ))}
     </div>
   </section>
-  <section class="section shell">
+  <section class="section shell" data-reveal="left">
     <div class="section-head">
       <h2 class="section-title">{site.labels.blogs}</h2>
       <a class="text-link" href={localUrl("/blog/")}>
@@ -50,6 +50,6 @@ const recentBlogs = newestPublished(blogs).slice(0, 3);
       ))}
     </div>
   </section>
-  <Partners />
-  <Contact />
+  <Partners reveal="right" />
+  <Contact reveal="left" />
 </Layout>

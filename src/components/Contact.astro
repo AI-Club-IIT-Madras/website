@@ -2,9 +2,17 @@
 import site from "../data/site.json";
 import Arrow from "./Arrow.astro";
 const { contact } = site;
+interface Props {
+  reveal?: "left" | "right" | "pop";
+}
+const { reveal } = Astro.props;
 ---
 
-<section class="section shell contact-section" id="contact">
+<section
+  class="section shell contact-section"
+  id="contact"
+  data-reveal={reveal}
+>
   <div>
     <p class="eyebrow">{site.institution}</p>
     <h2 class="section-title">{site.contactHeading}</h2>

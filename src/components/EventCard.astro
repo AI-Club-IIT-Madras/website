@@ -6,8 +6,9 @@ import Arrow from "./Arrow.astro";
 interface Props {
   event: (typeof events)[number];
   compact?: boolean;
+  stackIndex?: number;
 }
-const { event, compact = false } = Astro.props;
+const { event, compact = false, stackIndex } = Astro.props;
 const href = localUrl(`/events/${event.academicYear}/#${event.id}`);
 const resourceLinks =
   "resourceLinks" in event && event.resourceLinks ? event.resourceLinks : [];
@@ -15,8 +16,16 @@ const descriptionParagraphs = event.description.split(/\n\s*\n/);
 ---
 
 <article
-  class:list={["event-card card", { compact }]}
+  class:list={[
+    "event-card card",
+    { compact, stacked: stackIndex !== undefined },
+  ]}
   id={compact ? undefined : event.id}
+  style={
+    stackIndex === undefined
+      ? undefined
+      : `--stack-top: ${112 + stackIndex * 10}px; --stack-depth: ${stackIndex + 1};`
+  }
 >
   {!compact && event.legacyAnchor && (
     <span id={event.legacyAnchor} class="legacy-anchor" aria-hidden="true" />
@@ -51,15 +60,13 @@ const descriptionParagraphs = event.description.split(/\n\s*\n/);
       <details class="event-resources">
         <summary class="button button-secondary">
           {site.labels.resources}
-          <span class="resource-chevron" aria-hidden="true">⌄</span>
+          <span class="resource-chevron" aria-hidden="true">
+            ⌄
+          </span>
         </summary>
         <div class="event-resource-menu">
           {resourceLinks.map((resource) => (
-            <a
-              href={resource.url}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href={resource.url} target="_blank" rel="noopener noreferrer">
               {resource.label}
               <Arrow diagonal />
             </a>

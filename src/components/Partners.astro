@@ -4,8 +4,9 @@ import site from "../data/site.json";
 import { localUrl } from "../lib/urls";
 interface Props {
   variant?: "home" | "projects" | "projects2526";
+  reveal?: "left" | "right" | "pop";
 }
-const { variant = "home" } = Astro.props;
+const { variant = "home", reveal } = Astro.props;
 const sourceEntries =
   variant === "home"
     ? [...partners.home, ...partners.projects, ...partners.projects2526]
@@ -23,6 +24,7 @@ const heading =
     "section partners",
     variant === "home" ? "partners-home" : "partners-projects",
   ]}
+  data-reveal={reveal}
 >
   <div class="shell">
     <h2 class="section-title">{heading}</h2>
