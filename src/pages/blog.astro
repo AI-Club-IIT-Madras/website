@@ -17,9 +17,9 @@ const groups = groupByYear(blogs);
     </nav>
   </PageHeading>
   <div class="shell archive-content">
-    {groups.map((group) => (
+    {groups.map((group, index) => (
       <section class="year-section" id={`year-${group.year}`}>
-        <div class="year-heading">
+        <div class="year-heading" data-reveal={index % 2 ? "right" : "left"}>
           <h2>{group.year}</h2>
           <span>
             {group.records.length} {site.labels.articleCount}
@@ -27,7 +27,7 @@ const groups = groupByYear(blogs);
         </div>
         <div class="blog-grid">
           {group.records.map((blog) => (
-            <BlogCard blog={blog} />
+            <BlogCard blog={blog} reveal />
           ))}
         </div>
       </section>

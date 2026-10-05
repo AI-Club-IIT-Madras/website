@@ -6,12 +6,17 @@ import { readingMinutes } from "../lib/content.mjs";
 import Arrow from "./Arrow.astro";
 interface Props {
   blog: (typeof blogs)[number];
+  reveal?: boolean;
 }
-const { blog } = Astro.props;
+const { blog, reveal = false } = Astro.props;
 const minutes = readingMinutes(blog);
 ---
 
-<article class="blog-card card" id={blog.id}>
+<article
+  class="blog-card card"
+  id={blog.id}
+  data-reveal={reveal ? "row" : undefined}
+>
   <div class="blog-card-content">
     <div class="card-meta">
       <time datetime={blog.date}>{blog.displayDate}</time>

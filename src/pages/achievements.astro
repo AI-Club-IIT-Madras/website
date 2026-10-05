@@ -9,14 +9,16 @@ import { localUrl } from "../lib/urls";
 
 <Layout title={site.labels.achievements}>
   <PageHeading title={site.labels.achievements} />
-  {["Research", "Patents"].map((category) => (
+  {["Research", "Patents"].map((category, index) => (
     <section class="section shell">
-      <h2 class="section-title">{category}</h2>
+      <h2 class="section-title" data-reveal={index % 2 ? "right" : "left"}>
+        {category}
+      </h2>
       <div class="research-list">
         {achievements.publications
           .filter((item) => item.category === category)
           .map((item) => (
-            <article class="research-card card">
+            <article class="research-card card" data-reveal="row">
               <h3>
                 <a href={item.url} target="_blank" rel="noopener noreferrer">
                   {item.title}
@@ -39,10 +41,12 @@ import { localUrl } from "../lib/urls";
     </section>
   ))}
   <section class="section shell">
-    <h2 class="section-title">{site.labels.hackathons}</h2>
+    <h2 class="section-title" data-reveal="left">
+      {site.labels.hackathons}
+    </h2>
     <div class="hackathon-grid">
       {achievements.hackathons.map((item) => (
-        <article class="hackathon-card">
+        <article class="hackathon-card" data-reveal="row">
           <div class="hackathon-image">
             <img
               src={localUrl(item.image)}

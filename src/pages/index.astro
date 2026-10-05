@@ -15,9 +15,20 @@ const recentBlogs = newestPublished(blogs).slice(0, 3);
 ---
 
 <Layout>
-  <section class="hero shell" data-reveal="left">
-    <h1>{site.name}</h1>
-    <p class="hero-copy">{site.introduction}</p>
+  <section class="hero shell">
+    <h1 data-reveal="left">{site.name}</h1>
+    <p class="hero-copy" data-reveal="right">
+      {site.introduction}
+    </p>
+    <a
+      class="scroll-cue"
+      href="#events"
+      aria-label={site.labels.scrollToEvents}
+    >
+      <svg viewBox="0 0 20 32" fill="none" aria-hidden="true">
+        <path d="m3 3 7 6 7-6M3 12l7 6 7-6M3 21l7 6 7-6" />
+      </svg>
+    </a>
   </section>
   <section class="section shell" id="events" data-reveal="right">
     <div class="section-head">

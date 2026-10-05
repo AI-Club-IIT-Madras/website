@@ -15,8 +15,22 @@
       (entries) => {
         entries.forEach((entry) => {
           if (!entry.isIntersecting) return;
-          entry.target.classList.add("is-revealed");
-          observer.unobserve(entry.target);
+          const item = entry.target as HTMLElement;
+          const row =
+            item.dataset.reveal === "row"
+              ? Array.from(
+                  item.parentElement?.querySelectorAll<HTMLElement>(
+                    '[data-reveal="row"]',
+                  ) ?? [],
+                ).filter(
+                  (card) => Math.abs(card.offsetTop - item.offsetTop) < 3,
+                )
+              : [item];
+
+          row.forEach((card) => {
+            card.classList.add("is-revealed");
+            observer.unobserve(card);
+          });
         });
       },
       {
