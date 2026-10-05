@@ -9,14 +9,16 @@ const { kind, current } = Astro.props;
 ---
 
 <nav class="year-nav" aria-label={site.labels.academicYear}>
-  {["26-27", "25-26"].map((year) => (
-    <a
-      href={localUrl(
-        kind === "events" ? `/events/${year}/` : `/projects-${year}/`,
-      )}
-      aria-current={year === current ? "page" : undefined}
-    >
-      {academicYear(year)}
-    </a>
-  ))}
+  {(kind === "projects" ? ["26-27", "25-26", "22-25"] : ["26-27", "25-26"]).map(
+    (year) => (
+      <a
+        href={localUrl(
+          kind === "events" ? `/events/${year}/` : `/projects-${year}/`,
+        )}
+        aria-current={year === current ? "page" : undefined}
+      >
+        {academicYear(year)}
+      </a>
+    ),
+  )}
 </nav>

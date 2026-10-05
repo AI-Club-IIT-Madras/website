@@ -8,7 +8,7 @@ import projects from "../data/projects.json";
 import site from "../data/site.json";
 import { academicYear } from "../lib/urls";
 export function getStaticPaths() {
-  return ["25-26", "26-27"].map((year) => ({ params: { year } }));
+  return ["22-25", "25-26", "26-27"].map((year) => ({ params: { year } }));
 }
 const year = Astro.params.year!;
 ---

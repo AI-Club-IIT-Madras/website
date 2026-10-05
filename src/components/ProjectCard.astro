@@ -12,30 +12,43 @@ const currentTeamUrl =
   project.id === "viveka-2"
     ? "https://viveka.aiclubcfi.com/team.html#v2"
     : project.academicYear === "26-27"
-    ? `/projects-26-27/${project.id}/#team`
-    : null;
+      ? `/projects-26-27/${project.id}/#team`
+      : null;
 const externalTeam = currentTeamUrl?.startsWith("https:");
 ---
 
-<article class="project-card card">
-  <img
-    class:list={{ "project-image-contain": project.id === "kathai" }}
-    src={localUrl(project.image!)}
-    width="600"
-    height="320"
-    alt={`${project.title} — project illustration`}
-    loading="lazy"
-    decoding="async"
-  />
+<article
+  class:list={[
+    "project-card card",
+    { "archive-project-card": project.academicYear === "22-25" },
+  ]}
+>
+  {project.image ? (
+    <img
+      class:list={{ "project-image-contain": project.id === "kathai" }}
+      src={localUrl(project.image)}
+      width="600"
+      height="320"
+      alt={`${project.title} — project illustration`}
+      loading="lazy"
+      decoding="async"
+    />
+  ) : (
+    <div class="project-image-placeholder" aria-hidden="true">
+      <span>{project.title}</span>
+    </div>
+  )}
   <div class="project-content">
     <h2>{project.title}</h2>
     {project.subtitle && <p class="project-subtitle">{project.subtitle}</p>}
     <p class="project-description">{project.description}</p>
-    <ul class="tags" aria-label="Topics">
-      {project.tags.map((tag) => (
-        <li>{tag}</li>
-      ))}
-    </ul>
+    {project.tags.length > 0 && (
+      <ul class="tags" aria-label="Topics">
+        {project.tags.map((tag) => (
+          <li>{tag}</li>
+        ))}
+      </ul>
+    )}
     <div class="card-actions">
       {project.showProjectLink && project.url ? (
         <a

@@ -74,7 +74,23 @@ test("2026–27 events include the complete poster-backed archive", async () => 
   assert.equal(currentKts?.description, previousKts?.description);
   assert.deepEqual(
     currentKts?.resourceLinks?.map((resource) => resource.label),
-    ["KTS Resources", "Translating Tensors"],
+    ["Slides & Notebooks", "Translating Tensors", "Session Recordings"],
+  );
+  assert.match(
+    currentKts?.resourceLinks?.find(
+      (resource) => resource.label === "Session Recordings",
+    )?.url || "",
+    /youtube\.com\/playlist\?list=PLC9TZSja48vY/,
+  );
+  assert.deepEqual(
+    previousKts?.resourceLinks?.map((resource) => resource.label),
+    ["Slides & Notebooks", "Session Recordings"],
+  );
+  assert.match(
+    previousKts?.resourceLinks?.find(
+      (resource) => resource.label === "Session Recordings",
+    )?.url || "",
+    /youtube\.com\/playlist\?list=PLWkFppvOIj_ToR0qUdltuIeEaBMeiqCUi/,
   );
   assert.equal(
     events.filter((event) => event.academicYear === "26-27").length,
@@ -147,7 +163,8 @@ test("the first Informals session includes all shared resources", async () => {
   assert.equal(informals?.resourceLinks?.length, 4);
   assert.ok(
     informals.resourceLinks.every(
-      (resource) => resource.label?.trim() && resource.url?.startsWith("https://"),
+      (resource) =>
+        resource.label?.trim() && resource.url?.startsWith("https://"),
     ),
   );
 });
@@ -161,7 +178,8 @@ test("Gradient Flows includes all follow-up resources", async () => {
   assert.equal(gradientFlows?.resourceLinks?.length, 7);
   assert.ok(
     gradientFlows.resourceLinks.every(
-      (resource) => resource.label?.trim() && resource.url?.startsWith("https://"),
+      (resource) =>
+        resource.label?.trim() && resource.url?.startsWith("https://"),
     ),
   );
 });
@@ -176,10 +194,19 @@ test("the neural networks session links its slides and recording", async () => {
     neuralNetworks?.resourceLinks?.map((resource) => resource.label),
     ["Session Slides", "Session Recording"],
   );
-  assert.match(neuralNetworks?.description || "", /linear and polynomial regression/i);
-  assert.match(neuralNetworks?.description || "", /weights, biases, and activation functions/i);
+  assert.match(
+    neuralNetworks?.description || "",
+    /linear and polynomial regression/i,
+  );
+  assert.match(
+    neuralNetworks?.description || "",
+    /weights, biases, and activation functions/i,
+  );
   assert.match(neuralNetworks?.description || "", /forward propagation/i);
-  assert.match(neuralNetworks?.description || "", /gradient descent and backpropagation/i);
+  assert.match(
+    neuralNetworks?.description || "",
+    /gradient descent and backpropagation/i,
+  );
 });
 
 test("the NLP roadmap links its slides and reflects their topics", async () => {
@@ -227,13 +254,27 @@ test("Epoch 3 links its slides and available recordings", async () => {
 
   assert.deepEqual(
     epoch?.resourceLinks?.map((resource) => resource.label),
-    ["Session Slides", "Pre-Epoch Recording", "Day 1 Recording"],
+    [
+      "Session Slides",
+      "Pre-Epoch Recording",
+      "Day 1 Recording",
+      "Day 2 Recording",
+    ],
+  );
+  assert.equal(
+    epoch?.resourceLinks?.find(
+      (resource) => resource.label === "Day 2 Recording",
+    )?.url,
+    "https://www.youtube.com/watch?v=QZzemwvmVsY",
   );
   assert.match(epoch?.description || "", /Pre-Epoch built the prerequisites/);
   assert.match(epoch?.description || "", /On Day 1/);
   assert.match(epoch?.description || "", /Day 2 focused on architecture/);
   assert.equal(epoch?.description?.split("\n\n").length, 3);
-  assert.doesNotMatch(epoch?.description || "", /\b(?:7|9|11)(?::00)?\s*(?:AM|PM)\b/i);
+  assert.doesNotMatch(
+    epoch?.description || "",
+    /\b(?:7|9|11)(?::00)?\s*(?:AM|PM)\b/i,
+  );
 });
 
 test("team data separates core, coordinators, and project rosters", async () => {
@@ -382,14 +423,8 @@ test("Viveka project cards use the dedicated project websites", async () => {
   const vivekaTwo = projects.find((project) => project.id === "viveka-2");
 
   assert.equal(vivekaOne?.title, "Viveka 1.0");
-  assert.equal(
-    vivekaOne?.url,
-    "https://viveka.aiclubcfi.com/viveka-1.html",
-  );
-  assert.equal(
-    vivekaTwo?.url,
-    "https://viveka.aiclubcfi.com/viveka-2.html",
-  );
+  assert.equal(vivekaOne?.url, "https://viveka.aiclubcfi.com/viveka-1.html");
+  assert.equal(vivekaTwo?.url, "https://viveka.aiclubcfi.com/viveka-2.html");
 });
 
 test("projects without public detail pages omit the project-link placeholder", async () => {
@@ -400,4 +435,28 @@ test("projects without public detail pages omit the project-link placeholder", a
 
   assert.equal(withoutLinks.length, 2);
   assert.ok(withoutLinks.every((project) => project.showProjectLink === false));
+});
+
+test("the 2022–25 project archive preserves the Wix project inventory", async () => {
+  const projects = await load("projects");
+  const archive = projects.filter(
+    (project) => project.academicYear === "22-25",
+  );
+
+  assert.deepEqual(
+    archive.map((project) => project.title),
+    [
+      "AI Rahman",
+      "Night Vision",
+      "Suncast",
+      "Text 2 Scene",
+      "Spike Drive",
+      "RL Games",
+      "Deepfake Detection",
+      "OptiWing",
+      "AI Choreography",
+    ],
+  );
+  assert.ok(archive.every((project) => project.description.trim()));
+  assert.ok(archive.every((project) => project.showProjectLink === false));
 });
