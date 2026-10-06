@@ -4,7 +4,7 @@
   "institution": "CFI · IIT Madras",
   "email": "aiclubcfi@smail.iitm.ac.in",
   "logo": "/images/ai-club-logo.png",
-  "introduction": "The AI Club, IITM is the center of the Student community at IIT Madras. We do rigorous AI Research and implementation, with the freedom of choosing ambitious problems to solve and rapidly iterating on various directions. Through workshops, sessions and hackathons, we foster a culture of hands-on learning. Our members represent IITM at top hackathons across the country and contribute to the AI Community through meaningful research and Open-source projects.",
+  "introduction": "The AI Club, IITM is the center of the Student community at IIT Madras. We do rigorous AI Research and implementation, with the freedom of choosing ambitious problems to solve and rapidly iterating on various directions. Through workshops, sessions and hackathons, we foster a culture of hands-on learning. Our members represent IITM at top hackathons across the country and contribute to the AI community through meaningful research and open-source projects.",
   "blogIntroduction": "We explore the technology, science, and research behind Artificial Intelligence. Our goal is to break down complex ideas into clear, thoughtful insights that make AI easier to understand and discuss.",
   "copyright": "AI Club IITM",
   "footerDescription": "Centre For Innovation (CFI), IIT Madras",
@@ -26,8 +26,8 @@
           "href": "/projects-25-26/"
         },
         {
-          "label": "2022–25",
-          "href": "/projects-22-25/"
+          "label": "2023–25",
+          "href": "/projects-23-25/"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "href": "https://www.youtube.com/@aiclubcfiIITM/videos"
     },
     {
-      "label": "X",
+      "label": "Twitter",
       "href": "https://x.com/aiclubiitm"
     }
   ],

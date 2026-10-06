@@ -430,10 +430,10 @@ test("projects without public detail pages omit the project-link placeholder", a
   assert.ok(withoutLinks.every((project) => project.showProjectLink === false));
 });
 
-test("the 2022–25 project archive preserves the Wix project inventory", async () => {
+test("the 2023–25 project archive preserves the Wix project inventory", async () => {
   const projects = await load("projects");
   const archive = projects.filter(
-    (project) => project.academicYear === "22-25",
+    (project) => project.academicYear === "23-25",
   );
 
   assert.deepEqual(

@@ -12,6 +12,19 @@ const projectNames = {
   kathai: "KathAI",
 };
 
+interface DisplayMember {
+  id: string;
+  name: string;
+  role: string | string[];
+  group: string;
+  image: string | null;
+  url?: string;
+  current?: string;
+}
+
+const rolesFor = (role: string | string[]) =>
+  Array.isArray(role) ? role : [role];
+
 const projectLeads = team.members.filter(
   (member) => member.role === "Project Lead",
 );
@@ -44,11 +57,29 @@ const remainingProjectLeads = projectLeads
     ...member,
     role: `Project Lead · ${projectNames[member.group as keyof typeof projectNames]}`,
   }));
-const leads = [...clubLeads, ...hackathonLeads, ...remainingProjectLeads];
 const cores = team.members.filter(
   (member) =>
     member.group === "hackathon-core" && member.role === "Hackathon Core",
 );
+const leadCandidates: DisplayMember[] = [
+  ...clubLeads,
+  ...hackathonLeads,
+  ...remainingProjectLeads,
+  ...cores,
+];
+const leads = leadCandidates.reduce<DisplayMember[]>((merged, member) => {
+  const existing = merged.find((candidate) => candidate.name === member.name);
+
+  if (!existing) {
+    merged.push({ ...member });
+    return merged;
+  }
+
+  existing.role = [
+    ...new Set([...rolesFor(existing.role), ...rolesFor(member.role)]),
+  ];
+  return merged;
+}, []);
 const previousLeads = team.members.filter(
   (member) => member.group === "previous-leads",
 );
@@ -76,12 +107,6 @@ const sections = [
     label: "Leads",
     members: leads,
     link: "/team/coordinators/#club-coordinators",
-  },
-  {
-    id: "cores",
-    label: "Cores",
-    members: cores,
-    link: "/team/coordinators/#hackathon-coordinators",
   },
   {
     id: "previous-leads",
