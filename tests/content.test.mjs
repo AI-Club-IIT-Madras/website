@@ -322,7 +322,7 @@ test("team data separates core, coordinators, and project rosters", async () => 
     clubCoordinators
       .filter((member) => member.group === "club-coordinators")
       .map((member) => member.name),
-    ["Madhura Gurav", "Krish Shah"],
+    ["Madhura", "Krish"],
   );
   assert.ok(
     team.members.every((member) =>
