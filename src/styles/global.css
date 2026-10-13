@@ -397,6 +397,20 @@
   .event-content h3 {
     margin-block: 0 18px;
   }
+  .event-upcoming-badge {
+    align-self: flex-start;
+    margin: 0 0 14px;
+    padding: 7px 12px;
+    border: 1px solid #92c7ff66;
+    border-radius: 999px;
+    background: #1b6fa629;
+    color: #b8dcff;
+    font:
+      700 10px/1 Inter,
+      sans-serif;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
   .event-description {
     color: #b8b8b8;
     margin-bottom: 26px;
@@ -406,6 +420,69 @@
   }
   .event-description p + p {
     margin-top: 14px;
+  }
+  .event-questions {
+    display: grid;
+    gap: 7px;
+    margin: 16px 0;
+    padding-left: 20px;
+    color: #d2d2d2;
+  }
+  .event-questions li::marker {
+    color: #72b8ee;
+  }
+  .event-countdown {
+    margin: 2px 0 26px;
+    padding: 18px;
+    border: 1px solid #ffffff1f;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #1f5d8426, #ffffff08);
+  }
+  .event-countdown > p:first-child {
+    margin: 0 0 12px;
+    color: #b8dcff;
+    font:
+      700 10px/1 Inter,
+      sans-serif;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .countdown-values {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .countdown-values span {
+    display: grid;
+    gap: 5px;
+    padding: 11px 6px;
+    border-radius: 10px;
+    background: #0005;
+    text-align: center;
+  }
+  .countdown-values strong {
+    color: #fff;
+    font:
+      600 24px/1 "Instrument Sans",
+      sans-serif;
+    font-variant-numeric: tabular-nums;
+  }
+  .countdown-values small {
+    color: #888;
+    font:
+      600 8px/1 Inter,
+      sans-serif;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+  }
+  .countdown-complete {
+    margin: 0;
+    color: #fff;
+    font-weight: 600;
+  }
+  .event-register-button {
+    align-self: flex-start;
+    margin-bottom: 18px;
   }
   .compact .event-content {
     padding: 18px;
@@ -641,6 +718,9 @@
     display: grid;
     gap: 32px;
   }
+  .event-archive-section + .event-archive-section {
+    margin-top: 72px;
+  }
   .event-list .event-card.stacked {
     position: sticky;
     top: var(--stack-top);
@@ -652,6 +732,10 @@
   }
   .event-list .event-card.stacked:hover {
     background: #101010;
+  }
+  .event-list .event-card.stacked.has-countdown {
+    position: relative;
+    top: auto;
   }
   .event-list .event-card {
     display: grid;
@@ -674,6 +758,40 @@
   }
   .event-list .event-description {
     font-size: 14px;
+  }
+  .upcoming-event-list .event-card {
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+    align-items: stretch;
+  }
+  .upcoming-event-list .event-card > img {
+    height: 100%;
+    max-height: none;
+    object-fit: cover;
+    object-position: center;
+  }
+  .upcoming-event-list .event-content {
+    min-height: 480px;
+    padding: 28px 32px;
+  }
+  .upcoming-event-list .event-description {
+    margin-bottom: 18px;
+  }
+  .upcoming-event-list .event-questions {
+    gap: 5px;
+    margin-block: 12px;
+  }
+  .upcoming-event-list .event-countdown {
+    margin-bottom: 18px;
+    padding: 14px;
+  }
+  .upcoming-event-list .event-meta {
+    display: grid;
+    grid-template-columns: 1.05fr 1fr 1.35fr;
+    gap: 14px;
+    text-align: left;
+  }
+  .upcoming-event-list .event-meta-item {
+    min-width: 0;
   }
   .events-recording-note {
     margin-bottom: 30px;
@@ -1613,6 +1731,21 @@
     height: auto;
     max-height: 420px;
     border-radius: 19px 19px 0 0;
+  }
+  .upcoming-event-list .event-card > img {
+    height: auto;
+    max-height: none;
+    object-fit: contain;
+  }
+  .upcoming-event-list .event-content {
+    padding: 24px;
+  }
+  .upcoming-event-list .event-meta {
+    grid-template-columns: 1.05fr 1fr 1.35fr;
+    gap: 8px;
+  }
+  .upcoming-event-list .event-meta dd {
+    font-size: 12px;
   }
   .event-list .image-placeholder {
     min-height: 260px;

@@ -13,6 +13,9 @@ import announcements from "../data/announcements.json";
 import { newestPublished } from "../lib/content.mjs";
 import { localUrl } from "../lib/urls";
 const recentEvents = newestPublished(events).slice(0, 3);
+const upcomingEvent = recentEvents.find(
+  (event) => "countdownTo" in event && event.countdownTo,
+);
 const recentBlogs = newestPublished(blogs).slice(0, 3);
 const featuredResearch = achievements.publications
   .filter((item) => item.category === "Research")
@@ -50,7 +53,7 @@ const featuredHackathons = achievements.hackathons.slice(0, 3);
     {announcements.upcomingEvent.status === "placeholder" && (
       <p class="upcoming-status">
         <span>{site.labels.upcomingEvents}</span>
-        <strong>{site.labels.noUpcomingEvents}</strong>
+        <strong>{upcomingEvent?.title || site.labels.noUpcomingEvents}</strong>
       </p>
     )}
     <div class="event-grid">

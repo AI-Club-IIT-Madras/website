@@ -21,6 +21,12 @@ const undatedRecords = events.filter(
 );
 const records = [...datedRecords, ...undatedRecords];
 const upcoming = announcements.upcomingEvent;
+const upcomingRecord = records.find(
+  (event) => "countdownTo" in event && event.countdownTo,
+);
+const pastRecords = upcomingRecord
+  ? records.filter((event) => event.id !== upcomingRecord.id)
+  : records;
 const youtube = site.socials.find((social) => social.label === "YouTube");
 ---
 
@@ -29,7 +35,7 @@ const youtube = site.socials.find((social) => social.label === "YouTube");
     <YearNav kind="events" current={year} />
   </PageHeading>
   <div class="shell archive-content">
-    {year === "26-27" && upcoming.status === "placeholder" && (
+    {year === "26-27" && !upcomingRecord && (
       <p class="upcoming-status">
         <span>{site.labels.upcomingEvents}</span>
         <strong>{site.labels.noUpcomingEvents}</strong>
@@ -59,17 +65,34 @@ const youtube = site.socials.find((social) => social.label === "YouTube");
         </a>
       </p>
     )}
-    <div class="year-heading">
-      <h2>{academicYear(year)}</h2>
-      <span>
-        {records.length} {site.labels.eventCount}
-      </span>
-    </div>
-    <div class="event-list">
-      {records.map((event, index) => (
-        <EventCard event={event} stackIndex={index} />
-      ))}
-    </div>
+    {upcomingRecord && (
+      <section class="event-archive-section upcoming-events-section">
+        <div class="year-heading">
+          <h2>{site.labels.upcoming}</h2>
+          <span>1 event</span>
+        </div>
+        <div class="event-list upcoming-event-list">
+          <EventCard event={upcomingRecord} />
+        </div>
+      </section>
+    )}
+    {pastRecords.length > 0 && (
+      <section class="event-archive-section past-events-section">
+        <div class="year-heading">
+          <h2>
+            {upcomingRecord ? site.labels.pastEvents : academicYear(year)}
+          </h2>
+          <span>
+            {pastRecords.length} {site.labels.eventCount}
+          </span>
+        </div>
+        <div class="event-list">
+          {pastRecords.map((event, index) => (
+            <EventCard event={event} stackIndex={index} />
+          ))}
+        </div>
+      </section>
+    )}
     {!records.length && <p class="team-empty">{site.labels.emptyEvents}</p>}
   </div>
 </Layout>
