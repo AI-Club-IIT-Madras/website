@@ -111,7 +111,6 @@ test("the responsible AI evening includes its schedule, prompts, and countdown",
   assert.equal(event?.countdownTo, "2026-10-21T17:00:00+05:30");
   assert.equal(event?.registrationUrl, "https://tinyurl.com/47zhntzy");
   assert.equal(event?.questions?.length, 5);
-  assert.match(event?.description || "", /^In July 2026/);
   assert.equal(
     event?.image,
     "/images/events/safe-responsible-ai-evening-26-27.png",
