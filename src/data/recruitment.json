@@ -16,8 +16,8 @@
     }
   ],
   "links": [
-    { "label": "Application", "icon": "file", "url": null },
-    { "label": "WhatsApp Group", "icon": "chat", "url": null },
+    { "label": "Application", "icon": "file", "url": "https://www.youtube.com/watch?v=2qBlE2-WL60" },
+    { "label": "WhatsApp Group", "icon": "chat", "url": "https://chat.whatsapp.com/LbeTYhOx7gjGjAfIQuOLOJ?s=qt&p=a&mlu=4&ilr=4" },
     { "label": "Fundae Session", "icon": "play", "url": null },
     { "label": "App Submission", "icon": "upload", "url": null }
   ],
