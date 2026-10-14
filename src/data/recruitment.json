@@ -1,0 +1,50 @@
+{
+  "headline": "Want to join the AI Club?",
+  "subheading": "The DC applications are out!",
+  "benefits": [
+    {
+      "heading": "Regular Sessions & Real Tasks",
+      "description": "Learn key AI and ML concepts through weekly sessions that focus on clarity and understanding. Each session is paired with practical tasks so you can immediately apply what you learn."
+    },
+    {
+      "heading": "Hands-on Mini Project",
+      "description": "Work with a small team to design and build an AI project from scratch: experimenting, debugging, and learning how real model development happens."
+    },
+    {
+      "heading": "Personalized Mentorship",
+      "description": "Get matched with mentors who'll guide you through your progress, offer feedback on your work, and help you build strong coding and problem-solving habits through steady, hands-on practice."
+    }
+  ],
+  "links": [
+    { "label": "Application", "icon": "file", "url": null },
+    { "label": "WhatsApp Group", "icon": "chat", "url": null },
+    { "label": "Fundae Session", "icon": "play", "url": null },
+    { "label": "App Submission", "icon": "upload", "url": null }
+  ],
+  "testimonials": [
+    {
+      "name": "Kailash Anand",
+      "branch": "EP",
+      "image": "/images/recruitment/dc-1.jpg",
+      "quote": "It was a great beginner exposure to AI, I understood what AI/ML was about, how to go on learning it and the related areas/fields that would enhance my understanding of AI/ML itself. My mini-project coordinators were very supportive too! Overall I had lot of fun and learnt a lot!"
+    },
+    {
+      "name": "Janhavi Wagh",
+      "branch": "BE",
+      "image": "/images/recruitment/dc-2.jpg",
+      "quote": "I applied to the AI Club in my first semester purely out of curiosity, with little to no knowledge of AI. Looking back, that application became the starting point of my journey into exploring this field. Being a DC has been an enriching experience, helping me learn machine learning fundamentals while benefiting from the constant guidance of my seniors. The hackathons and mini projects organised by the club gave me valuable hands on experience and opportunities to apply my learning. Above all, collaborating with my fellow DCs was the most enjoyable part. I hope to build on this journey and put my learning to good use."
+    },
+    {
+      "name": "Shlok Sanju",
+      "branch": "MST",
+      "image": "/images/recruitment/dc-3.jpg",
+      "quote": "It was a wonderful tenure where we were exposed to a lot of new concepts and research papers. More importantly our coordinators Arsh and Anvay planned everything meticulously and instilled the curiousity within us to explore things further . A lovely tenure and kudos to Arsh and Anvay :)"
+    },
+    {
+      "name": "Sanjana Kannan",
+      "branch": "BE",
+      "image": "/images/recruitment/dc-4.jpg",
+      "quote": "It was a very fun and insane learning curve. The process was very well crafted to learn and get into this exciting world also"
+    }
+  ]
+}
