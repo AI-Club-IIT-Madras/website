@@ -366,6 +366,37 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 24px;
   }
+  .home-upcoming-event {
+    margin-bottom: 36px;
+  }
+  .home-upcoming-event .event-card.compact {
+    grid-template-columns: minmax(0, 0.65fr) minmax(0, 1.35fr);
+    border-color: #92c7ff55;
+    background: linear-gradient(120deg, #0b1720, #090909);
+  }
+  .home-upcoming-event .event-card.compact > img {
+    max-height: 380px;
+    align-self: stretch;
+  }
+  .home-upcoming-event .compact .event-content {
+    padding: 28px 32px;
+  }
+  .home-upcoming-event .compact .event-content h3 {
+    font-size: clamp(24px, 2.5vw, 32px);
+  }
+  .home-upcoming-event .compact .event-description {
+    font-size: 14px;
+  }
+  .home-upcoming-event .event-register-button {
+    order: 2;
+  }
+  .home-past-events-heading {
+    margin-bottom: 20px;
+    color: #aaa;
+    font:
+      500 18px/1.4 "Instrument Sans",
+      sans-serif;
+  }
   .event-card {
     display: grid;
     grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
@@ -1712,6 +1743,16 @@
   }
   .event-grid {
     grid-template-columns: 1fr;
+  }
+  .home-upcoming-event .event-card.compact {
+    grid-template-columns: 1fr;
+  }
+  .home-upcoming-event .event-card.compact > img {
+    height: auto;
+    max-height: 340px;
+  }
+  .home-upcoming-event .compact .event-content {
+    padding: 24px;
   }
   .event-list {
     gap: 24px;

@@ -9,13 +9,15 @@ import site from "../data/site.json";
 import events from "../data/events.json";
 import blogs from "../data/blogs.json";
 import achievements from "../data/achievements.json";
-import announcements from "../data/announcements.json";
 import { newestPublished } from "../lib/content.mjs";
 import { localUrl } from "../lib/urls";
-const recentEvents = newestPublished(events).slice(0, 3);
-const upcomingEvent = recentEvents.find(
+const publishedEvents = newestPublished(events);
+const upcomingEvent = publishedEvents.find(
   (event) => "countdownTo" in event && event.countdownTo,
 );
+const recentEvents = publishedEvents
+  .filter((event) => event.id !== upcomingEvent?.id)
+  .slice(0, 3);
 const recentBlogs = newestPublished(blogs).slice(0, 3);
 const featuredResearch = achievements.publications
   .filter((item) => item.category === "Research")
@@ -50,11 +52,13 @@ const featuredHackathons = achievements.hackathons.slice(0, 3);
         <Arrow />
       </a>
     </div>
-    {announcements.upcomingEvent.status === "placeholder" && (
-      <p class="upcoming-status">
-        <span>{site.labels.upcomingEvents}</span>
-        <strong>{upcomingEvent?.title || site.labels.noUpcomingEvents}</strong>
-      </p>
+    {upcomingEvent && (
+      <div class="home-upcoming-event">
+        <EventCard event={upcomingEvent} compact featured />
+      </div>
+    )}
+    {upcomingEvent && (
+      <h3 class="home-past-events-heading">{site.labels.pastEvents}</h3>
     )}
     <div class="event-grid">
       {recentEvents.map((event) => (
