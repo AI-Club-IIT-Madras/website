@@ -16,10 +16,10 @@
     }
   ],
   "links": [
-    { "label": "Application", "icon": "file", "url": "https://www.youtube.com/watch?v=QDia3e12czc" },
+    { "label": "Application", "icon": "file", "url": "https://drive.google.com/file/d/1G53xgp2hFUQAaBBw0g0Rnxnfvqek6DpR/view?usp=sharing" },
     { "label": "WhatsApp Group", "icon": "chat", "url": "https://chat.whatsapp.com/LbeTYhOx7gjGjAfIQuOLOJ?s=qt&p=a&mlu=4&ilr=4" },
     { "label": "Fundae Session", "icon": "play", "url": null },
-    { "label": "App Submission", "icon": "upload", "url": null }
+    { "label": "App Submission", "icon": "upload", "url": "https://forms.gle/cePPNhS9y5kEqLby9" }
   ],
   "testimonials": [
     {
