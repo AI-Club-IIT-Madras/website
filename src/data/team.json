@@ -361,9 +361,10 @@
     {
       "id": "krish-club-coordinator",
       "name": "Krish",
-      "role": "Club Coordinator",
+      "role": "Project Member & Coordinator",
       "group": "club-coordinators",
-      "image": "/images/team/krish-shah.jpg"
+      "image": "/images/team/krish-shah.jpg",
+      "url": "https://www.linkedin.com/in/krish-d-shah-397305443/"
     },
     {
       "id": "sagar-previous-lead",
