@@ -125,7 +125,7 @@ test("blog archives group records by descending year", async () => {
   );
   assert.equal(
     groups.reduce((total, group) => total + group.records.length, 0),
-    22,
+    23,
   );
 });
 
@@ -133,7 +133,7 @@ test("every linked blog has sourced card copy and a body-based reading estimate"
   const blogs = await load("blogs");
   const linked = blogs.filter((blog) => blog.url);
 
-  assert.equal(linked.length, 22);
+  assert.equal(linked.length, 23);
   assert.ok(linked.every((blog) => blog.description?.trim()));
   assert.ok(linked.every((blog) => blog.descriptionSource === blog.url));
   assert.ok(linked.every((blog) => blog.wordCount > 0));
