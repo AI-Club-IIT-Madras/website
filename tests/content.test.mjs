@@ -20,7 +20,7 @@ test("homepage content sorts newest published records first", async () => {
   const events = newestPublished(await load("events"));
   const blogs = newestPublished(await load("blogs"));
 
-  assert.equal(events[0].id, "epoch-3");
+  assert.equal(events[0].id, "safe-responsible-ai-evening");
   assert.equal(blogs[0].id, "is-the-latent-reasoning-entangled");
   assert.ok(
     events.every(
@@ -59,6 +59,7 @@ test("2026–27 events include the complete poster-backed archive", async () => 
   assert.deepEqual(
     current.map((event) => event.id),
     [
+      "safe-responsible-ai-evening",
       "epoch-3",
       "introduction-to-neural-networks",
       "prof-talk-kaushik-mitra",
@@ -94,7 +95,25 @@ test("2026–27 events include the complete poster-backed archive", async () => 
   );
   assert.equal(
     events.filter((event) => event.academicYear === "26-27").length,
-    8,
+    9,
+  );
+});
+
+test("the responsible AI evening includes its schedule, prompts, and countdown", async () => {
+  const events = await load("events");
+  const event = events.find(
+    (record) => record.id === "safe-responsible-ai-evening",
+  );
+
+  assert.equal(event?.date, "2026-10-21");
+  assert.equal(event?.displayTime, "5:00 PM–6:30 PM");
+  assert.equal(event?.location, "TTJ Auditorium, ICSR");
+  assert.equal(event?.countdownTo, "2026-10-21T17:00:00+05:30");
+  assert.equal(event?.registrationUrl, "https://tinyurl.com/47zhntzy");
+  assert.equal(event?.questions?.length, 5);
+  assert.equal(
+    event?.image,
+    "/images/events/safe-responsible-ai-evening-26-27.png",
   );
 });
 
@@ -106,7 +125,7 @@ test("blog archives group records by descending year", async () => {
   );
   assert.equal(
     groups.reduce((total, group) => total + group.records.length, 0),
-    22,
+    23,
   );
 });
 
@@ -114,7 +133,7 @@ test("every linked blog has sourced card copy and a body-based reading estimate"
   const blogs = await load("blogs");
   const linked = blogs.filter((blog) => blog.url);
 
-  assert.equal(linked.length, 22);
+  assert.equal(linked.length, 23);
   assert.ok(linked.every((blog) => blog.description?.trim()));
   assert.ok(linked.every((blog) => blog.descriptionSource === blog.url));
   assert.ok(linked.every((blog) => blog.wordCount > 0));

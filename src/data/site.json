@@ -57,6 +57,15 @@
       "href": "/team/"
     },
     {
+      "label": "Recruitment 26-27",
+      "children": [
+        {
+          "label": "DC Recruitment",
+          "href": "/recruitment/"
+        }
+      ]
+    },
+    {
       "label": "Contact",
       "href": "/#contact"
     }
@@ -115,6 +124,7 @@
     "playVideo": "Play background animation",
     "upcoming": "Upcoming event",
     "upcomingEvents": "Upcoming events",
+    "pastEvents": "Past events",
     "noUpcomingEvents": "No upcoming events",
     "announcementPlaceholder": "To be announced",
     "upcomingNote": "TODO: Add the next event’s details when confirmed.",

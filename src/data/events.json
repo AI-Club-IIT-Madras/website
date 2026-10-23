@@ -1,5 +1,28 @@
 [
   {
+    "id": "safe-responsible-ai-evening",
+    "title": "An Evening on Safe and Responsible AI",
+    "date": "2026-10-21",
+    "displayDate": "21 October, 2026 · Wednesday",
+    "displayTime": "5:00 PM–6:30 PM",
+    "location": "TTJ Auditorium, ICSR",
+    "description": "\n\nCome and seek answers to these and other critical questions of the time.",
+    "questions": [
+      "How are AI Agents trained and evaluated?",
+      "How did an AI \"escape\" and hack a company?",
+      "How can it be prevented in the future?",
+      "How is AI impacting the future of education and research?",
+      "How to responsibly adopt and use AI in these sectors?"
+    ],
+    "countdownTo": "2026-10-21T17:00:00+05:30",
+    "registrationUrl": "https://tinyurl.com/47zhntzy",
+    "academicYear": "26-27",
+    "image": "/images/events/safe-responsible-ai-evening-26-27.png",
+    "resourceUrl": null,
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
     "id": "epoch-3",
     "title": "Epoch 3: How Machines Learnt to Draw",
     "date": "2026-09-27",

@@ -1,5 +1,20 @@
 [
   {
+  "id": "a-token-is-worth-a-thousand-objects",
+  "title": "A Token Is Worth a Thousand Objects (VLMs for Object Detection and Segmentation)",
+  "date": "2026-06-02",
+  "displayDate": "Jun 2, 2026",
+  "description": "Can vision-language models do more than describe an image? Explore how VLMs can identify objects and enable precise visual segmentation.",
+  "readingMinutes": 10,
+  "url": "https://medium.com/@aiclub.iitm/a-token-is-worth-a-thousand-objects-vlms-for-object-detection-and-segmentation-2d0508df8db3",
+  "image": "/images/vlm-object-detection-segmentation.png",
+  "status": "published",
+  "todo": [],
+  "wordCount": 1908,
+  "readingTimeSource": "Estimated at 200 words/minute from the public article body",
+  "descriptionSource": "https://medium.com/@aiclub.iitm/a-token-is-worth-a-thousand-objects-vlms-for-object-detection-and-segmentation-2d0508df8db3"
+  },
+  {
     "id": "is-the-latent-reasoning-entangled",
     "title": "Is the latent reasoning entangled?",
     "date": "2026-08-14",
