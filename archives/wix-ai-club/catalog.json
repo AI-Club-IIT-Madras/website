@@ -1,0 +1,2391 @@
+[
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+    "title": "AI Club IITM",
+    "file": "pages/home.json",
+    "sections": [
+      {
+        "id": "comp-lzu06d1z",
+        "text": "Welcome to AI Club\nof IIT Madras!"
+      },
+      {
+        "id": "comp-lt8plf48",
+        "text": ""
+      },
+      {
+        "id": "comp-lzi9de89",
+        "text": "EVENTS\n\nWHO WE AREWe are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.MEET THE TEAM\n\nWHAT WE DOWork on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!\n\n​\n\nConduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​\n\n​\n\nThe members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​CHECKOUT OUR EVENTS"
+      },
+      {
+        "id": "comp-lzi9de9g1",
+        "text": "WHO WE AREWe are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.MEET THE TEAM\n\nWHAT WE DOWork on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!\n\n​\n\nConduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​\n\n​\n\nThe members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​CHECKOUT OUR EVENTS"
+      },
+      {
+        "id": "comp-lt8plf4a",
+        "text": "ACHIEVEMENTSConvolve 2023Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.\n\n​​\n\n​Inter IIT Tech Meet 2023 11.0\n(Gold Medal)Placed first among all the participating IITs in the High prep NLP event.\n\n​Inter IIT Tech Meet 2022 10.0\n(High Prep)Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInterInter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.\n\n​​​Inter IIT Tech Meet 2021 9.0\n(Gold Medal)​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.\n\n​​\n\n​"
+      },
+      {
+        "id": "comp-kk2qlyls",
+        "text": "ACHIEVEMENTSConvolve 2023Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.\n\n​​\n\n​Inter IIT Tech Meet 2023 11.0\n(Gold Medal)Placed first among all the participating IITs in the High prep NLP event.\n\n​Inter IIT Tech Meet 2022 10.0\n(High Prep)Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInterInter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.\n\n​​​Inter IIT Tech Meet 2021 9.0\n(Gold Medal)​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.\n\n​​\n\n​"
+      },
+      {
+        "id": "comp-m010bqej",
+        "text": "Get in TouchAI Club\nCentre For Innovation,\n\nIIT Madras, Chennai\n\n600036aiclubcfi@smail.iitm.ac.inContact usFirst name*Last nameEmail*PhoneWrite a messageSubmit"
+      },
+      {
+        "id": "comp-m010bqfr",
+        "text": "Get in TouchAI Club\nCentre For Innovation,\n\nIIT Madras, Chennai\n\n600036aiclubcfi@smail.iitm.ac.inContact usFirst name*Last nameEmail*PhoneWrite a messageSubmit"
+      }
+    ],
+    "cards": [
+      {
+        "id": "comp-lznyymsj2__item1",
+        "textBlocks": [
+          "Convolve 2023",
+          "Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures."
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-knn4fx1b",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)",
+          "Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.",
+          "​​",
+          "​"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-j9r9uz7e",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2023 11.0\n(Gold Medal)",
+          "Placed first among all the participating IITs in the High prep NLP event.",
+          "​"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-knn4fy3q",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2022 10.0\n(High Prep)",
+          "Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInter"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-knn4fvlg",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)",
+          "Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.",
+          "​​​"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-knn4fzi2",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2021 9.0\n(Gold Medal)",
+          "​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.",
+          "​​",
+          "​"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      }
+    ]
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/archives-1",
+    "title": "Archives | AI Club IITM",
+    "file": "pages/archives-1.json",
+    "sections": [
+      {
+        "id": "comp-lzpac6b3",
+        "text": "Under construction..Keep Checking Folks"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified",
+    "title": "Archives - to be modified | AI Club IITM",
+    "file": "pages/archives-to-be-modified.json",
+    "sections": [
+      {
+        "id": "comp-lzhyd725",
+        "text": "About"
+      },
+      {
+        "id": "comp-lzhyd72y2",
+        "text": "The Full StoryThis is your About page. This space is a great opportunity to give a full background on who you are, what you do and what your site has to offer. Your users are genuinely interested in learning more about you, so don’t be afraid to share personal anecdotes to create a more friendly quality. Every website has a story, and your visitors want to hear yours. This space is a great opportunity to provide any personal details you want to share with your followers. Include interesting anecdotes and facts to keep readers engaged. Double click on the text box to start editing your content and make sure to add all the relevant details you want site visitors to know. If you’re a business, talk about how you started and share your professional journey. Explain your core values, your commitment to customers and how you stand out from the crowd. Add a photo, gallery or video for even more engagement."
+      },
+      {
+        "id": "comp-lzhyd7322",
+        "text": "Let’s Work TogetherGet in touch so we can start working together.First NameLast NameEmailMessageSendThanks for submitting!"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified",
+    "title": "Blog - to be modified | AI Club IITM",
+    "file": "pages/blog-to-be-modified.json",
+    "sections": [
+      {
+        "id": "comp-lz7yvscc",
+        "text": "The TeamWho We Are"
+      },
+      {
+        "id": "comp-lz7yvscf",
+        "text": "Don FrancisFounder & CEOWrite a bio for each team member. Make it short and informative to keep your visitors engaged.123-456-7890info@mysite.comAshley JonesTech LeadWrite a bio for each team member. Make it short and informative to keep your visitors engaged.123-456-7890info@mysite.comTess BrownOffice ManagerWrite a bio for each team member. Make it short and informative to keep your visitors engaged.123-456-7890info@mysite.comLisa RoseProduct ManagerWrite a bio for each team member. Make it short and informative to keep your visitors engaged.123-456-7890info@mysite.com"
+      },
+      {
+        "id": "comp-lz7yvscg4",
+        "text": "Don FrancisFounder & CEOWrite a bio for each team member. Make it short and informative to keep your visitors engaged.123-456-7890info@mysite.com"
+      },
+      {
+        "id": "comp-lz7yvscs5",
+        "text": "Ashley JonesTech LeadWrite a bio for each team member. Make it short and informative to keep your visitors engaged.123-456-7890info@mysite.com"
+      },
+      {
+        "id": "comp-lz7yvsd26",
+        "text": "Tess BrownOffice ManagerWrite a bio for each team member. Make it short and informative to keep your visitors engaged.123-456-7890info@mysite.com"
+      },
+      {
+        "id": "comp-lz7yvsdd2",
+        "text": "Lisa RoseProduct ManagerWrite a bio for each team member. Make it short and informative to keep your visitors engaged.123-456-7890info@mysite.com"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+    "title": "Blogs | AI Club IITM",
+    "file": "pages/blogs.json",
+    "sections": [
+      {
+        "id": "comp-lzstq2g1",
+        "text": "BlogsWelcome to our blogs!\n\nDive into the world of Artificial Intelligence, where we explore cutting-edge research, \n\ninnovative applications, and the latest trends shaping the future of technology."
+      },
+      {
+        "id": "comp-m5kwyci6",
+        "text": "Zero to Mamba Written by \n\nHarshith MRBlog"
+      },
+      {
+        "id": "comp-m5kwyclu",
+        "text": "Zero to Mamba Written by \n\nHarshith MRBlog"
+      },
+      {
+        "id": "comp-m5b9szbz",
+        "text": "AlphaZero: A Revolutionary Approach to Game-Playing AI​Written by:\n\nSreeram RBlog"
+      },
+      {
+        "id": "comp-m5b9szfp",
+        "text": "AlphaZero: A Revolutionary Approach to Game-Playing AI​Written by:\n\nSreeram RBlog"
+      },
+      {
+        "id": "comp-m4r4eau6",
+        "text": "Minecraft : Pushing the Boundaries of GenAIWritten by \n\nAniruddh KBlog"
+      },
+      {
+        "id": "comp-m4r4eav9",
+        "text": "Minecraft : Pushing the Boundaries of GenAIWritten by \n\nAniruddh KBlog"
+      },
+      {
+        "id": "comp-m4r4e4om",
+        "text": "Genie 2: A large-scale foundation world model​Written by:\n\nArjun KBlog"
+      },
+      {
+        "id": "comp-m4r4e4py",
+        "text": "Genie 2: A large-scale foundation world model​Written by:\n\nArjun KBlog"
+      },
+      {
+        "id": "comp-m3oiyj58",
+        "text": "Paper Review :\nSAILWritten by \n\nAnish VBlog"
+      },
+      {
+        "id": "comp-m3oiyj6u",
+        "text": "Paper Review :\nSAILWritten by \n\nAnish VBlog"
+      },
+      {
+        "id": "comp-m32m0kop",
+        "text": "Exploring KANs​Written by:\n\nDevisree ABlog"
+      },
+      {
+        "id": "comp-m32m0kq61",
+        "text": "Exploring KANs​Written by:\n\nDevisree ABlog"
+      },
+      {
+        "id": "comp-m2izwi1z",
+        "text": "Paper Review :\nSoccerNetWritten by \n\nDaniel Blog"
+      },
+      {
+        "id": "comp-m2izwi3f",
+        "text": "Paper Review :\nSoccerNetWritten by \n\nDaniel Blog"
+      },
+      {
+        "id": "comp-m285bacq",
+        "text": "Paper Review\nGameNGen​Written by:\n\nAnshuman MishraBlog"
+      },
+      {
+        "id": "comp-m285bdn2",
+        "text": "Paper Review\nGameNGen​Written by:\n\nAnshuman MishraBlog"
+      },
+      {
+        "id": "comp-m1ymb0es",
+        "text": "GPT - 4 (o)riginsDevelopments of GPT models over the years and emphasis on it's latest release, GPT 4o\n\nWritten by:\n\nNishitha DBlog"
+      },
+      {
+        "id": "comp-m1ymb0hb",
+        "text": "GPT - 4 (o)riginsDevelopments of GPT models over the years and emphasis on it's latest release, GPT 4o\n\nWritten by:\n\nNishitha DBlog"
+      },
+      {
+        "id": "comp-m1oscw3x",
+        "text": "Paper Review\nMicrosoft Graph RAG​Written by:\n\nHarshith MRBlog"
+      },
+      {
+        "id": "comp-m1oscw4l",
+        "text": "Paper Review\nMicrosoft Graph RAG​Written by:\n\nHarshith MRBlog"
+      },
+      {
+        "id": "comp-m1etyic4",
+        "text": "Paper Review\nConformersWritten by:\n\nSreeram RBlog"
+      },
+      {
+        "id": "comp-m1etyidv",
+        "text": "Paper Review\nConformersWritten by:\n\nSreeram RBlog"
+      },
+      {
+        "id": "comp-lzstwa3u",
+        "text": "LLMs UnveiledUnlocking new worlds, one word at a time. LLMs are reshaping intelligence, creating and innovating beyond imagination \n\n​\n\nWritten by:\n\nJaanav Mathavan\n\nSakthi Prathosh\n\nAnupam Loy GeetoBlog"
+      },
+      {
+        "id": "comp-lzstwa4v1",
+        "text": "LLMs UnveiledUnlocking new worlds, one word at a time. LLMs are reshaping intelligence, creating and innovating beyond imagination \n\n​\n\nWritten by:\n\nJaanav Mathavan\n\nSakthi Prathosh\n\nAnupam Loy GeetoBlog"
+      },
+      {
+        "id": "comp-lzsu9gu7",
+        "text": "NLP for Indian\nLanguagesUtilizing NLP and LLM to uncover the hidden details of our languages, bridging the linguistic gap for a more inclusive digital world \n\n​\n\nWritten by:\n\nAtreya Vedantam\n\nAditya Tamras\n\nPranay MathurBlog"
+      },
+      {
+        "id": "comp-lzsu9gww",
+        "text": "NLP for Indian\nLanguagesUtilizing NLP and LLM to uncover the hidden details of our languages, bridging the linguistic gap for a more inclusive digital world \n\n​\n\nWritten by:\n\nAtreya Vedantam\n\nAditya Tamras\n\nPranay MathurBlog"
+      },
+      {
+        "id": "comp-lzsup2i5",
+        "text": "Gemini\nThe new kid on blockA look into the newly released GPT model released by Google, its workings and privacy concerns of LLMs \n\n​\n\nWritten by:\n\nShailesh Kasivelrajan\n\nJyothiradityaBlog"
+      },
+      {
+        "id": "comp-lzsup2kq",
+        "text": "Gemini\nThe new kid on blockA look into the newly released GPT model released by Google, its workings and privacy concerns of LLMs \n\n​\n\nWritten by:\n\nShailesh Kasivelrajan\n\nJyothiradityaBlog"
+      },
+      {
+        "id": "comp-lzsv39gh",
+        "text": "Paper Review\nMixtral 8x7BWritten by:\n\nSumedh Chatterjee\n\nRyan Jacob George\n\nB ShabarishBlog\nChatGPT\nHow does it work?Is my future job at danger due to this ?!\n\n​\n\nWritten by\n\nShakti SharmaBlog"
+      },
+      {
+        "id": "comp-lzsv39i3",
+        "text": "Paper Review\nMixtral 8x7BWritten by:\n\nSumedh Chatterjee\n\nRyan Jacob George\n\nB ShabarishBlog"
+      },
+      {
+        "id": "comp-lzsvnf72",
+        "text": "ChatGPT\nHow does it work?Is my future job at danger due to this ?!\n\n​\n\nWritten by\n\nShakti SharmaBlog"
+      },
+      {
+        "id": "comp-lzswd93n",
+        "text": "Paper Review\nPaint With RLWritten by:\n\nVinayakBlog\nPaper Review\nMuZero : 'Unbeatable' RL​Written by:\n\nNiveath\n\nPriyanka\n\nGokul\n\nRuthwikBlog"
+      },
+      {
+        "id": "comp-lzswd94g",
+        "text": "Paper Review\nPaint With RLWritten by:\n\nVinayakBlog"
+      },
+      {
+        "id": "comp-lzswd9521",
+        "text": "Paper Review\nMuZero : 'Unbeatable' RL​Written by:\n\nNiveath\n\nPriyanka\n\nGokul\n\nRuthwikBlog"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page",
+    "title": "Visitor Page | AI Club IITM",
+    "file": "pages/challenge-page.json",
+    "sections": [
+      {
+        "id": "comp-lt8plf50",
+        "text": "You don’t have access to this page. Contact the site owner for more info."
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/2d11499d-a6f7-3ae7-8365-05009d432e1a",
+    "title": "Data Analytics Tools | AI Club IITM",
+    "file": "pages/challenge-page--2d11499d-a6f7-3ae7-8365-05009d432e1a.json",
+    "sections": [
+      {
+        "id": "comp-lt8plf50",
+        "text": "Data Analytics Tools4Weeks4 WeeksAboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the appPrice₹120.00ShareJoin"
+      },
+      {
+        "id": null,
+        "text": "Data Analytics Tools4Weeks4 WeeksAboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the appPrice₹120.00ShareJoin"
+      },
+      {
+        "id": null,
+        "text": "AboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the app"
+      },
+      {
+        "id": null,
+        "text": "Price₹120.00"
+      },
+      {
+        "id": null,
+        "text": "Share"
+      },
+      {
+        "id": null,
+        "text": "Join"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/7b8b847e-0819-3ac0-abb5-d3548aa8a734",
+    "title": "Data-driven Decision Making | AI Club IITM",
+    "file": "pages/challenge-page--7b8b847e-0819-3ac0-abb5-d3548aa8a734.json",
+    "sections": [
+      {
+        "id": "comp-lt8plf50",
+        "text": "Data-driven Decision Making8Weeks8 WeeksAboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the appPrice₹150.00ShareJoin"
+      },
+      {
+        "id": null,
+        "text": "Data-driven Decision Making8Weeks8 WeeksAboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the appPrice₹150.00ShareJoin"
+      },
+      {
+        "id": null,
+        "text": "AboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the app"
+      },
+      {
+        "id": null,
+        "text": "Price₹150.00"
+      },
+      {
+        "id": null,
+        "text": "Share"
+      },
+      {
+        "id": null,
+        "text": "Join"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/984eac86-f4e9-36a2-87b1-c7d7bbffa377",
+    "title": "Cloud Analytics For Beginners | AI Club IITM",
+    "file": "pages/challenge-page--984eac86-f4e9-36a2-87b1-c7d7bbffa377.json",
+    "sections": [
+      {
+        "id": "comp-lt8plf50",
+        "text": "Cloud Analytics For Beginners2Weeks2 WeeksAboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the appPrice₹80.00ShareJoin"
+      },
+      {
+        "id": null,
+        "text": "Cloud Analytics For Beginners2Weeks2 WeeksAboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the appPrice₹80.00ShareJoin"
+      },
+      {
+        "id": null,
+        "text": "AboutDescribe your program here. Why should people join? Use short catchy text to tell people how they can benefit from participating. A great description makes people more likely to join your program.You can also join this program via the mobile app. Go to the app"
+      },
+      {
+        "id": null,
+        "text": "Price₹80.00"
+      },
+      {
+        "id": null,
+        "text": "Share"
+      },
+      {
+        "id": null,
+        "text": "Join"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-payment",
+    "title": "Payment Page | AI Club IITM",
+    "file": "pages/challenge-payment.json",
+    "sections": [
+      {
+        "id": "comp-lt8plf4c",
+        "text": "Widget Didn’t LoadCheck your internet and refresh this page.If that doesn’t work, contact us."
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-thanks",
+    "title": "Thank You Page | AI Club IITM",
+    "file": "pages/challenge-thanks.json",
+    "sections": [],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/event-details",
+    "title": "Freshie Roadmap | AI Club IITM",
+    "file": "pages/event-details.json",
+    "sections": [
+      {
+        "id": "event-details",
+        "text": "Freshie RoadmapMon, 12 Aug | Location is TBDInterdepartmental competition on AI/ML for freshies!Tickets are not on saleSee other eventsTime & Location12 Aug 2024, 7:00 pm – 10:00 pmLocation is TBDAbout the eventStay TunedShow MoreShare this event"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/event-details/freshie-roadmap",
+    "title": "Freshie Roadmap | AI Club IITM",
+    "file": "pages/event-details--freshie-roadmap.json",
+    "sections": [
+      {
+        "id": "event-details",
+        "text": "Freshie RoadmapMon, 12 Aug | Location is TBDInterdepartmental competition on AI/ML for freshies!Tickets are not on saleSee other eventsTime & Location12 Aug 2024, 7:00 pm – 10:00 pmLocation is TBDAbout the eventStay TunedShow MoreShare this event"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/event-list",
+    "title": "Events | AI Club IITM",
+    "file": "pages/event-list.json",
+    "sections": [
+      {
+        "id": "comp-m0kgxlie",
+        "text": "Upcoming EventsFreshie RoadmapMon, 12 AugLocation is TBDMore infoDetails"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+    "title": "Events | AI Club IITM",
+    "file": "pages/events-1.json",
+    "sections": [
+      {
+        "id": "comp-lzp0slpe",
+        "text": "No Upcoming Events"
+      },
+      {
+        "id": "comp-m00mb2jz",
+        "text": "Past Events"
+      },
+      {
+        "id": "comp-lzvu9gbr",
+        "text": "1Epoch - 1A 3 day session on\n\nPhysics-Informed Neural Networks \n\nand its implementationResources"
+      },
+      {
+        "id": "comp-lzy26n2k",
+        "text": "Stay UpdatedJoin our WhatsApp channel to know details of the upcoming eventsLet's Go"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-1",
+    "title": "Gallery | AI Club IITM",
+    "file": "pages/gallery-1.json",
+    "sections": [
+      {
+        "id": "comp-lzpad0wc",
+        "text": "We Are ComingSOONKeep Checking Folks"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified",
+    "title": "Gallery - to be modified | AI Club IITM",
+    "file": "pages/gallery-to-be-modified.json",
+    "sections": [
+      {
+        "id": "comp-lzhyefu2",
+        "text": "ProjectsThis is your Project Page. It's a great opportunity to help visitors understand the context and background of your latest work. Double click on the text box to start editing your content and make sure to add all the relevant details you want to share."
+      },
+      {
+        "id": "comp-lzhyefu4",
+        "text": "ProjectsThis is your Project Page. It's a great opportunity to help visitors understand the context and background of your latest work. Double click on the text box to start editing your content and make sure to add all the relevant details you want to share."
+      },
+      {
+        "id": "comp-lzhyefuh4",
+        "text": ""
+      },
+      {
+        "id": "comp-lzhyefui7",
+        "text": ""
+      },
+      {
+        "id": "comp-lzhyefum",
+        "text": ""
+      },
+      {
+        "id": "comp-lzhyefuq",
+        "text": ""
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/home",
+    "title": "AI Club IITM",
+    "file": "pages/home.json",
+    "sections": [
+      {
+        "id": "comp-lzu06d1z",
+        "text": "Welcome to AI Club\nof IIT Madras!"
+      },
+      {
+        "id": "comp-lt8plf48",
+        "text": ""
+      },
+      {
+        "id": "comp-lzi9de89",
+        "text": "EVENTS\n\nWHO WE AREWe are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.MEET THE TEAM\n\nWHAT WE DOWork on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!\n\n​\n\nConduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​\n\n​\n\nThe members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​CHECKOUT OUR EVENTS"
+      },
+      {
+        "id": "comp-lzi9de9g1",
+        "text": "WHO WE AREWe are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.MEET THE TEAM\n\nWHAT WE DOWork on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!\n\n​\n\nConduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​\n\n​\n\nThe members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​CHECKOUT OUR EVENTS"
+      },
+      {
+        "id": "comp-lt8plf4a",
+        "text": "ACHIEVEMENTSConvolve 2023Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.\n\n​​\n\n​Inter IIT Tech Meet 2023 11.0\n(Gold Medal)Placed first among all the participating IITs in the High prep NLP event.\n\n​Inter IIT Tech Meet 2022 10.0\n(High Prep)Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInterInter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.\n\n​​​Inter IIT Tech Meet 2021 9.0\n(Gold Medal)​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.\n\n​​\n\n​"
+      },
+      {
+        "id": "comp-kk2qlyls",
+        "text": "ACHIEVEMENTSConvolve 2023Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.\n\n​​\n\n​Inter IIT Tech Meet 2023 11.0\n(Gold Medal)Placed first among all the participating IITs in the High prep NLP event.\n\n​Inter IIT Tech Meet 2022 10.0\n(High Prep)Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInterInter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.\n\n​​​Inter IIT Tech Meet 2021 9.0\n(Gold Medal)​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.\n\n​​\n\n​"
+      },
+      {
+        "id": "comp-m010bqej",
+        "text": "Get in TouchAI Club\nCentre For Innovation,\n\nIIT Madras, Chennai\n\n600036aiclubcfi@smail.iitm.ac.inContact usFirst name*Last nameEmail*PhoneWrite a messageSubmit"
+      },
+      {
+        "id": "comp-m010bqfr",
+        "text": "Get in TouchAI Club\nCentre For Innovation,\n\nIIT Madras, Chennai\n\n600036aiclubcfi@smail.iitm.ac.inContact usFirst name*Last nameEmail*PhoneWrite a messageSubmit"
+      }
+    ],
+    "cards": [
+      {
+        "id": "comp-lznyymsj2__item1",
+        "textBlocks": [
+          "Convolve 2023",
+          "Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures."
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-knn4fx1b",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)",
+          "Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.",
+          "​​",
+          "​"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-j9r9uz7e",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2023 11.0\n(Gold Medal)",
+          "Placed first among all the participating IITs in the High prep NLP event.",
+          "​"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-knn4fy3q",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2022 10.0\n(High Prep)",
+          "Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInter"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-knn4fvlg",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)",
+          "Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.",
+          "​​​"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-lznyymsj2__item-knn4fzi2",
+        "textBlocks": [
+          "Inter IIT Tech Meet 2021 9.0\n(Gold Medal)",
+          "​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.",
+          "​​",
+          "​"
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      }
+    ]
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+    "title": "More | AI Club IITM",
+    "file": "pages/more.json",
+    "sections": [
+      {
+        "id": "comp-lzhygsfk",
+        "text": "Projects"
+      },
+      {
+        "id": "comp-lzhygsfs3",
+        "text": "Project NameThis is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on \"Edit Text\" or double click on the text box to start.Project NameThis is your Project description. A brief summary can help visitors understand the context of your work. Click on \"Edit Text\" or double click on the text box to start.Project NameThis is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on \"Edit Text\" or double click on the text box to start.Project NameThis is your Project description. Click on \"Edit Text\" or double click on the text box to start.Project NameThis is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on \"Edit Text\" or double click on the text box to start.Project NameThis is your Project description. A brief summary can help visitors understand the context of your work. Click on \"Edit Text\" or double click on the text box to start."
+      }
+    ],
+    "cards": [
+      {
+        "id": "comp-lzhygsfw__item1",
+        "textBlocks": [
+          "Project Name",
+          "This is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on \"Edit Text\" or double click on the text box to start."
+        ],
+        "links": [],
+        "images": [
+          {
+            "alt": "",
+            "url": "https://static.wixstatic.com/media/a3c153_4c9ff7f594c1414f9f7894e514098894~mv2.jpg/v1/fill/w_358,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_fd5c21cdc57f4b19b00f8ec0988396fe_.jpg",
+            "localFile": "assets/74b0e37bb74ca366.jpg"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/a3c153_4c9ff7f594c1414f9f7894e514098894~mv2.jpg",
+            "localFile": "assets/74b0e37bb74ca366.jpg"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhygsfw__item-ker6vlz9",
+        "textBlocks": [
+          "Project Name",
+          "This is your Project description. A brief summary can help visitors understand the context of your work. Click on \"Edit Text\" or double click on the text box to start."
+        ],
+        "links": [],
+        "images": [
+          {
+            "alt": "",
+            "url": "https://static.wixstatic.com/media/a3c153_b1efd27c479d430baf6513f717b4d7df~mv2.jpg/v1/fill/w_358,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/noah-boyer-mXz8dKrpO8w-unsplash.jpg",
+            "localFile": "assets/b0f290b3f4c19774.jpg"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/a3c153_b1efd27c479d430baf6513f717b4d7df~mv2.jpg",
+            "localFile": "assets/b0f290b3f4c19774.jpg"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhygsfw__item-ker6vmg4",
+        "textBlocks": [
+          "Project Name",
+          "This is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on \"Edit Text\" or double click on the text box to start."
+        ],
+        "links": [],
+        "images": [
+          {
+            "alt": "",
+            "url": "https://static.wixstatic.com/media/a3c153_e2d1ff51b7d143438f06552ee7e25704~mv2.jpg/v1/fill/w_358,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/878b419ef45e419bba087a2479c58e8a.jpg",
+            "localFile": "assets/d72a9667de75f15f.jpg"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/a3c153_e2d1ff51b7d143438f06552ee7e25704~mv2.jpg",
+            "localFile": "assets/d72a9667de75f15f.jpg"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhygsfw__item-ker6vlu0",
+        "textBlocks": [
+          "Project Name",
+          "This is your Project description. Click on \"Edit Text\" or double click on the text box to start."
+        ],
+        "links": [],
+        "images": [
+          {
+            "alt": "",
+            "url": "https://static.wixstatic.com/media/a3c153_c3a1f52d22f34ebf807575c44a0b3c46~mv2.jpg/v1/fill/w_358,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/hasan-almasi-nKNm_75lH4g-unsplash%20Copy_j.jpg",
+            "localFile": "assets/ddc58e450a3a9ebe.jpg"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/a3c153_c3a1f52d22f34ebf807575c44a0b3c46~mv2.jpg",
+            "localFile": "assets/ddc58e450a3a9ebe.jpg"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhygsfw__item-ker6vm4a",
+        "textBlocks": [
+          "Project Name",
+          "This is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on \"Edit Text\" or double click on the text box to start."
+        ],
+        "links": [],
+        "images": [
+          {
+            "alt": "",
+            "url": "https://static.wixstatic.com/media/a3c153_a948e560c4fb44eb9ec9a30bf5c105c4~mv2.jpg/v1/fill/w_358,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/sumner-mahaffey-7Y0NshQLohk-unsplash.jpg",
+            "localFile": "assets/dade6120f48b9c1e.jpg"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/a3c153_a948e560c4fb44eb9ec9a30bf5c105c4~mv2.jpg",
+            "localFile": "assets/dade6120f48b9c1e.jpg"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhygsfw__item-ker6vn3g",
+        "textBlocks": [
+          "Project Name",
+          "This is your Project description. A brief summary can help visitors understand the context of your work. Click on \"Edit Text\" or double click on the text box to start."
+        ],
+        "links": [],
+        "images": [
+          {
+            "alt": "",
+            "url": "https://static.wixstatic.com/media/a3c153_8143624184174bd98cc1262723b6d8a3~mv2.jpg/v1/fill/w_358,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/matt-artz-Fu2v5drnMBA-unsplash%20copy.jpg",
+            "localFile": "assets/e4a8952cfa20e0b1.jpg"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/a3c153_8143624184174bd98cc1262723b6d8a3~mv2.jpg",
+            "localFile": "assets/e4a8952cfa20e0b1.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/participant-page",
+    "title": "Participant Page | AI Club IITM",
+    "file": "pages/participant-page.json",
+    "sections": [],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/programs",
+    "title": "Programs | AI Club IITM",
+    "file": "pages/programs.json",
+    "sections": [
+      {
+        "id": "comp-lt8plf4f",
+        "text": "Data Analysis ProgramsI'm a paragraph. Click here to add your own text and edit me.Cloud Analytics For Beginners2 Weeks₹80.00View DetailsData Analytics Tools4 Weeks₹120.00View DetailsData-driven Decision Making8 Weeks₹150.00View Details"
+      },
+      {
+        "id": "comp-l4nwk0wu",
+        "text": "Data Analysis ProgramsI'm a paragraph. Click here to add your own text and edit me."
+      },
+      {
+        "id": null,
+        "text": "Cloud Analytics For Beginners2 Weeks₹80.00View Details"
+      },
+      {
+        "id": null,
+        "text": "Data Analytics Tools4 Weeks₹120.00View Details"
+      },
+      {
+        "id": null,
+        "text": "Data-driven Decision Making8 Weeks₹150.00View Details"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+    "title": "Projects | AI Club IITM",
+    "file": "pages/projects.json",
+    "sections": [
+      {
+        "id": "comp-lz7ysd6l",
+        "text": "Current Projects"
+      },
+      {
+        "id": "comp-lz7ysd724",
+        "text": "1 . AI RahmanMusic Information retrieval is one of the polarizing areas in the field of AI today. ​\n\n​\n\nA number of sequence to sequence based models have been explored for single track music generation, but bringing in multiple instruments together for the generation of multi-track music composition is yet a challenge. It requires a mechanism that maintains the coherence while generating music. By means of this project, we aim to explore models that are able to coherently fuse two different genres and create pleasant music.Team"
+      },
+      {
+        "id": "comp-lz7ysd74",
+        "text": "1 . AI RahmanMusic Information retrieval is one of the polarizing areas in the field of AI today. ​\n\n​\n\nA number of sequence to sequence based models have been explored for single track music generation, but bringing in multiple instruments together for the generation of multi-track music composition is yet a challenge. It requires a mechanism that maintains the coherence while generating music. By means of this project, we aim to explore models that are able to coherently fuse two different genres and create pleasant music.Team"
+      },
+      {
+        "id": "comp-lz7ysd7j2",
+        "text": "2 . Night Vision​​​​\n\nLow light conditions often degrade the quality of images and videos, making it challenging for various applications such as CCTV surveillance and satellite imaging. This project aims to address the problem by enhancing low light videos using deep learning techniques. Specifically, we will be working with CNNs, GANs, diffusion models, object detection algorithms (eg. YOLO), temporal convolutional networks for improving the visibility and quality of videos captured in low light environments.\n\n​Team"
+      },
+      {
+        "id": "comp-lz7ysd7l",
+        "text": "2 . Night Vision​​​​\n\nLow light conditions often degrade the quality of images and videos, making it challenging for various applications such as CCTV surveillance and satellite imaging. This project aims to address the problem by enhancing low light videos using deep learning techniques. Specifically, we will be working with CNNs, GANs, diffusion models, object detection algorithms (eg. YOLO), temporal convolutional networks for improving the visibility and quality of videos captured in low light environments.\n\n​Team"
+      },
+      {
+        "id": "comp-lzmtaoyw",
+        "text": "3 . SuncastHigh-energy solar flares and coronal mass ejections (CMEs) have the potential to disrupt Earth’s satellite infrastructure significantly. Predicting these events in advance could enable the activation of defense mechanisms to mitigate their effects.\n\nSince these phenomena often originate from regions of the solar surface associated with sunspots, predicting sunspots is also crucial. By leveraging Graph Neural Networks (GNNs) to predict sunspots, we aim to achieve enhanced prediction accuracy in this domain.\n Team"
+      },
+      {
+        "id": "comp-lzmtaoz9",
+        "text": "3 . SuncastHigh-energy solar flares and coronal mass ejections (CMEs) have the potential to disrupt Earth’s satellite infrastructure significantly. Predicting these events in advance could enable the activation of defense mechanisms to mitigate their effects.\n\nSince these phenomena often originate from regions of the solar surface associated with sunspots, predicting sunspots is also crucial. By leveraging Graph Neural Networks (GNNs) to predict sunspots, we aim to achieve enhanced prediction accuracy in this domain.\n Team"
+      },
+      {
+        "id": "comp-m05ndasd",
+        "text": "Past Projects"
+      },
+      {
+        "id": "comp-m05o19ya",
+        "text": "Text 2 SceneThe project developed a novel image editing tool that allows the user to make changes to a sample image using English text. We used masking and impainting, followed by harmonization to achieve this in a photo - realistic fashion.Spike DriveThe project aimed to utilise Spiking Neural Networks (SNNs) to identify moving objects. We successfully implemented a Convolution SNN on the DVS Gesture Dataset achieving an accuracy of 78% .RL GamesThe project explored Reinforcement Learning Algorithms and Deep Reinforcement learning techniques such as PPO, SAC etc, in complex environments ranging from MineRL to Mario.Deepfake DetectionThe project utilises the SeqFakeFormer architecture to trace and detect deepfakes. The pipeline involves CNNs to capture feature manipulations and cross attention models to capture sequential manipulations.OptiWing The Project is based on AI applications in the field of Aerospace Engineering and Airfoil design. We tested out different model pipelines to generate robust and smooth airfoils given the corresponding 'Cp' vs 'X' plots.AI ChoreographyThe project aimed to generate realisable dance moves for music inputs provided. We implemented a Spatial Temporal GCN and used cross - attention models to establish the relationship between audio and motion features."
+      }
+    ],
+    "cards": [
+      {
+        "id": "comp-m05o4h9w1__item1",
+        "textBlocks": [
+          "Text 2 Scene",
+          "The project developed a novel image editing tool that allows the user to make changes to a sample image using English text. We used masking and impainting, followed by harmonization to achieve this in a photo - realistic fashion."
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-m05o4h9w1__item-knn4fx1b",
+        "textBlocks": [
+          "Spike Drive",
+          "The project aimed to utilise Spiking Neural Networks (SNNs) to identify moving objects. We successfully implemented a Convolution SNN on the DVS Gesture Dataset achieving an accuracy of 78% ."
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-m05o4h9w1__item-j9r9uz7e",
+        "textBlocks": [
+          "RL Games",
+          "The project explored Reinforcement Learning Algorithms and Deep Reinforcement learning techniques such as PPO, SAC etc, in complex environments ranging from MineRL to Mario."
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-m05o4h9w1__item-knn4fy3q",
+        "textBlocks": [
+          "Deepfake Detection",
+          "The project utilises the SeqFakeFormer architecture to trace and detect deepfakes. The pipeline involves CNNs to capture feature manipulations and cross attention models to capture sequential manipulations."
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-m05o4h9w1__item-knn4fvlg",
+        "textBlocks": [
+          "OptiWing",
+          "The Project is based on AI applications in the field of Aerospace Engineering and Airfoil design. We tested out different model pipelines to generate robust and smooth airfoils given the corresponding 'Cp' vs 'X' plots."
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      },
+      {
+        "id": "comp-m05o4h9w1__item-knn4fzi2",
+        "textBlocks": [
+          "AI Choreography",
+          "The project aimed to generate realisable dance moves for music inputs provided. We implemented a Spatial Temporal GCN and used cross - attention models to establish the relationship between audio and motion features."
+        ],
+        "links": [],
+        "images": [],
+        "backgroundMedia": []
+      }
+    ]
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/recruitment",
+    "title": "AI Club IITM",
+    "file": "pages/recruitment.json",
+    "sections": [],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/resources",
+    "title": "Resources | AI Club IITM",
+    "file": "pages/resources.json",
+    "sections": [
+      {
+        "id": "comp-lzp5ook3",
+        "text": "Come Again Site Under\nConstruction..."
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/schedule",
+    "title": "Schedule | AI Club IITM",
+    "file": "pages/schedule.json",
+    "sections": [],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/search",
+    "title": "Search Results | AI Club IITM",
+    "file": "pages/search.json",
+    "sections": [
+      {
+        "id": "comp-lzpq719w",
+        "text": "Search ResultsSearch this siteEvents (1)Other Pages (17)Programs (3)1 result found with an empty searchFreshie Roadmap12 August 2024 | 1:30 pm"
+      }
+    ],
+    "cards": []
+  },
+  {
+    "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+    "title": "Team | AI Club IITM",
+    "file": "pages/team.json",
+    "sections": [
+      {
+        "id": "comp-lzp97u28",
+        "text": "Meet the TeamShaileshTeam LeadJaanav MathavanTeam LeadMahendra KurupTeam Lead"
+      },
+      {
+        "id": "comp-lzp97u2r",
+        "text": "ShaileshTeam LeadJaanav MathavanTeam LeadMahendra KurupTeam Lead"
+      },
+      {
+        "id": "comp-lzhyf88d",
+        "text": "Project AI Rahmanai rahmanPranay MathurProject LeadSwathi NarashimanProject LeadAniruddh KrishnaCoordinator and Project MemberHarshith M RCoordinator and Project MemberAnish VeerakumarCoordinator and Project MemberDipanshu PandaProject MemberArjun KrishnaswamyCoordinator and Project MemberJayden Koshy JoeProject MemberKeerthiharan AProject Member"
+      },
+      {
+        "id": "comp-lzpc6wzq",
+        "text": "Project NightVisionsection1Jaanav MathavanProject LeadDevisree ACoordinator and Project MemberSreeram RadhakrishnanCoordinator and Project MemberMahendra KurupProject LeadNishitha DCoordinator and Project MemberArchit JoshiProject MemberShabarish BalajiProject LeadPranav S RamanujamCoordinator and Project MemberSagar BagProject MemberSuriya PriyanProject Member"
+      },
+      {
+        "id": "comp-lzpch3mo",
+        "text": "Project SuncastsuncastGandhar VabaleProject LeadAnshuman MishraCoordinator and Project memberAstha ChandProject MemberDaniel Calwin Rijhu A JCoordinator and Project MemberKutraleeshwaranProject MemberArjun GaneshProject Member\n\n​Pranav RaghuramProject MemberPreirana MerugaProject Member"
+      },
+      {
+        "id": "comp-lzzvsix1",
+        "text": "Hackathon VerticalAkshay Govind SHackathon LeadDhruvanshi ShahHackathon LeadSri Sakthi Prathosh RHackathon CoreRyan Jacob GeorgeHackathon Core"
+      },
+      {
+        "id": "comp-lzzwbydw",
+        "text": "Past Team LeadsSrikar Babu Gudipudi2023Karthick Krishna M2023Ruthwik Chivukula2023Abhiram Gorle2022Archish S2022"
+      }
+    ],
+    "cards": [
+      {
+        "id": "comp-lzp97u311__item1",
+        "textBlocks": [
+          "Shailesh",
+          "Team Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/shaileshkvr"
+          },
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/shaileshkvr"
+          }
+        ],
+        "images": [
+          {
+            "alt": "21a53cc6-486b-489b-b129-f22909f17ce0 - S",
+            "url": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg/v1/crop/x_0,y_0,w_453,h_510/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/21a53cc6-486b-489b-b129-f22909f17ce0%20-%20S.jpg",
+            "localFile": "assets/d2f933e21ec29c5a.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg",
+            "localFile": "assets/d2f933e21ec29c5a.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzp97u311__item-kf51ysxt",
+        "textBlocks": [
+          "Jaanav Mathavan",
+          "Team Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "http://www.linkedin.com/in/jaanav-mathavan-0455aa249"
+          }
+        ],
+        "images": [
+          {
+            "alt": "jaanav web picture_edited_edited.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture_edited_edited.jpg",
+            "localFile": "assets/ffe94b3170e1336e.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg",
+            "localFile": "assets/ffe94b3170e1336e.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzp97u311__item-kf51yt5v",
+        "textBlocks": [
+          "Mahendra Kurup",
+          "Team Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/mahendra-kurup/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+            "localFile": "assets/d1f3ddfd90f9849f.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg",
+            "localFile": "assets/d1f3ddfd90f9849f.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m044rirk__item1",
+        "textBlocks": [
+          "Pranay Mathur",
+          "Project Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/me?trk=p_mwlite_profile_view-secondary_nav"
+          },
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/me?trk=p_mwlite_profile_view-secondary_nav"
+          }
+        ],
+        "images": [
+          {
+            "alt": "Screenshot_20240811_141639_WhatsApp - Pranay Mathur ee22b132.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg/v1/crop/x_0,y_68,w_1080,h_907/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_20240811_141639_WhatsApp%20-%20Pranay%20Mathur%20ee22b132.jpg",
+            "localFile": "assets/c03cf39cf75129ab.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg",
+            "localFile": "assets/c03cf39cf75129ab.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m044rirk__item-kel2ntrs",
+        "textBlocks": [
+          "Swathi Narashiman",
+          "Project Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "http://www.linkedin.com/in/swathi-narashiman-62633825a"
+          }
+        ],
+        "images": [
+          {
+            "alt": "WhatsApp Image 2024-08-20 at 19.14.11_a12a1c5f.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg/v1/crop/x_0,y_273,w_1200,h_1007/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-20%20at%2019_14_11_a12a1c5f.jpg",
+            "localFile": "assets/e0c699d53e42f190.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg",
+            "localFile": "assets/e0c699d53e42f190.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhyf88l5__item-kel2nw7a",
+        "textBlocks": [
+          "Aniruddh Krishna",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/aniruddh-krishna-86b4aa306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "81d03ea6-746e-4292-9cb0-c3b269a963ec - Aniruddh Krishna na23b022.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg/v1/crop/x_0,y_730,w_3072,h_2584/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/81d03ea6-746e-4292-9cb0-c3b269a963ec%20-%20Aniruddh%20Krishna%20na23b022.jpeg",
+            "localFile": "assets/6380722bb3a5336b.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg",
+            "localFile": "assets/6380722bb3a5336b.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhyf88l5__item-kel2nv1t",
+        "textBlocks": [
+          "Harshith M R",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/harshith-m-r-341b9329a/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "a32a6541-e5c8-4266-bba6-ef70534b34d1 - Mylangam Ramesh Harshith me23b049.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg/v1/crop/x_0,y_63,w_487,h_409/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a32a6541-e5c8-4266-bba6-ef70534b34d1%20-%20Mylangam%20Ramesh%20Harshith%20me23b049.jpeg",
+            "localFile": "assets/361ade3d0b7a043a.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg",
+            "localFile": "assets/361ade3d0b7a043a.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhyf88l5__item-kel2nuio",
+        "textBlocks": [
+          "Anish Veerakumar",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "http://www.linkedin.com/in/anishveerakumar"
+          }
+        ],
+        "images": [
+          {
+            "alt": "WhatsApp Image 2024-08-10 at 12.41.42_0edce15a - Anish Veerakumar me23b156.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg/v1/crop/x_86,y_0,w_1428,h_1200/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-10%20at%2012_41_42_0edce15a%20-%20Anish%20Veerakumar%20me23b156.jpg",
+            "localFile": "assets/dddd8b50436ccccb.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg",
+            "localFile": "assets/dddd8b50436ccccb.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhyf88l5__item-kel2o527",
+        "textBlocks": [
+          "Dipanshu Panda",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/dipanshu-panda-3953a228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_20231224_153455 - Dipanshu Panda ce22b004.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg/v1/crop/x_0,y_91,w_1453,h_1220/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20231224_153455%20-%20Dipanshu%20Panda%20ce22b004.jpg",
+            "localFile": "assets/6389e88d811a70a2.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg",
+            "localFile": "assets/6389e88d811a70a2.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhyf88l5__item-kel2nu8f",
+        "textBlocks": [
+          "Arjun Krishnaswamy",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "http://linkedin.com/in/arjun-krishnaswamy-196a6b304"
+          }
+        ],
+        "images": [
+          {
+            "alt": "b4d405f6-6be0-4cd6-9fd5-e4b5226de21c - Arjun Krishnaswamy ee23b009.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg/v1/crop/x_33,y_567,w_696,h_585/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4d405f6-6be0-4cd6-9fd5-e4b5226de21c%20-%20Arjun%20Krishnaswamy%20ee23b009.jpeg",
+            "localFile": "assets/856188c0170109ad.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg",
+            "localFile": "assets/856188c0170109ad.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzhyf88l5__item-kel2o3kk",
+        "textBlocks": [
+          "Jayden Koshy Joe",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/sagar-bag-a23b01195?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "Picture1_r - Jayden Koshy Joe ep23b035.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg/v1/crop/x_0,y_34,w_491,h_413/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Picture1_r%20-%20Jayden%20Koshy%20Joe%20ep23b035.jpg",
+            "localFile": "assets/7d373bc294a5c78f.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg",
+            "localFile": "assets/7d373bc294a5c78f.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m044u4t7__item-kel2o4ha",
+        "textBlocks": [
+          "Keerthiharan A",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/keerthiharan-a-26d04/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG20221119104454 - Keerthiharan A ch22b026.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg/v1/crop/x_248,y_0,w_4128,h_3468/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20221119104454%20-%20Keerthiharan%20A%20ch22b026.jpg",
+            "localFile": "assets/2f6de480ce68c356.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg",
+            "localFile": "assets/2f6de480ce68c356.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+            "localFile": "assets/7c66322d267a793b.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item1",
+        "textBlocks": [
+          "Jaanav Mathavan",
+          "Project Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "http://www.linkedin.com/in/jaanav-mathavan-0455aa249"
+          }
+        ],
+        "images": [
+          {
+            "alt": "jaanav web picture.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg/v1/crop/x_0,y_37,w_960,h_807/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture.jpg",
+            "localFile": "assets/959c9d8a65f2208a.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg",
+            "localFile": "assets/959c9d8a65f2208a.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item-kel2nuio",
+        "textBlocks": [
+          "Devisree A",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/devisree-akashapu-b98640322/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG20240717145054~2 - Devisree A ee23b023.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg/v1/crop/x_0,y_250,w_3071,h_2571/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240717145054~2%20-%20Devisree%20A%20ee23b023.jpg",
+            "localFile": "assets/c0a65fe90e242c49.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg",
+            "localFile": "assets/c0a65fe90e242c49.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item-kel2o527",
+        "textBlocks": [
+          "Sreeram Radhakrishnan",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/sreeram-r-317a87285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "20240623_140301 - Sreeram R ee23b075.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg/v1/crop/x_570,y_293,w_2760,h_2312/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240623_140301%20-%20Sreeram%20R%20ee23b075.jpg",
+            "localFile": "assets/e2d273e112287eb3.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg",
+            "localFile": "assets/e2d273e112287eb3.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item-kel2ntrs",
+        "textBlocks": [
+          "Mahendra Kurup",
+          "Project Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/mahendra-kurup/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/crop/x_0,y_78,w_960,h_804/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+            "localFile": "assets/d1f3ddfd90f9849f.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg",
+            "localFile": "assets/d1f3ddfd90f9849f.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item-kel2nu8f",
+        "textBlocks": [
+          "Nishitha D",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/nishitha-dharmabotla-5a2784309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG20240628183440 - Dharmabotla Nishitha ee23b188.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg/v1/crop/x_0,y_282,w_3468,h_2904/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240628183440%20-%20Dharmabotla%20Nishitha%20ee23b188.jpg",
+            "localFile": "assets/cbd1febc1fd519f7.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg",
+            "localFile": "assets/cbd1febc1fd519f7.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item-kel2o3kk",
+        "textBlocks": [
+          "Archit Joshi",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/architjoshiprofile/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_20240807_214820 - Archit Joshi ce23b055.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg/v1/crop/x_0,y_142,w_2919,h_2444/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240807_214820%20-%20Archit%20Joshi%20ce23b055.jpg",
+            "localFile": "assets/8b613bb8d463770c.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg",
+            "localFile": "assets/8b613bb8d463770c.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item-kel2nw7a",
+        "textBlocks": [
+          "Shabarish Balaji",
+          "Project Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "http://www.linkedin.com/in/shabarish-balaji-999040202"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_1372 - Shabarish B me22b051.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg/v1/crop/x_0,y_199,w_1821,h_1526/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1372%20-%20Shabarish%20B%20me22b051.jpeg",
+            "localFile": "assets/1681b2702869d5d0.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg",
+            "localFile": "assets/1681b2702869d5d0.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item-kel2nv1t",
+        "textBlocks": [
+          "Pranav S Ramanujam",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/pranav-ramanujam-3a981a2a6/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_1026 - Pranav S Ramanujam ep23b038.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg/v1/crop/x_0,y_750,w_3024,h_2532/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1026%20-%20Pranav%20S%20Ramanujam%20ep23b038.jpeg",
+            "localFile": "assets/5ece8e5cf4fa907b.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg",
+            "localFile": "assets/5ece8e5cf4fa907b.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpc6x0n__item-kel2o4ha",
+        "textBlocks": [
+          "Sagar Bag",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/sagar-bag-a23b01195?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "sagar_pic.png",
+            "url": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png/v1/crop/x_76,y_0,w_1070,h_900/fill/w_290,h_244,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/sagar_pic.png",
+            "localFile": "assets/50c2885fef3d7c2b.png"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png",
+            "localFile": "assets/50c2885fef3d7c2b.png"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m02haqga__item-lzpcdw7v",
+        "textBlocks": [
+          "Suriya Priyan",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/suriya-priyan-7870bb255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_20240810_002857 - Suriya Priyan D be22b039.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg/v1/crop/x_0,y_213,w_1959,h_1640/fill/w_295,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240810_002857%20-%20Suriya%20Priyan%20D%20be22b039.jpg",
+            "localFile": "assets/e5ff9ad258bf7621.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg",
+            "localFile": "assets/e5ff9ad258bf7621.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m044dlvn2__item1",
+        "textBlocks": [
+          "Gandhar Vabale",
+          "Project Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/gandhar-vabale/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "photo - Vabale Gandhar Yogendra ep22b047.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg/v1/crop/x_0,y_565,w_1960,h_1645/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/photo%20-%20Vabale%20Gandhar%20Yogendra%20ep22b047.jpeg",
+            "localFile": "assets/fa45ae213b1f7c94.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg",
+            "localFile": "assets/fa45ae213b1f7c94.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpch3ny__item-kel2ntrs",
+        "textBlocks": [
+          "Anshuman Mishra",
+          "Coordinator and Project member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://in.linkedin.com/in/anshuman-mishra-b2ab432a9"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG-20240807-WA0019 - Anshuman Mishra ed23b006.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg/v1/crop/x_0,y_55,w_867,h_728/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG-20240807-WA0019%20-%20Anshuman%20Mishra%20ed23b006.jpg",
+            "localFile": "assets/8dbe476f132ceb55.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg",
+            "localFile": "assets/8dbe476f132ceb55.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpch3ny__item-kel2nu8f",
+        "textBlocks": [
+          "Astha Chand",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://in.linkedin.com/in/astha-chand-139aba27b"
+          }
+        ],
+        "images": [
+          {
+            "alt": "WhatsApp Image 2024-08-07 at 09.39.46 - Astha Chand ee23b013.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg/v1/crop/x_98,y_514,w_1014,h_852/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-07%20at%2009_39_46%20-%20Astha%20Chand%20ee23b013.jpeg",
+            "localFile": "assets/08b38ea1649fa505.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg",
+            "localFile": "assets/08b38ea1649fa505.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpch3ny__item-kel2nw7a",
+        "textBlocks": [
+          "Daniel Calwin Rijhu A J",
+          "Coordinator and Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/daniel-calwin-rijhu-a-j-a844742b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "9443a89a-85de-44c0-a25f-e9ca4df7eed3 - Daniel Calwin Rijhu A J me23b104.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg/v1/crop/x_0,y_76,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9443a89a-85de-44c0-a25f-e9ca4df7eed3%20-%20Daniel%20Calwin%20Rijhu%20A%20J%20me23b104.jpeg",
+            "localFile": "assets/1c09224edcb2045e.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg",
+            "localFile": "assets/1c09224edcb2045e.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpch3ny__item-kel2nv1t",
+        "textBlocks": [
+          "Kutraleeshwaran",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/kutraleeswaran-n-h-2433a7282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "my_pic - Kutraleeswaran Nattamai Harikri",
+            "url": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg/v1/crop/x_0,y_19,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/my_pic%20-%20Kutraleeswaran%20Nattamai%20Harikri.jpg",
+            "localFile": "assets/7c5a9c7dd703d946.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg",
+            "localFile": "assets/7c5a9c7dd703d946.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpch3ny__item-kel2nuio",
+        "textBlocks": [
+          "Arjun Ganesh",
+          "Project Member",
+          "​"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://il.linkedin.com/company/wix-com?trk=public_jobs_topcard_logo"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_20240811_024552 - Arjun Ganesh ch23b073.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg/v1/crop/x_0,y_191,w_1768,h_1485/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240811_024552%20-%20Arjun%20Ganesh%20ch23b073.jpg",
+            "localFile": "assets/b42a56742ec6a4b0.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg",
+            "localFile": "assets/b42a56742ec6a4b0.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzpch3ny__item-m044gdy5",
+        "textBlocks": [
+          "Pranav Raghuram",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/pranav-raghuram/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "Photo - Pranav Raghuram ed23b054.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg/v1/crop/x_0,y_296,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20-%20Pranav%20Raghuram%20ed23b054.jpg",
+            "localFile": "assets/37b358cfe1e60577.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg",
+            "localFile": "assets/37b358cfe1e60577.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m02hdayn1__item-kel2o3kk",
+        "textBlocks": [
+          "Preirana Meruga",
+          "Project Member"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/preirana-meruga-65110027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457 - Preirana Meruga ee23b147.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg/v1/crop/x_71,y_0,w_1178,h_990/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457%20-%20Preirana%20Meruga%20ee23b147.jpeg",
+            "localFile": "assets/0ff3dc7fd4b8d993.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg",
+            "localFile": "assets/0ff3dc7fd4b8d993.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzzvsizq__item1",
+        "textBlocks": [
+          "Akshay Govind S",
+          "Hackathon Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/akshaygovinds/"
+          }
+        ],
+        "images": [
+          {
+            "alt": "best photo1 - Akshay Govind S me22b102.png",
+            "url": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png/v1/crop/x_0,y_13,w_599,h_504/fill/w_294,h_247,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/best%20photo1%20-%20Akshay%20Govind%20S%20me22b102.png",
+            "localFile": "assets/8f232a5d594c60c7.png"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png",
+            "localFile": "assets/8f232a5d594c60c7.png"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzzvsizq__item-kel2ntrs",
+        "textBlocks": [
+          "Dhruvanshi Shah",
+          "Hackathon Lead"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/dhruvanshi-shah-72176b25b"
+          }
+        ],
+        "images": [
+          {
+            "alt": "20240528_104631 - Shah Dhruvanshi Kamlesh ee22b143.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg/v1/crop/x_0,y_158,w_4896,h_4113/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240528_104631%20-%20Shah%20Dhruvanshi%20Kamlesh%20ee22b143.jpg",
+            "localFile": "assets/a5d701ce3df0d524.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg",
+            "localFile": "assets/a5d701ce3df0d524.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m02hj2fm2__item-kel2nuio",
+        "textBlocks": [
+          "Sri Sakthi Prathosh R",
+          "Hackathon Core"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/sri-sakthi-prathosh-r-b0737725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_20230101_213743073~2 - Sri Sakthi Prathosh R ed22b029.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg/v1/crop/x_0,y_681,w_1036,h_870/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230101_213743073~2%20-%20Sri%20Sakthi%20Prathosh%20R%20ed22b029.jpg",
+            "localFile": "assets/9c55cc9c8891e08e.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg",
+            "localFile": "assets/9c55cc9c8891e08e.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m02hj2fm2__item-m0443xqm",
+        "textBlocks": [
+          "Ryan Jacob George",
+          "Hackathon Core"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/ryan-george-8a714627a"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_20230706_102621~2 - Ryan Jacob George me22b013.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg/v1/crop/x_0,y_663,w_1792,h_1505/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230706_102621~2%20-%20Ryan%20Jacob%20George%20me22b013.jpg",
+            "localFile": "assets/c1c0ba3940b882a8.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg",
+            "localFile": "assets/c1c0ba3940b882a8.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzzwbyeu9__item1",
+        "textBlocks": [
+          "Srikar Babu Gudipudi",
+          "2023"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/srikar-babu-gadipudi-985b15250"
+          }
+        ],
+        "images": [
+          {
+            "alt": "1000103478 - Srikar Babu Gadipudi ee21b138.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg/v1/crop/x_0,y_379,w_1536,h_1290/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000103478%20-%20Srikar%20Babu%20Gadipudi%20ee21b138.jpeg",
+            "localFile": "assets/9d99e09890c958c4.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg",
+            "localFile": "assets/9d99e09890c958c4.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzzwbyeu9__item-kel2nuio",
+        "textBlocks": [
+          "Karthick Krishna M",
+          "2023"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/karthick-krishna-m-454777225"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_20221121_153121_208 - Karthick Krishna M ee21b067.jpg",
+            "url": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg/v1/crop/x_0,y_5,w_591,h_497/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20221121_153121_208%20-%20Karthick%20Krishna%20M%20ee21b067.jpg",
+            "localFile": "assets/57fd189876a3232b.jpg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg",
+            "localFile": "assets/57fd189876a3232b.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-lzzwbyeu9__item-m046kh9s",
+        "textBlocks": [
+          "Ruthwik Chivukula",
+          "2023"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/ruthwik-chivukula-09027123a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+          }
+        ],
+        "images": [
+          {
+            "alt": "35913 - Ruthwik Chivukula me21b166.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg/v1/crop/x_0,y_11,w_1147,h_965/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/35913%20-%20Ruthwik%20Chivukula%20me21b166.jpeg",
+            "localFile": "assets/90ae5890c687d722.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg",
+            "localFile": "assets/90ae5890c687d722.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m043tm71__item-kel2ntrs",
+        "textBlocks": [
+          "Abhiram Gorle",
+          "2022"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/abhiram-rao-b710141bb?trk=contact-info"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_5526 - Gorle Abhiram Rao ee20b037.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg/v1/crop/x_216,y_0,w_3599,h_3024/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5526%20-%20Gorle%20Abhiram%20Rao%20ee20b037.jpeg",
+            "localFile": "assets/ad04b14750259ddd.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg",
+            "localFile": "assets/ad04b14750259ddd.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      },
+      {
+        "id": "comp-m043tm71__item-kel2nw7a",
+        "textBlocks": [
+          "Archish S",
+          "2022"
+        ],
+        "links": [
+          {
+            "text": "",
+            "url": "https://www.linkedin.com/in/xerefic"
+          }
+        ],
+        "images": [
+          {
+            "alt": "IMG_6201 - Archish S me20b032.jpeg",
+            "url": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg/v1/crop/x_0,y_746,w_3024,h_2541/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6201%20-%20Archish%20S%20me20b032.jpeg",
+            "localFile": "assets/f9a0c6f05a1b87ac.jpeg"
+          },
+          {
+            "alt": "LinkedIn",
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ],
+        "backgroundMedia": [
+          {
+            "url": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg",
+            "localFile": "assets/f9a0c6f05a1b87ac.jpeg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+            "localFile": "assets/3bd152cdd5a89181.png"
+          }
+        ]
+      }
+    ]
+  }
+]

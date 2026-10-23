@@ -1,0 +1,626 @@
+{
+  "url": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+  "fetchedAt": "2026-10-23T20:23:15.439Z",
+  "status": 200,
+  "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+  "contentType": "text/html; charset=UTF-8",
+  "bytes": 709990,
+  "title": "Projects | AI Club IITM",
+  "description": "",
+  "canonical": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+  "blocks": [
+    {
+      "tag": "h1",
+      "id": "comp-lzmss4g1",
+      "text": "Current Projects",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lz7ysd7d",
+      "text": "1 . AI Rahman",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lz7ysd7e1",
+      "text": "Music Information retrieval is one of the polarizing areas in the field of AI today. ​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lz7ysd7e1",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lz7ysd7e1",
+      "text": "A number of sequence to sequence based models have been explored for single track music generation, but bringing in multiple instruments together for the generation of multi-track music composition is yet a challenge. It requires a mechanism that maintains the coherence while generating music. By means of this project, we aim to explore models that are able to coherently fuse two different genres and create pleasant music.",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lz7ysd7o1",
+      "text": "2 . Night Vision",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lz7ysd7p",
+      "text": "​​​​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lz7ysd7p",
+      "text": "Low light conditions often degrade the quality of images and videos, making it challenging for various applications such as CCTV surveillance and satellite imaging. This project aims to address the problem by enhancing low light videos using deep learning techniques. Specifically, we will be working with CNNs, GANs, diffusion models, object detection algorithms (eg. YOLO), temporal convolutional networks for improving the visibility and quality of videos captured in low light environments.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lz7ysd7p",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzmuap6g",
+      "text": "3 . Suncast",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzmtaozk1",
+      "text": "High-energy solar flares and coronal mass ejections (CMEs) have the potential to disrupt Earth’s satellite infrastructure significantly. Predicting these events in advance could enable the activation of defense mechanisms to mitigate their effects.\n\nSince these phenomena often originate from regions of the solar surface associated with sunspots, predicting sunspots is also crucial. By leveraging Graph Neural Networks (GNNs) to predict sunspots, we aim to achieve enhanced prediction accuracy in this domain.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m05ni7pu",
+      "text": "Past Projects",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m05o4ha5__item1",
+      "text": "Text 2 Scene",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m05o4haa1__item1",
+      "text": "The project developed a novel image editing tool that allows the user to make changes to a sample image using English text. We used masking and impainting, followed by harmonization to achieve this in a photo - realistic fashion.",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m05o4ha5__item-knn4fx1b",
+      "text": "Spike Drive",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m05o4haa1__item-knn4fx1b",
+      "text": "The project aimed to utilise Spiking Neural Networks (SNNs) to identify moving objects. We successfully implemented a Convolution SNN on the DVS Gesture Dataset achieving an accuracy of 78% .",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m05o4ha5__item-j9r9uz7e",
+      "text": "RL Games",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m05o4haa1__item-j9r9uz7e",
+      "text": "The project explored Reinforcement Learning Algorithms and Deep Reinforcement learning techniques such as PPO, SAC etc, in complex environments ranging from MineRL to Mario.",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m05o4ha5__item-knn4fy3q",
+      "text": "Deepfake Detection",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m05o4haa1__item-knn4fy3q",
+      "text": "The project utilises the SeqFakeFormer architecture to trace and detect deepfakes. The pipeline involves CNNs to capture feature manipulations and cross attention models to capture sequential manipulations.",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m05o4ha5__item-knn4fvlg",
+      "text": "OptiWing",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m05o4haa1__item-knn4fvlg",
+      "text": "The Project is based on AI applications in the field of Aerospace Engineering and Airfoil design. We tested out different model pipelines to generate robust and smooth airfoils given the corresponding 'Cp' vs 'X' plots.",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m05o4ha5__item-knn4fzi2",
+      "text": "AI Choreography",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m05o4haa1__item-knn4fzi2",
+      "text": "The project aimed to generate realisable dance moves for music inputs provided. We implemented a Spatial Temporal GCN and used cross - attention models to establish the relationship between audio and motion features.",
+      "links": []
+    }
+  ],
+  "sections": [
+    {
+      "id": "comp-lz7ysd6l",
+      "text": "Current Projects",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_144,h_81,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": "Wavy Abstract Background _edited_edited.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-lz7ysd724",
+      "text": "1 . AI RahmanMusic Information retrieval is one of the polarizing areas in the field of AI today. ​\n\n​\n\nA number of sequence to sequence based models have been explored for single track music generation, but bringing in multiple instruments together for the generation of multi-track music composition is yet a challenge. It requires a mechanism that maintains the coherence while generating music. By means of this project, we aim to explore models that are able to coherently fuse two different genres and create pleasant music.Team",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_d0cc6c12b1db4f6f8ebdac83deb5188af000.jpg/v1/fill/w_122,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_d0cc6c12b1db4f6f8ebdac83deb5188af000.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-lz7ysd74",
+      "text": "1 . AI RahmanMusic Information retrieval is one of the polarizing areas in the field of AI today. ​\n\n​\n\nA number of sequence to sequence based models have been explored for single track music generation, but bringing in multiple instruments together for the generation of multi-track music composition is yet a challenge. It requires a mechanism that maintains the coherence while generating music. By means of this project, we aim to explore models that are able to coherently fuse two different genres and create pleasant music.Team",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_d0cc6c12b1db4f6f8ebdac83deb5188af000.jpg/v1/fill/w_122,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_d0cc6c12b1db4f6f8ebdac83deb5188af000.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-lz7ysd7j2",
+      "text": "2 . Night Vision​​​​\n\nLow light conditions often degrade the quality of images and videos, making it challenging for various applications such as CCTV surveillance and satellite imaging. This project aims to address the problem by enhancing low light videos using deep learning techniques. Specifically, we will be working with CNNs, GANs, diffusion models, object detection algorithms (eg. YOLO), temporal convolutional networks for improving the visibility and quality of videos captured in low light environments.\n\n​Team",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_ca94548e839f4f0384d5742d83e8aa7e~mv2.jpg/v1/fill/w_122,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_ca94548e839f4f0384d5742d83e8aa7e~mv2.jpg",
+          "alt": "AI02 Night Vision.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-lz7ysd7l",
+      "text": "2 . Night Vision​​​​\n\nLow light conditions often degrade the quality of images and videos, making it challenging for various applications such as CCTV surveillance and satellite imaging. This project aims to address the problem by enhancing low light videos using deep learning techniques. Specifically, we will be working with CNNs, GANs, diffusion models, object detection algorithms (eg. YOLO), temporal convolutional networks for improving the visibility and quality of videos captured in low light environments.\n\n​Team",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_ca94548e839f4f0384d5742d83e8aa7e~mv2.jpg/v1/fill/w_122,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_ca94548e839f4f0384d5742d83e8aa7e~mv2.jpg",
+          "alt": "AI02 Night Vision.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzmtaoyw",
+      "text": "3 . SuncastHigh-energy solar flares and coronal mass ejections (CMEs) have the potential to disrupt Earth’s satellite infrastructure significantly. Predicting these events in advance could enable the activation of defense mechanisms to mitigate their effects.\n\nSince these phenomena often originate from regions of the solar surface associated with sunspots, predicting sunspots is also crucial. By leveraging Graph Neural Networks (GNNs) to predict sunspots, we aim to achieve enhanced prediction accuracy in this domain.\n Team",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_37356f322b46456ab75ff1960c011541~mv2.jpg/v1/fill/w_122,h_95,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_37356f322b46456ab75ff1960c011541~mv2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-lzmtaoz9",
+      "text": "3 . SuncastHigh-energy solar flares and coronal mass ejections (CMEs) have the potential to disrupt Earth’s satellite infrastructure significantly. Predicting these events in advance could enable the activation of defense mechanisms to mitigate their effects.\n\nSince these phenomena often originate from regions of the solar surface associated with sunspots, predicting sunspots is also crucial. By leveraging Graph Neural Networks (GNNs) to predict sunspots, we aim to achieve enhanced prediction accuracy in this domain.\n Team",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_37356f322b46456ab75ff1960c011541~mv2.jpg/v1/fill/w_122,h_95,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_37356f322b46456ab75ff1960c011541~mv2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-m05ndasd",
+      "text": "Past Projects",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_102,h_57,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": "Wavy Abstract Background _edited_edited.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-m05o19ya",
+      "text": "Text 2 SceneThe project developed a novel image editing tool that allows the user to make changes to a sample image using English text. We used masking and impainting, followed by harmonization to achieve this in a photo - realistic fashion.Spike DriveThe project aimed to utilise Spiking Neural Networks (SNNs) to identify moving objects. We successfully implemented a Convolution SNN on the DVS Gesture Dataset achieving an accuracy of 78% .RL GamesThe project explored Reinforcement Learning Algorithms and Deep Reinforcement learning techniques such as PPO, SAC etc, in complex environments ranging from MineRL to Mario.Deepfake DetectionThe project utilises the SeqFakeFormer architecture to trace and detect deepfakes. The pipeline involves CNNs to capture feature manipulations and cross attention models to capture sequential manipulations.OptiWing The Project is based on AI applications in the field of Aerospace Engineering and Airfoil design. We tested out different model pipelines to generate robust and smooth airfoils given the corresponding 'Cp' vs 'X' plots.AI ChoreographyThe project aimed to generate realisable dance moves for music inputs provided. We implemented a Spatial Temporal GCN and used cross - attention models to establish the relationship between audio and motion features.",
+      "images": []
+    }
+  ],
+  "links": [
+    {
+      "text": "This website was built on Wix. Create yours today.Get Started",
+      "url": "https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=35609fcf-d83c-4b19-9c81-af719b99dbd8&adsVersion=banner_2024",
+      "target": "_blank"
+    },
+    {
+      "text": "AI Club IITM",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "target": "_self"
+    },
+    {
+      "text": "Home",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "target": "_self"
+    },
+    {
+      "text": "Projects",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+      "target": "_self"
+    },
+    {
+      "text": "Events",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+      "target": "_self"
+    },
+    {
+      "text": "Team",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "target": "_self"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+      "target": "_self"
+    },
+    {
+      "text": "Team",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "target": "_self"
+    },
+    {
+      "text": "Team",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "target": "_self"
+    },
+    {
+      "text": "Team",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "target": "_self"
+    }
+  ],
+  "images": [
+    {
+      "alt": "ai_logo.png",
+      "src": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_46,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png",
+      "srcset": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_46,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png 1x, https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_92,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png 2x",
+      "width": "46",
+      "height": "45",
+      "localFile": "assets/a9727fafdd02c884.png"
+    },
+    {
+      "alt": "Wavy Abstract Background _edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_144,h_81,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "541",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://static.wixstatic.com/media/7b152c_d0cc6c12b1db4f6f8ebdac83deb5188af000.jpg/v1/fill/w_122,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_d0cc6c12b1db4f6f8ebdac83deb5188af000.jpg",
+      "srcset": null,
+      "width": "488",
+      "height": "613",
+      "localFile": "assets/e0a67811fc8237af.jpg"
+    },
+    {
+      "alt": "AI02 Night Vision.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_ca94548e839f4f0384d5742d83e8aa7e~mv2.jpg/v1/fill/w_122,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_ca94548e839f4f0384d5742d83e8aa7e~mv2.jpg",
+      "srcset": null,
+      "width": "489",
+      "height": "619",
+      "localFile": "assets/ee9256528a1a1761.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://static.wixstatic.com/media/7b152c_37356f322b46456ab75ff1960c011541~mv2.jpg/v1/fill/w_122,h_95,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_37356f322b46456ab75ff1960c011541~mv2.jpg",
+      "srcset": null,
+      "width": "488",
+      "height": "596",
+      "localFile": "assets/dfa5019cb1584ec7.jpg"
+    },
+    {
+      "alt": "Wavy Abstract Background _edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_102,h_57,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "383",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    }
+  ],
+  "embeds": [
+    {
+      "tag": "video",
+      "src": null,
+      "title": null,
+      "poster": null
+    },
+    {
+      "tag": "iframe",
+      "src": null,
+      "title": "Wix Chat",
+      "poster": null
+    }
+  ],
+  "forms": [
+    {
+      "action": "https://aiclubwebdev.wixsite.com/aiclub-2/search",
+      "method": null,
+      "fields": [
+        {
+          "tag": "input",
+          "type": "search",
+          "name": "q",
+          "label": "Search..."
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": null,
+          "label": "Search..."
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "name": null,
+          "label": ""
+        }
+      ]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "label": "Search...",
+      "id": null,
+      "attributes": {
+        "aria-label": "Search..."
+      }
+    }
+  ],
+  "text": "Current Projects\n\n1 . AI Rahman\n\nMusic Information retrieval is one of the polarizing areas in the field of AI today. ​\n\n​\n\nA number of sequence to sequence based models have been explored for single track music generation, but bringing in multiple instruments together for the generation of multi-track music composition is yet a challenge. It requires a mechanism that maintains the coherence while generating music. By means of this project, we aim to explore models that are able to coherently fuse two different genres and create pleasant music.\n\n2 . Night Vision\n\n​​​​\n\nLow light conditions often degrade the quality of images and videos, making it challenging for various applications such as CCTV surveillance and satellite imaging. This project aims to address the problem by enhancing low light videos using deep learning techniques. Specifically, we will be working with CNNs, GANs, diffusion models, object detection algorithms (eg. YOLO), temporal convolutional networks for improving the visibility and quality of videos captured in low light environments.\n\n​\n\n3 . Suncast\n\nHigh-energy solar flares and coronal mass ejections (CMEs) have the potential to disrupt Earth’s satellite infrastructure significantly. Predicting these events in advance could enable the activation of defense mechanisms to mitigate their effects.\n\nSince these phenomena often originate from regions of the solar surface associated with sunspots, predicting sunspots is also crucial. By leveraging Graph Neural Networks (GNNs) to predict sunspots, we aim to achieve enhanced prediction accuracy in this domain.\n\nPast Projects\n\nText 2 Scene\n\nThe project developed a novel image editing tool that allows the user to make changes to a sample image using English text. We used masking and impainting, followed by harmonization to achieve this in a photo - realistic fashion.\n\nSpike Drive\n\nThe project aimed to utilise Spiking Neural Networks (SNNs) to identify moving objects. We successfully implemented a Convolution SNN on the DVS Gesture Dataset achieving an accuracy of 78% .\n\nRL Games\n\nThe project explored Reinforcement Learning Algorithms and Deep Reinforcement learning techniques such as PPO, SAC etc, in complex environments ranging from MineRL to Mario.\n\nDeepfake Detection\n\nThe project utilises the SeqFakeFormer architecture to trace and detect deepfakes. The pipeline involves CNNs to capture feature manipulations and cross attention models to capture sequential manipulations.\n\nOptiWing\n\nThe Project is based on AI applications in the field of Aerospace Engineering and Airfoil design. We tested out different model pipelines to generate robust and smooth airfoils given the corresponding 'Cp' vs 'X' plots.\n\nAI Choreography\n\nThe project aimed to generate realisable dance moves for music inputs provided. We implemented a Spatial Temporal GCN and used cross - attention models to establish the relationship between audio and motion features.",
+  "allPageText": "top of page This website was built on Wix. Create yours today.Get StartedAI Club IITMHomeProjectsEventsTeamBlogsMoreUse tab to navigate through the menu items.Current Projects1 . AI RahmanMusic Information retrieval is one of the polarizing areas in the field of AI today. ​\n\n​\n\nA number of sequence to sequence based models have been explored for single track music generation, but bringing in multiple instruments together for the generation of multi-track music composition is yet a challenge. It requires a mechanism that maintains the coherence while generating music. By means of this project, we aim to explore models that are able to coherently fuse two different genres and create pleasant music.Team\n2 . Night Vision​​​​\n\nLow light conditions often degrade the quality of images and videos, making it challenging for various applications such as CCTV surveillance and satellite imaging. This project aims to address the problem by enhancing low light videos using deep learning techniques. Specifically, we will be working with CNNs, GANs, diffusion models, object detection algorithms (eg. YOLO), temporal convolutional networks for improving the visibility and quality of videos captured in low light environments.\n\n​Team\n3 . SuncastHigh-energy solar flares and coronal mass ejections (CMEs) have the potential to disrupt Earth’s satellite infrastructure significantly. Predicting these events in advance could enable the activation of defense mechanisms to mitigate their effects.\n\nSince these phenomena often originate from regions of the solar surface associated with sunspots, predicting sunspots is also crucial. By leveraging Graph Neural Networks (GNNs) to predict sunspots, we aim to achieve enhanced prediction accuracy in this domain.\n Team\nPast ProjectsText 2 SceneThe project developed a novel image editing tool that allows the user to make changes to a sample image using English text. We used masking and impainting, followed by harmonization to achieve this in a photo - realistic fashion.Spike DriveThe project aimed to utilise Spiking Neural Networks (SNNs) to identify moving objects. We successfully implemented a Convolution SNN on the DVS Gesture Dataset achieving an accuracy of 78% .RL GamesThe project explored Reinforcement Learning Algorithms and Deep Reinforcement learning techniques such as PPO, SAC etc, in complex environments ranging from MineRL to Mario.Deepfake DetectionThe project utilises the SeqFakeFormer architecture to trace and detect deepfakes. The pipeline involves CNNs to capture feature manipulations and cross attention models to capture sequential manipulations.OptiWing The Project is based on AI applications in the field of Aerospace Engineering and Airfoil design. We tested out different model pipelines to generate robust and smooth airfoils given the corresponding 'Cp' vs 'X' plots.AI ChoreographyThe project aimed to generate realisable dance moves for music inputs provided. We implemented a Spatial Temporal GCN and used cross - attention models to establish the relationship between audio and motion features.bottom of page",
+  "cards": [
+    {
+      "id": "comp-m05o4h9w1__item1",
+      "textBlocks": [
+        "Text 2 Scene",
+        "The project developed a novel image editing tool that allows the user to make changes to a sample image using English text. We used masking and impainting, followed by harmonization to achieve this in a photo - realistic fashion."
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-m05o4h9w1__item-knn4fx1b",
+      "textBlocks": [
+        "Spike Drive",
+        "The project aimed to utilise Spiking Neural Networks (SNNs) to identify moving objects. We successfully implemented a Convolution SNN on the DVS Gesture Dataset achieving an accuracy of 78% ."
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-m05o4h9w1__item-j9r9uz7e",
+      "textBlocks": [
+        "RL Games",
+        "The project explored Reinforcement Learning Algorithms and Deep Reinforcement learning techniques such as PPO, SAC etc, in complex environments ranging from MineRL to Mario."
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-m05o4h9w1__item-knn4fy3q",
+      "textBlocks": [
+        "Deepfake Detection",
+        "The project utilises the SeqFakeFormer architecture to trace and detect deepfakes. The pipeline involves CNNs to capture feature manipulations and cross attention models to capture sequential manipulations."
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-m05o4h9w1__item-knn4fvlg",
+      "textBlocks": [
+        "OptiWing",
+        "The Project is based on AI applications in the field of Aerospace Engineering and Airfoil design. We tested out different model pipelines to generate robust and smooth airfoils given the corresponding 'Cp' vs 'X' plots."
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-m05o4h9w1__item-knn4fzi2",
+      "textBlocks": [
+        "AI Choreography",
+        "The project aimed to generate realisable dance moves for music inputs provided. We implemented a Spatial Temporal GCN and used cross - attention models to establish the relationship between audio and motion features."
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    }
+  ],
+  "structuredMetadata": [],
+  "pageDefinitions": [
+    {
+      "pageId": "n3m2t",
+      "title": "Archives - to be modified",
+      "pageUriSEO": "archives-to-be-modified",
+      "pageJsonFileName": "7b152c_39583b819efc3ed015bb29516fe250b7_2"
+    },
+    {
+      "pageId": "u1q52",
+      "title": "Event Details & Registration",
+      "pageUriSEO": "event-details",
+      "pageJsonFileName": "7b152c_caea55bafc227ef944eabdfafc3c50ec_2"
+    },
+    {
+      "pageId": "snge6",
+      "title": "Blog - to be modified",
+      "pageUriSEO": "blog-to-be-modified",
+      "pageJsonFileName": "7b152c_4f0f552e3a3748b72becf60e00a2bbb0_2"
+    },
+    {
+      "pageId": "djeax",
+      "title": "My Programs",
+      "pageUriSEO": "my-programs"
+    },
+    {
+      "pageId": "r0epw",
+      "title": "Participant Page",
+      "pageUriSEO": "participant-page",
+      "pageJsonFileName": "7b152c_d9407c463e1cb9abd24a64ea81c8ca23_2"
+    },
+    {
+      "pageId": "ipopg",
+      "title": "Resources",
+      "pageUriSEO": "resources",
+      "pageJsonFileName": "7b152c_ed550154f8b8e05a146716f44be4994e_2"
+    },
+    {
+      "pageId": "vr98p",
+      "title": "Team",
+      "pageUriSEO": "team",
+      "pageJsonFileName": "7b152c_e460dc9eef7a0aad23ca53f480c682f2_2"
+    },
+    {
+      "pageId": "yt718",
+      "title": "Profile",
+      "pageUriSEO": "profile-1",
+      "pageJsonFileName": "7b152c_1482369cb3fa4b9f6fe757043d1b0a7c_2"
+    },
+    {
+      "pageId": "eif5s",
+      "title": "Notifications",
+      "pageUriSEO": "notifications"
+    },
+    {
+      "pageId": "qptnt",
+      "title": "Programs",
+      "pageUriSEO": "programs",
+      "pageJsonFileName": "7b152c_beb79b53971b8904c38e32b1b03ecc08_2"
+    },
+    {
+      "pageId": "p4tyu",
+      "title": "My Wallet",
+      "pageUriSEO": "my-wallet"
+    },
+    {
+      "pageId": "qyi9l",
+      "title": "Events",
+      "pageUriSEO": "event-list",
+      "pageJsonFileName": "7b152c_193dab13b5a3165c14ca8ce56b8a8c30_2"
+    },
+    {
+      "pageId": "kqv4t",
+      "title": "Visitor Page",
+      "pageUriSEO": "challenge-page",
+      "pageJsonFileName": "7b152c_3a6726df7b1457ca007c0f1ddf8e6458_2"
+    },
+    {
+      "pageId": "qa809",
+      "title": "Projects",
+      "pageUriSEO": "projects",
+      "pageJsonFileName": "7b152c_a4ae1f852ead9a0967e9d8196a6d52a4_2"
+    },
+    {
+      "pageId": "ruimx",
+      "title": "Schedule",
+      "pageUriSEO": "schedule",
+      "pageJsonFileName": "7b152c_3598f8e4e0cd4ed706cfdcda687f89dd_2"
+    },
+    {
+      "pageId": "dvkv0",
+      "title": "Thank You Page",
+      "pageUriSEO": "challenge-thanks",
+      "pageJsonFileName": "7b152c_90eac0452e610e874dcaf7cacda31210_2"
+    },
+    {
+      "pageId": "r0efd",
+      "title": "Archives",
+      "pageUriSEO": "archives-1",
+      "pageJsonFileName": "7b152c_eb027edb822181c9bbfd35af0bd55c55_2"
+    },
+    {
+      "pageId": "ki5qg",
+      "title": "Gallery - to be modified",
+      "pageUriSEO": "gallery-to-be-modified",
+      "pageJsonFileName": "7b152c_b22d0c929146f416217acbcb623ddca5_2"
+    },
+    {
+      "pageId": "e0lhp",
+      "title": "Blogs",
+      "pageUriSEO": "blogs",
+      "pageJsonFileName": "7b152c_be165f6ff0cd23702389dffe5e22f81e_2"
+    },
+    {
+      "pageId": "tljab",
+      "title": "Search Results",
+      "pageUriSEO": "search",
+      "pageJsonFileName": "7b152c_ce416b5e07fb53ab24a407cf8b289ab0_2"
+    },
+    {
+      "pageId": "m9q37",
+      "title": "Events",
+      "pageUriSEO": "events-1",
+      "pageJsonFileName": "7b152c_0a3114cc3ba16186fb212a0eaa29f717_2"
+    },
+    {
+      "pageId": "r2d18",
+      "title": "Payment Page",
+      "pageUriSEO": "challenge-payment",
+      "pageJsonFileName": "7b152c_bd9f3646920d93865a74777928ca9903_2"
+    },
+    {
+      "pageId": "n5d49",
+      "title": "Recruitment",
+      "pageUriSEO": "recruitment"
+    },
+    {
+      "pageId": "gzfro",
+      "title": "Events",
+      "pageUriSEO": "events",
+      "pageJsonFileName": "7b152c_53afdc35d5debbb08f38e03adb7671cd_2"
+    },
+    {
+      "pageId": "c1dmp",
+      "title": "Home",
+      "pageUriSEO": "home",
+      "pageJsonFileName": "7b152c_5ce7529b8a1ce53534b146dcd18b5cd6_2"
+    },
+    {
+      "pageId": "a1kpe",
+      "title": "More",
+      "pageUriSEO": "more",
+      "pageJsonFileName": "7b152c_ef0fe8282edcaa082bb7c3c4cd794863_2"
+    },
+    {
+      "pageId": "wx7l6",
+      "title": "Gallery",
+      "pageUriSEO": "gallery-1",
+      "pageJsonFileName": "7b152c_d2af98579128349675073dd7bf435105_2"
+    },
+    {
+      "pageId": "xviyu",
+      "title": "My Account",
+      "pageUriSEO": "my-account"
+    }
+  ]
+}

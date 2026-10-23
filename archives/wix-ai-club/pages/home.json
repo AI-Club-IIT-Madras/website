@@ -1,0 +1,840 @@
+{
+  "url": "https://aiclubwebdev.wixsite.com/aiclub-2/home",
+  "fetchedAt": "2026-10-23T20:24:17.114Z",
+  "status": 200,
+  "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/home",
+  "contentType": "text/html; charset=UTF-8",
+  "bytes": 1122412,
+  "title": "AI Club IITM",
+  "description": "Welcome to AI Club IITM, the official artificial intelligence community at IIT Madras. Read about our projects, events or refer to resources to kick start your AI journey.",
+  "canonical": "https://aiclubwebdev.wixsite.com/aiclub-2",
+  "blocks": [
+    {
+      "tag": "h1",
+      "id": "comp-lzhyz7bs",
+      "text": "Welcome to AI Club\nof IIT Madras!",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzi9de9m",
+      "text": "WHO WE ARE",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzi9j7bu",
+      "text": "We are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzia1x5t",
+      "text": "WHAT WE DO",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lziahbx2",
+      "text": "Work on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lziahbx2",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lziahbx2",
+      "text": "Conduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lziahbx2",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lziahbx2",
+      "text": "The members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lznz5560",
+      "text": "ACHIEVEMENTS",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lznyymsm__item1",
+      "text": "Convolve 2023",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item1",
+      "text": "Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lznyymsm__item-knn4fx1b",
+      "text": "Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fx1b",
+      "text": "Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fx1b",
+      "text": "​​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fx1b",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lznyymsm__item-j9r9uz7e",
+      "text": "Inter IIT Tech Meet 2023 11.0\n(Gold Medal)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-j9r9uz7e",
+      "text": "Placed first among all the participating IITs in the High prep NLP event.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-j9r9uz7e",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lznyymsm__item-knn4fy3q",
+      "text": "Inter IIT Tech Meet 2022 10.0\n(High Prep)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fy3q",
+      "text": "Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInter",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lznyymsm__item-knn4fvlg",
+      "text": "Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fvlg",
+      "text": "Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fvlg",
+      "text": "​​​",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lznyymsm__item-knn4fzi2",
+      "text": "Inter IIT Tech Meet 2021 9.0\n(Gold Medal)",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fzi2",
+      "text": "​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fzi2",
+      "text": "​​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lznyymsn3__item-knn4fzi2",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m010bqg6",
+      "text": "Get in Touch",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m010bqga1",
+      "text": "AI Club\nCentre For Innovation,",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m010bqga1",
+      "text": "IIT Madras, Chennai",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m010bqga1",
+      "text": "600036",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m010bqgi1",
+      "text": "aiclubcfi@smail.iitm.ac.in",
+      "links": [
+        {
+          "text": "aiclubcfi@smail.iitm.ac.in",
+          "url": "mailto:aiclubcfi@smail.iitm.ac.in"
+        }
+      ]
+    },
+    {
+      "tag": "h1",
+      "id": "viewer-eaw5q36",
+      "text": "Contact us",
+      "links": []
+    }
+  ],
+  "sections": [
+    {
+      "id": "comp-lzu06d1z",
+      "text": "Welcome to AI Club\nof IIT Madras!",
+      "images": []
+    },
+    {
+      "id": "comp-lt8plf48",
+      "text": "",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_2ff9744f8d744cf99aef5830ae39b178~mv2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_2ff9744f8d744cf99aef5830ae39b178~mv2.jpg",
+          "alt": "WhatsApp Image 2025-09-03 at 19.16_edited.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzi9de89",
+      "text": "EVENTS\n\nWHO WE AREWe are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.MEET THE TEAM\n\nWHAT WE DOWork on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!\n\n​\n\nConduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​\n\n​\n\nThe members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​CHECKOUT OUR EVENTS",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-lzi9de9g1",
+      "text": "WHO WE AREWe are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.MEET THE TEAM\n\nWHAT WE DOWork on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!\n\n​\n\nConduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​\n\n​\n\nThe members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​CHECKOUT OUR EVENTS",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-lt8plf4a",
+      "text": "ACHIEVEMENTSConvolve 2023Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.\n\n​​\n\n​Inter IIT Tech Meet 2023 11.0\n(Gold Medal)Placed first among all the participating IITs in the High prep NLP event.\n\n​Inter IIT Tech Meet 2022 10.0\n(High Prep)Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInterInter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.\n\n​​​Inter IIT Tech Meet 2021 9.0\n(Gold Medal)​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.\n\n​​\n\n​",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_7e1fef421de847b387b4e6e79d6197d8~mv2.jpg/v1/fill/w_147,h_67,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_7e1fef421de847b387b4e6e79d6197d8~mv2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-kk2qlyls",
+      "text": "ACHIEVEMENTSConvolve 2023Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.\n\n​​\n\n​Inter IIT Tech Meet 2023 11.0\n(Gold Medal)Placed first among all the participating IITs in the High prep NLP event.\n\n​Inter IIT Tech Meet 2022 10.0\n(High Prep)Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInterInter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.\n\n​​​Inter IIT Tech Meet 2021 9.0\n(Gold Medal)​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.\n\n​​\n\n​",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_7e1fef421de847b387b4e6e79d6197d8~mv2.jpg/v1/fill/w_147,h_67,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_7e1fef421de847b387b4e6e79d6197d8~mv2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-m010bqej",
+      "text": "Get in TouchAI Club\nCentre For Innovation,\n\nIIT Madras, Chennai\n\n600036aiclubcfi@smail.iitm.ac.inContact usFirst name*Last nameEmail*PhoneWrite a messageSubmit",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png",
+          "alt": "GitHub    "
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png",
+          "alt": "Youtube"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png",
+          "alt": "Instagram"
+        }
+      ]
+    },
+    {
+      "id": "comp-m010bqfr",
+      "text": "Get in TouchAI Club\nCentre For Innovation,\n\nIIT Madras, Chennai\n\n600036aiclubcfi@smail.iitm.ac.inContact usFirst name*Last nameEmail*PhoneWrite a messageSubmit",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png",
+          "alt": "GitHub    "
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png",
+          "alt": "Youtube"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png",
+          "alt": "Instagram"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "text": "This website was built on Wix. Create yours today.Get Started",
+      "url": "https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=35609fcf-d83c-4b19-9c81-af719b99dbd8&adsVersion=banner_2024",
+      "target": "_blank"
+    },
+    {
+      "text": "AI Club IITM",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "target": "_self"
+    },
+    {
+      "text": "Home",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "target": "_self"
+    },
+    {
+      "text": "Projects",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+      "target": "_self"
+    },
+    {
+      "text": "Events",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+      "target": "_self"
+    },
+    {
+      "text": "Team",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "target": "_self"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+      "target": "_self"
+    },
+    {
+      "text": "MEET THE TEAM",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "target": "_self"
+    },
+    {
+      "text": "CHECKOUT OUR EVENTS",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+      "target": "_self"
+    },
+    {
+      "text": "aiclubcfi@smail.iitm.ac.in",
+      "url": "mailto:aiclubcfi@smail.iitm.ac.in",
+      "target": null
+    },
+    {
+      "text": "GitHub    ",
+      "url": "https://github.com/AI-Club-IIT-Madras",
+      "target": "_blank"
+    },
+    {
+      "text": "Youtube",
+      "url": "https://www.youtube.com/@aiclubcfiIITM",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://in.linkedin.com/company/ai-club-iit-madras",
+      "target": "_blank"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/aiclub_iitm/",
+      "target": "_blank"
+    }
+  ],
+  "images": [
+    {
+      "alt": "ai_logo.png",
+      "src": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_46,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png",
+      "srcset": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_46,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png 1x, https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_92,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png 2x",
+      "width": "46",
+      "height": "45",
+      "localFile": "assets/a9727fafdd02c884.png"
+    },
+    {
+      "alt": "WhatsApp Image 2025-09-03 at 19.16_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_2ff9744f8d744cf99aef5830ae39b178~mv2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_2ff9744f8d744cf99aef5830ae39b178~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "817",
+      "localFile": "assets/c474a821ee41d47c.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "631",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://static.wixstatic.com/media/7b152c_7e1fef421de847b387b4e6e79d6197d8~mv2.jpg/v1/fill/w_147,h_67,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_7e1fef421de847b387b4e6e79d6197d8~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "747",
+      "localFile": "assets/0c23062e79253515.jpg"
+    },
+    {
+      "alt": "GitHub    ",
+      "src": "https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png 1x, https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png 2x",
+      "width": "25",
+      "height": "25",
+      "localFile": "assets/88918e8e32a6b558.png"
+    },
+    {
+      "alt": "Youtube",
+      "src": "https://static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png 1x, https://static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png 2x",
+      "width": "25",
+      "height": "25",
+      "localFile": "assets/92f906c03c42a77c.png"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png 1x, https://static.wixstatic.com/media/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png 2x",
+      "width": "25",
+      "height": "25",
+      "localFile": "assets/e10b9d49e91aa843.png"
+    },
+    {
+      "alt": "Instagram",
+      "src": "https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png 1x, https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png 2x",
+      "width": "25",
+      "height": "25",
+      "localFile": "assets/c076232bc5a61edf.png"
+    }
+  ],
+  "embeds": [
+    {
+      "tag": "iframe",
+      "src": null,
+      "title": "Wix Chat",
+      "poster": null
+    }
+  ],
+  "forms": [
+    {
+      "action": "https://aiclubwebdev.wixsite.com/aiclub-2/search",
+      "method": null,
+      "fields": [
+        {
+          "tag": "input",
+          "type": "search",
+          "name": "q",
+          "label": "Search..."
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": null,
+          "label": "Search..."
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "name": null,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "action": null,
+      "method": null,
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": null,
+          "label": "First name"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": null,
+          "label": "Last name"
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": null,
+          "label": "Email"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": null,
+          "label": "Phone. Phone. Select a country code"
+        },
+        {
+          "tag": "input",
+          "type": "phone",
+          "name": null,
+          "label": "Phone. Phone"
+        },
+        {
+          "tag": "textarea",
+          "type": null,
+          "name": null,
+          "label": "Write a message"
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "name": null,
+          "label": "Submit"
+        }
+      ]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "label": "Search...",
+      "id": null,
+      "attributes": {
+        "aria-label": "Search..."
+      }
+    },
+    {
+      "text": "EVENTS",
+      "label": "EVENTS",
+      "id": null,
+      "attributes": {
+        "data-testid": "buttonContent",
+        "aria-label": "EVENTS"
+      }
+    },
+    {
+      "text": "",
+      "label": "Phone. Phone. Select a country code",
+      "id": null,
+      "attributes": {
+        "data-hook": "country-selector-trigger",
+        "aria-label": "Phone. Phone. Select a country code",
+        "aria-expanded": "false",
+        "aria-haspopup": "listbox",
+        "data-focusable-focus": "false",
+        "data-focusable-focus-visible": "false"
+      }
+    },
+    {
+      "text": "Submit",
+      "label": "Submit",
+      "id": null,
+      "attributes": {
+        "data-fullwidth": "false",
+        "data-mobile": "false",
+        "data-hook": "submit-button",
+        "aria-live": "off",
+        "aria-label": "Submit",
+        "data-focusable-focus": "false",
+        "data-focusable-focus-visible": "false",
+        "aria-disabled": "false"
+      }
+    }
+  ],
+  "text": "Welcome to AI Club\nof IIT Madras!\n\nWHO WE ARE\n\nWe are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.\n\nWHAT WE DO\n\nWork on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!\n\n​\n\nConduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​\n\n​\n\nThe members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​\n\nACHIEVEMENTS\n\nConvolve 2023\n\nWon the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.\n\nInter IIT Tech Meet 2023 11.0\n(Bronze Medal)\n\nPlaced third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.\n\n​​\n\n​\n\nInter IIT Tech Meet 2023 11.0\n(Gold Medal)\n\nPlaced first among all the participating IITs in the High prep NLP event.\n\n​\n\nInter IIT Tech Meet 2022 10.0\n(High Prep)\n\nPlaced third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInter\n\nInter IIT Tech Meet 2023 11.0\n(Bronze Medal)\n\nPlaced third among all the participating IITs in the Mid Prep Cloud Physician Event.\n\n​​​\n\nInter IIT Tech Meet 2021 9.0\n(Gold Medal)\n\n​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.\n\n​​\n\n​\n\nGet in Touch\n\nAI Club\nCentre For Innovation,\n\nIIT Madras, Chennai\n\n600036\n\naiclubcfi@smail.iitm.ac.in\n\nContact us",
+  "allPageText": "top of page This website was built on Wix. Create yours today.Get StartedAI Club IITMHomeProjectsEventsTeamBlogsMoreUse tab to navigate through the menu items.Welcome to AI Club\nof IIT Madras!EVENTS\n\nWHO WE AREWe are a student community of Data Science and Machine Learning enthusiasts who explore various fields of AI and ML, solve challenging problems in the form of projects, solve real-world problems using state-of-art AI in various hackathons.MEET THE TEAM\n\nWHAT WE DOWork on tackling challenging real-world problems in diverse fields like Data Science, Computer Vision, Natural Language Processing, Reinforcement Learning and more!\n\n​\n\nConduct sessions and workshops on various topics and hackathons as well that keep us with the various advancements in tech.​​\n\n​\n\nThe members of our Hackathon Vertical participate in various hackathons representing IITM. We also contribute to research, by publishing research papers and contributing to open source.​CHECKOUT OUR EVENTS\n\nACHIEVEMENTSConvolve 2023Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures.Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.\n\n​​\n\n​Inter IIT Tech Meet 2023 11.0\n(Gold Medal)Placed first among all the participating IITs in the High prep NLP event.\n\n​Inter IIT Tech Meet 2022 10.0\n(High Prep)Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInterInter IIT Tech Meet 2023 11.0\n(Bronze Medal)Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.\n\n​​​Inter IIT Tech Meet 2021 9.0\n(Gold Medal)​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.\n\n​​\n\n​Get in TouchAI Club\nCentre For Innovation,\n\nIIT Madras, Chennai\n\n600036aiclubcfi@smail.iitm.ac.inContact usFirst name*Last nameEmail*PhoneWrite a messageSubmitbottom of page",
+  "cards": [
+    {
+      "id": "comp-lznyymsj2__item1",
+      "textBlocks": [
+        "Convolve 2023",
+        "Won the first edition of convolve pan IIT hackathon hosted at IIT Guwahati in collaboration with Cisco. Our team implemented a 98% accurate customer feedback sentiment analysis model using large transformer architectures."
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-lznyymsj2__item-knn4fx1b",
+      "textBlocks": [
+        "Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)",
+        "Placed third among all the participating IITs in the Mid Prep ISRO satellite image super-resolution Event.",
+        "​​",
+        "​"
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-lznyymsj2__item-j9r9uz7e",
+      "textBlocks": [
+        "Inter IIT Tech Meet 2023 11.0\n(Gold Medal)",
+        "Placed first among all the participating IITs in the High prep NLP event.",
+        "​"
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-lznyymsj2__item-knn4fy3q",
+      "textBlocks": [
+        "Inter IIT Tech Meet 2022 10.0\n(High Prep)",
+        "Placed third among all the participating IITs in the High Prep Event conducted by Bosch.The problem statement was based on Model Extraction in Black Box and Gray Box modelsInter"
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-lznyymsj2__item-knn4fvlg",
+      "textBlocks": [
+        "Inter IIT Tech Meet 2023 11.0\n(Bronze Medal)",
+        "Placed third among all the participating IITs in the Mid Prep Cloud Physician Event.",
+        "​​​"
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    },
+    {
+      "id": "comp-lznyymsj2__item-knn4fzi2",
+      "textBlocks": [
+        "Inter IIT Tech Meet 2021 9.0\n(Gold Medal)",
+        "​Placed first among all the participating IITs in the Bridgei-2i Automated Headline and Sentiment Generator Event.",
+        "​​",
+        "​"
+      ],
+      "links": [],
+      "images": [],
+      "backgroundMedia": []
+    }
+  ],
+  "structuredMetadata": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "WebSite",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://aiclubwebdev.wixsite.com/aiclub-2/search?q={search_term}"
+        },
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "pageDefinitions": [
+    {
+      "pageId": "n3m2t",
+      "title": "Archives - to be modified",
+      "pageUriSEO": "archives-to-be-modified",
+      "pageJsonFileName": "7b152c_39583b819efc3ed015bb29516fe250b7_2"
+    },
+    {
+      "pageId": "u1q52",
+      "title": "Event Details & Registration",
+      "pageUriSEO": "event-details",
+      "pageJsonFileName": "7b152c_caea55bafc227ef944eabdfafc3c50ec_2"
+    },
+    {
+      "pageId": "snge6",
+      "title": "Blog - to be modified",
+      "pageUriSEO": "blog-to-be-modified",
+      "pageJsonFileName": "7b152c_4f0f552e3a3748b72becf60e00a2bbb0_2"
+    },
+    {
+      "pageId": "djeax",
+      "title": "My Programs",
+      "pageUriSEO": "my-programs"
+    },
+    {
+      "pageId": "r0epw",
+      "title": "Participant Page",
+      "pageUriSEO": "participant-page",
+      "pageJsonFileName": "7b152c_d9407c463e1cb9abd24a64ea81c8ca23_2"
+    },
+    {
+      "pageId": "ipopg",
+      "title": "Resources",
+      "pageUriSEO": "resources",
+      "pageJsonFileName": "7b152c_ed550154f8b8e05a146716f44be4994e_2"
+    },
+    {
+      "pageId": "vr98p",
+      "title": "Team",
+      "pageUriSEO": "team",
+      "pageJsonFileName": "7b152c_e460dc9eef7a0aad23ca53f480c682f2_2"
+    },
+    {
+      "pageId": "yt718",
+      "title": "Profile",
+      "pageUriSEO": "profile-1",
+      "pageJsonFileName": "7b152c_1482369cb3fa4b9f6fe757043d1b0a7c_2"
+    },
+    {
+      "pageId": "eif5s",
+      "title": "Notifications",
+      "pageUriSEO": "notifications"
+    },
+    {
+      "pageId": "qptnt",
+      "title": "Programs",
+      "pageUriSEO": "programs",
+      "pageJsonFileName": "7b152c_beb79b53971b8904c38e32b1b03ecc08_2"
+    },
+    {
+      "pageId": "p4tyu",
+      "title": "My Wallet",
+      "pageUriSEO": "my-wallet"
+    },
+    {
+      "pageId": "qyi9l",
+      "title": "Events",
+      "pageUriSEO": "event-list",
+      "pageJsonFileName": "7b152c_193dab13b5a3165c14ca8ce56b8a8c30_2"
+    },
+    {
+      "pageId": "kqv4t",
+      "title": "Visitor Page",
+      "pageUriSEO": "challenge-page",
+      "pageJsonFileName": "7b152c_3a6726df7b1457ca007c0f1ddf8e6458_2"
+    },
+    {
+      "pageId": "qa809",
+      "title": "Projects",
+      "pageUriSEO": "projects",
+      "pageJsonFileName": "7b152c_a4ae1f852ead9a0967e9d8196a6d52a4_2"
+    },
+    {
+      "pageId": "ruimx",
+      "title": "Schedule",
+      "pageUriSEO": "schedule",
+      "pageJsonFileName": "7b152c_3598f8e4e0cd4ed706cfdcda687f89dd_2"
+    },
+    {
+      "pageId": "dvkv0",
+      "title": "Thank You Page",
+      "pageUriSEO": "challenge-thanks",
+      "pageJsonFileName": "7b152c_90eac0452e610e874dcaf7cacda31210_2"
+    },
+    {
+      "pageId": "r0efd",
+      "title": "Archives",
+      "pageUriSEO": "archives-1",
+      "pageJsonFileName": "7b152c_eb027edb822181c9bbfd35af0bd55c55_2"
+    },
+    {
+      "pageId": "ki5qg",
+      "title": "Gallery - to be modified",
+      "pageUriSEO": "gallery-to-be-modified",
+      "pageJsonFileName": "7b152c_b22d0c929146f416217acbcb623ddca5_2"
+    },
+    {
+      "pageId": "e0lhp",
+      "title": "Blogs",
+      "pageUriSEO": "blogs",
+      "pageJsonFileName": "7b152c_be165f6ff0cd23702389dffe5e22f81e_2"
+    },
+    {
+      "pageId": "tljab",
+      "title": "Search Results",
+      "pageUriSEO": "search",
+      "pageJsonFileName": "7b152c_ce416b5e07fb53ab24a407cf8b289ab0_2"
+    },
+    {
+      "pageId": "m9q37",
+      "title": "Events",
+      "pageUriSEO": "events-1",
+      "pageJsonFileName": "7b152c_0a3114cc3ba16186fb212a0eaa29f717_2"
+    },
+    {
+      "pageId": "r2d18",
+      "title": "Payment Page",
+      "pageUriSEO": "challenge-payment",
+      "pageJsonFileName": "7b152c_bd9f3646920d93865a74777928ca9903_2"
+    },
+    {
+      "pageId": "n5d49",
+      "title": "Recruitment",
+      "pageUriSEO": "recruitment"
+    },
+    {
+      "pageId": "gzfro",
+      "title": "Events",
+      "pageUriSEO": "events",
+      "pageJsonFileName": "7b152c_53afdc35d5debbb08f38e03adb7671cd_2"
+    },
+    {
+      "pageId": "c1dmp",
+      "title": "Home",
+      "pageUriSEO": "home",
+      "pageJsonFileName": "7b152c_5ce7529b8a1ce53534b146dcd18b5cd6_2"
+    },
+    {
+      "pageId": "a1kpe",
+      "title": "More",
+      "pageUriSEO": "more",
+      "pageJsonFileName": "7b152c_ef0fe8282edcaa082bb7c3c4cd794863_2"
+    },
+    {
+      "pageId": "wx7l6",
+      "title": "Gallery",
+      "pageUriSEO": "gallery-1",
+      "pageJsonFileName": "7b152c_d2af98579128349675073dd7bf435105_2"
+    },
+    {
+      "pageId": "xviyu",
+      "title": "My Account",
+      "pageUriSEO": "my-account"
+    }
+  ]
+}

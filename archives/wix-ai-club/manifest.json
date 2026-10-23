@@ -1,0 +1,1773 @@
+{
+  "source": "https://aiclubwebdev.wixsite.com/aiclub-2",
+  "startedAt": "2026-10-23T20:23:10.712Z",
+  "pages": [
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "title": "AI Club IITM",
+      "file": "raw/home.html",
+      "json": "pages/home.json",
+      "markdown": "pages/home.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 1122554,
+      "blocks": 34,
+      "images": 8
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/_serverless/challenges-web-serverless/redirect-invite-link",
+      "error": "Command failed: curl -L --fail --silent --show-error --retry 2 --max-time 60 --max-filesize 20000000 -w %{http_code}\n%{url_effective}\n%{content_type} https://aiclubwebdev.wixsite.com/aiclub-2/_serverless/challenges-web-serverless/redirect-invite-link -o /Users/sbhandari/Documents/GitHub/website/archives/wix-ai-club/raw/_serverless--challenges-web-serverless--redirect-invite-link.html\ncurl: (56) The requested URL returned error: 404\n"
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/archives-1",
+      "title": "Archives | AI Club IITM",
+      "file": "raw/archives-1.html",
+      "json": "pages/archives-1.json",
+      "markdown": "pages/archives-1.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/archives-1",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 637581,
+      "blocks": 2,
+      "images": 2
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified",
+      "title": "Archives - to be modified | AI Club IITM",
+      "file": "raw/archives-to-be-modified.html",
+      "json": "pages/archives-to-be-modified.json",
+      "markdown": "pages/archives-to-be-modified.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 670343,
+      "blocks": 6,
+      "images": 6
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified",
+      "title": "Blog - to be modified | AI Club IITM",
+      "file": "raw/blog-to-be-modified.html",
+      "json": "pages/blog-to-be-modified.json",
+      "markdown": "pages/blog-to-be-modified.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 673728,
+      "blocks": 22,
+      "images": 17
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+      "title": "Blogs | AI Club IITM",
+      "file": "raw/blogs.html",
+      "json": "pages/blogs.json",
+      "markdown": "pages/blogs.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 836499,
+      "blocks": 77,
+      "images": 15
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page",
+      "title": "Visitor Page | AI Club IITM",
+      "file": "raw/challenge-page.html",
+      "json": "pages/challenge-page.json",
+      "markdown": "pages/challenge-page.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 886338,
+      "blocks": 1,
+      "images": 1
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/2d11499d-a6f7-3ae7-8365-05009d432e1a",
+      "title": "Data Analytics Tools | AI Club IITM",
+      "file": "raw/challenge-page--2d11499d-a6f7-3ae7-8365-05009d432e1a.html",
+      "json": "pages/challenge-page--2d11499d-a6f7-3ae7-8365-05009d432e1a.json",
+      "markdown": "pages/challenge-page--2d11499d-a6f7-3ae7-8365-05009d432e1a.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/2d11499d-a6f7-3ae7-8365-05009d432e1a",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 900688,
+      "blocks": 7,
+      "images": 2
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/7b8b847e-0819-3ac0-abb5-d3548aa8a734",
+      "title": "Data-driven Decision Making | AI Club IITM",
+      "file": "raw/challenge-page--7b8b847e-0819-3ac0-abb5-d3548aa8a734.html",
+      "json": "pages/challenge-page--7b8b847e-0819-3ac0-abb5-d3548aa8a734.json",
+      "markdown": "pages/challenge-page--7b8b847e-0819-3ac0-abb5-d3548aa8a734.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/7b8b847e-0819-3ac0-abb5-d3548aa8a734",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 900472,
+      "blocks": 7,
+      "images": 2
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/984eac86-f4e9-36a2-87b1-c7d7bbffa377",
+      "title": "Cloud Analytics For Beginners | AI Club IITM",
+      "file": "raw/challenge-page--984eac86-f4e9-36a2-87b1-c7d7bbffa377.html",
+      "json": "pages/challenge-page--984eac86-f4e9-36a2-87b1-c7d7bbffa377.json",
+      "markdown": "pages/challenge-page--984eac86-f4e9-36a2-87b1-c7d7bbffa377.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/984eac86-f4e9-36a2-87b1-c7d7bbffa377",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 900706,
+      "blocks": 7,
+      "images": 2
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-payment",
+      "title": "Payment Page | AI Club IITM",
+      "file": "raw/challenge-payment.html",
+      "json": "pages/challenge-payment.json",
+      "markdown": "pages/challenge-payment.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-payment",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 809911,
+      "blocks": 0,
+      "images": 1
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-thanks",
+      "title": "Thank You Page | AI Club IITM",
+      "file": "raw/challenge-thanks.html",
+      "json": "pages/challenge-thanks.json",
+      "markdown": "pages/challenge-thanks.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-thanks",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 742971,
+      "blocks": 0,
+      "images": 1
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/event-details",
+      "title": "Freshie Roadmap | AI Club IITM",
+      "file": "raw/event-details.html",
+      "json": "pages/event-details.json",
+      "markdown": "pages/event-details.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/event-details",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 935816,
+      "blocks": 10,
+      "images": 3
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/event-details/freshie-roadmap",
+      "title": "Freshie Roadmap | AI Club IITM",
+      "file": "raw/event-details--freshie-roadmap.html",
+      "json": "pages/event-details--freshie-roadmap.json",
+      "markdown": "pages/event-details--freshie-roadmap.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/event-details/freshie-roadmap",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 935820,
+      "blocks": 10,
+      "images": 3
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/event-list",
+      "title": "Events | AI Club IITM",
+      "file": "raw/event-list.html",
+      "json": "pages/event-list.json",
+      "markdown": "pages/event-list.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/event-list",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 815118,
+      "blocks": 2,
+      "images": 3
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+      "title": "Events | AI Club IITM",
+      "file": "raw/events-1.html",
+      "json": "pages/events-1.json",
+      "markdown": "pages/events-1.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 702126,
+      "blocks": 9,
+      "images": 5
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-1",
+      "title": "Gallery | AI Club IITM",
+      "file": "raw/gallery-1.html",
+      "json": "pages/gallery-1.json",
+      "markdown": "pages/gallery-1.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-1",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 638780,
+      "blocks": 3,
+      "images": 2
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified",
+      "title": "Gallery - to be modified | AI Club IITM",
+      "file": "raw/gallery-to-be-modified.html",
+      "json": "pages/gallery-to-be-modified.json",
+      "markdown": "pages/gallery-to-be-modified.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 647737,
+      "blocks": 2,
+      "images": 10
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/home",
+      "title": "AI Club IITM",
+      "file": "raw/home.html",
+      "json": "pages/home.json",
+      "markdown": "pages/home.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/home",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 1122412,
+      "blocks": 34,
+      "images": 8
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+      "title": "More | AI Club IITM",
+      "file": "raw/more.html",
+      "json": "pages/more.json",
+      "markdown": "pages/more.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 649811,
+      "blocks": 13,
+      "images": 8
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/participant-page",
+      "title": "Participant Page | AI Club IITM",
+      "file": "raw/participant-page.html",
+      "json": "pages/participant-page.json",
+      "markdown": "pages/participant-page.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/participant-page",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 986216,
+      "blocks": 1,
+      "images": 1
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/programs",
+      "title": "Programs | AI Club IITM",
+      "file": "raw/programs.html",
+      "json": "pages/programs.json",
+      "markdown": "pages/programs.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/programs",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 1102822,
+      "blocks": 5,
+      "images": 4
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+      "title": "Projects | AI Club IITM",
+      "file": "raw/projects.html",
+      "json": "pages/projects.json",
+      "markdown": "pages/projects.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 709990,
+      "blocks": 24,
+      "images": 6
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/recruitment",
+      "title": "AI Club IITM",
+      "file": "raw/recruitment.html",
+      "json": "pages/recruitment.json",
+      "markdown": "pages/recruitment.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/recruitment",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 489753,
+      "blocks": 0,
+      "images": 0
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/resources",
+      "title": "Resources | AI Club IITM",
+      "file": "raw/resources.html",
+      "json": "pages/resources.json",
+      "markdown": "pages/resources.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/resources",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 628830,
+      "blocks": 2,
+      "images": 2
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/schedule",
+      "title": "Schedule | AI Club IITM",
+      "file": "raw/schedule.html",
+      "json": "pages/schedule.json",
+      "markdown": "pages/schedule.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/schedule",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 935804,
+      "blocks": 0,
+      "images": 1
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/search",
+      "title": "Search Results | AI Club IITM",
+      "file": "raw/search.html",
+      "json": "pages/search.json",
+      "markdown": "pages/search.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/search",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 872566,
+      "blocks": 4,
+      "images": 2
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "title": "Team | AI Club IITM",
+      "file": "raw/team.html",
+      "json": "pages/team.json",
+      "markdown": "pages/team.md",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 877419,
+      "blocks": 85,
+      "images": 85
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified"
+      ],
+      "file": "assets/de9f4818d5f63653.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png",
+      "contentType": "image/png",
+      "bytes": 21665,
+      "sha256": "a77d9274fc196cca0035dd2be4eca8b59577846eeedaf1571bb35a354845ebcd"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified"
+      ],
+      "file": "assets/720dca04a175496b.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "contentType": "image/png",
+      "bytes": 833,
+      "sha256": "e8141d92078bba8a5d432c009a829c7acf6cc959869d4a81a4d949704d2ac0f4"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/home"
+      ],
+      "file": "assets/88918e8e32a6b558.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png",
+      "contentType": "image/png",
+      "bytes": 3181,
+      "sha256": "68ebe7a1e511e176898ca527e9e13bbfc93d67e46ac65d5953752b485a6bb450"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/7c66322d267a793b.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "contentType": "image/png",
+      "bytes": 3399,
+      "sha256": "9bd240fb506eac988776ba8dc24a97535caad6e2b669faece607be843f4caa2b"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/home"
+      ],
+      "file": "assets/92f906c03c42a77c.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_30de4e7217e64dfdadc3ea03beea7b94~mv2.png",
+      "contentType": "image/png",
+      "bytes": 2007,
+      "sha256": "8082976875e212c30968bff7936c1d9f6070faed7be5dcbee9642b2a3ae97a76"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_456cb078f5fb4deaa2845361aa665cf0f000.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-1"
+      ],
+      "file": "assets/93e3a2881fb374cc.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_456cb078f5fb4deaa2845361aa665cf0f000.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 80623,
+      "sha256": "73b019a66b37b54f8f4ae264f32c938c1cd4ddb5897b41804f931d34a5081faf"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/home"
+      ],
+      "file": "assets/e10b9d49e91aa843.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_60c5fc4a3ecd49f2a697206b09eeace1~mv2.png",
+      "contentType": "image/png",
+      "bytes": 4163,
+      "sha256": "51e165c261ba7c69a43b0fcb8b389918fa59373e21d09e1068b7c43d44676050"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/home"
+      ],
+      "file": "assets/c076232bc5a61edf.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_6e9638ad803e4099a6116eb750b5a584~mv2.png",
+      "contentType": "image/png",
+      "bytes": 6408,
+      "sha256": "df49c409e294c89bac224f057912c197e1298ea25845db7caa47c806f64f829e"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_cb0c4d13153f4008920bb26beda8de0ff000.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/events-1"
+      ],
+      "file": "assets/0325e9490affdf0e.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_cb0c4d13153f4008920bb26beda8de0ff000.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 151359,
+      "sha256": "d90527814b10805032196c24dae029bfcbcec4056d93bcacbd941d3150af0c91"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_d08a90c04c0e4ffeb9441f594f64546a~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/d48ffb4a0109a5e3.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_d08a90c04c0e4ffeb9441f594f64546a~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 2455976,
+      "sha256": "f49bd8f51fb3b923fec9982136652f5f94b32a126a4f4e1fd233102bc77f0651"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_fc7c8b8125a94b69ad7cad3b24a8093af000.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-1",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/events-1"
+      ],
+      "file": "assets/7664f8f6fc814d23.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/11062b_fc7c8b8125a94b69ad7cad3b24a8093af000.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 177776,
+      "sha256": "5a4054468ee91b5c3589f90993aeab328ddf4e897bef1f873a269069fc964daf"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified"
+      ],
+      "file": "assets/c4a5f9c99021d811.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+      "contentType": "image/png",
+      "bytes": 1213,
+      "sha256": "b2a4505c55a3592526fbe2f86f197438c50898ae0cfdb41423082d6dbb1c7713"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/home"
+      ],
+      "file": "assets/a2f238c6507eaa65.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 374594,
+      "sha256": "7f88116bb7ac4814768cd071b34d9917a2a693e03acc47d6245be5284524318b"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/57fd189876a3232b.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 92501,
+      "sha256": "a277b5ee57711764b0992ac2f0972e395df21cc6f596a8e93a6f6f85315e3b55"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/0ff3dc7fd4b8d993.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 158706,
+      "sha256": "356913a271f5e2d4bdda2e8a420731b5422157c9e71f7e9fef526bce9dceb258"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/fa45ae213b1f7c94.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 1840083,
+      "sha256": "57d4f510d8d4bd20844400cbec1168a9dc499e52675421e84351796170562b52"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/e2d273e112287eb3.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 4470491,
+      "sha256": "3801ccb24991010322de5fbe8c2e73c1563de6c655afae97c6f07662bb5f79ce"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/f9a0c6f05a1b87ac.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 2037945,
+      "sha256": "da46cea189a3aec47627b602f64813127799e2e6fd424c4bd565fb7e5259cdd7"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/c0a65fe90e242c49.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1953159,
+      "sha256": "c23b3efb4f32b88c9b7d5a318bece60455c02720286f9ed3ea844e368182aeed"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/90ae5890c687d722.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 201280,
+      "sha256": "f0ea31ffd00cd6f70853b44caf7ff8598a78a15ccc02ba7d7cece21c8e4a847a"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/37b358cfe1e60577.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 559632,
+      "sha256": "3b1bc5c4ed314c15fedc7e9f27cab87126d34e6f9c780941835876f348ab2dee"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_2ff9744f8d744cf99aef5830ae39b178~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/home"
+      ],
+      "file": "assets/c474a821ee41d47c.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_2ff9744f8d744cf99aef5830ae39b178~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 4042837,
+      "sha256": "be024052b647e206b906cdc6d5c1bb5fee92f7ac1a6c3653d9df7f1aa911a98e"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/7d373bc294a5c78f.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 6783,
+      "sha256": "b27dd34184516c0f1cf13c5d41e47601b081d072f4d2d9b1ca0973f7c0ccebe6"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_37356f322b46456ab75ff1960c011541~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/projects"
+      ],
+      "file": "assets/dfa5019cb1584ec7.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_37356f322b46456ab75ff1960c011541~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 157014,
+      "sha256": "72a14f624648acd215eeeb0bb5d12e6b5f8822987fda314a2f8217b17ca8ec2c"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/cbd1febc1fd519f7.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1565583,
+      "sha256": "ea7809c0084e3f4f54a010b7d1bb24055531dbe1403802b3acc51e0b28a402dc"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/c03cf39cf75129ab.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 262653,
+      "sha256": "33f899fc56d6b94b1be7cd872691831da5cc71bc5b50be74bc26c128d025dc27"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/9d99e09890c958c4.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 673949,
+      "sha256": "000b84b67ec71a963b833cd2c6c331d361ebfd292820988e9bb4bd0a0fffec72"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/6389e88d811a70a2.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 2601094,
+      "sha256": "9df6184aad3a04d00361a82942b4611b6eeaca3fd30852f9066b1543b554993f"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/event-details/freshie-roadmap",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/2d11499d-a6f7-3ae7-8365-05009d432e1a",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/7b8b847e-0819-3ac0-abb5-d3548aa8a734",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/984eac86-f4e9-36a2-87b1-c7d7bbffa377",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/resources",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/programs",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-1",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-1",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/event-list",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/event-details",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/participant-page",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/schedule",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-thanks",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/search",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-payment",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/home"
+      ],
+      "file": "assets/a9727fafdd02c884.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png",
+      "contentType": "image/png",
+      "bytes": 76788,
+      "sha256": "062dc89b3612a1c6a60c71f87d5ca1992bdca50f4383155048424096944272c4"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/1c09224edcb2045e.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 241929,
+      "sha256": "163125a1cd2d93780f4600fd8767aacc8000e9c2d73c38e788c4e0fded3d7fb4"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/9c55cc9c8891e08e.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 294106,
+      "sha256": "cf01a9d2f6970b99149d00a524cda6b0dd4a0a30ecfecc9bdf147d2435fc805d"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_70b7b3cdb89d4da6a1c73dbf4d0b8401~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/event-details/freshie-roadmap",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/event-list",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/event-details",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/search"
+      ],
+      "file": "assets/b2c4dcf9dbcf7993.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_70b7b3cdb89d4da6a1c73dbf4d0b8401~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 120024,
+      "sha256": "f716a5e3934e311b99e6784e860b84b54d1ce98ec2610c306efdb98b02290fe0"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/959c9d8a65f2208a.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 74286,
+      "sha256": "b2447509bd622bc390e2e182a90ad87e14a7f61857814f83fc8ee93797c629cf"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/b42a56742ec6a4b0.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1319344,
+      "sha256": "8033263a2e9093ec8053e9a13ac7defb16910a0a239a121005b3104fdde8b6b1"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_7e1fef421de847b387b4e6e79d6197d8~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/home"
+      ],
+      "file": "assets/0c23062e79253515.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_7e1fef421de847b387b4e6e79d6197d8~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 241709,
+      "sha256": "0b39ecd3173bc885da826dc62ba08206edcfa933d299207db83a048f36d78a4d"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/dddd8b50436ccccb.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 123692,
+      "sha256": "bac8f68aec8d75920fc96e71e04784fa126063241fec1b6812dd81376380cb5a"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/5ece8e5cf4fa907b.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 3873085,
+      "sha256": "ae0f9eda65167b4abccf24d1324ab5ddd9dc033ea34a5ab1b68bf5d094dc282c"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/8f232a5d594c60c7.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png",
+      "contentType": "image/png",
+      "bytes": 435365,
+      "sha256": "17712d50d13dab7cde8ffb15e6fea1c829fda8f1238ecfe3d1f302683f6c6cf3"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/d1f3ddfd90f9849f.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 71477,
+      "sha256": "8d1e49cd18766ee292a9913bf660559c9a4215d56489eba982a073d8b76c633e"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_95d9d77fbfbc4629a3d41ba6e00eaeff~mv2.webp",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/71091e49ba0623f3.webp",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_95d9d77fbfbc4629a3d41ba6e00eaeff~mv2.webp",
+      "contentType": "image/webp",
+      "bytes": 265298,
+      "sha256": "c8adcebd98fba38b78d457dd378bb2506c9121896a204cfdb455ea19bc6a1316"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/ad04b14750259ddd.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 2299901,
+      "sha256": "03b99dc5506815d561debe1ec5d8d83b15a5045774661f9589fb4b1a00ff0f81"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/8dbe476f132ceb55.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 73640,
+      "sha256": "78a4197e81845c51051ef85c6a5014a011ad3c22c6786d0a502a60ca4fddece0"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_9fa21ad6a2b341b69496c8b5dfb625a7~mv2.webp",
+      "kind": "media",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/fc1b919b4a50c1ea.webp",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_9fa21ad6a2b341b69496c8b5dfb625a7~mv2.webp",
+      "contentType": "image/webp",
+      "bytes": 18930,
+      "sha256": "88d5f30171d3a1dc4c9de5f16ad224687692328d36c3ed36a154094b629e3512"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/ffe94b3170e1336e.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 335671,
+      "sha256": "e5c52b02a2c2d4d137cdfbe59f580b4cc1a9f2aa7543b497ed74f768f5f43973"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/6380722bb3a5336b.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 1214935,
+      "sha256": "476023056586d78baa333c3a8966f261dabf7f1dff2526a1b1c75daca731e271"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/c1c0ba3940b882a8.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 852488,
+      "sha256": "406ee5ffbb7e918e97d82c39794314375775b375a4da202799c8b2f74be9206c"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/08b38ea1649fa505.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 296410,
+      "sha256": "d8f274a47f2dbfd88e62787e0bf2f4ebc97d38f7f26971765b2c2f0b1e19a479"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_bb42cf205e1c4fc2aca0560859209b33~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/resources"
+      ],
+      "file": "assets/4311e56bcfd1737d.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_bb42cf205e1c4fc2aca0560859209b33~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1453000,
+      "sha256": "ff44d3140074a8a7f17e70bb2b5473cb33d45254ae082cb0e40827fbf052f109"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/7c5a9c7dd703d946.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 395896,
+      "sha256": "f11ad558fb911eda08a7752dddabbae5028834f7c39a091f1d273399e07bf872"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/361ade3d0b7a043a.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 47166,
+      "sha256": "f288b6e97d1a68ecf3885fac2dfc2d8351235500efdd9e12b72219c64749d72c"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_ca94548e839f4f0384d5742d83e8aa7e~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/projects"
+      ],
+      "file": "assets/ee9256528a1a1761.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_ca94548e839f4f0384d5742d83e8aa7e~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 41302,
+      "sha256": "e1822587e7028143d06de0a69f848d80a2f6a6bff9354f971b6c1c85b80af47d"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/50c2885fef3d7c2b.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png",
+      "contentType": "image/png",
+      "bytes": 304350,
+      "sha256": "614bc3f82270ea997c809671f8b19568d89b46965567940a059d781f24d58bd3"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_d0cc6c12b1db4f6f8ebdac83deb5188af000.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/projects"
+      ],
+      "file": "assets/e0a67811fc8237af.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_d0cc6c12b1db4f6f8ebdac83deb5188af000.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 151036,
+      "sha256": "59f2c3a4e5fc52806928e0983ee1983b01cbab8404b460f1bb2d61ad5b73396d"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/1681b2702869d5d0.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 704535,
+      "sha256": "9a6ea3448219f8e8761e4e0ff1e1c62891083eb568dd37ffb0ac5366c44d9cba"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/a5d701ce3df0d524.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 5752539,
+      "sha256": "b86e6aeca9d1c01b9ad1b0160c60eb51d08e0bf774fe74b89e4ca7df2de38a62"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/d2f933e21ec29c5a.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 291148,
+      "sha256": "b6fe1865d6800a0b44398b62dc76209fd2f93c4c0a414a25ecf1bc4f9e5153f6"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/2f6de480ce68c356.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 3628736,
+      "sha256": "0fb93d985b5d779d488b556edd351e3ce88fe735b89bd9642e3ae471efe96b40"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/e0c699d53e42f190.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 200160,
+      "sha256": "8cfcf947e8257dce7157390175c85c188e254770d5a7547c5ddd7f7e7de876e6"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/8b613bb8d463770c.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 4866891,
+      "sha256": "8f23347f9f3721bb6cc682a343d90dec134dbedec32294280aa7b945f15b5d62"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/e5ff9ad258bf7621.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 3073574,
+      "sha256": "3c69e3fa157c28bcf20ce7f45421a0088d9f7ac00bbe61c08dd944b211d5c066"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/856188c0170109ad.jpeg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 162572,
+      "sha256": "954bcbecf348634abc3069e4e981204ce71eaf39ce3e215b1735b9897e0dbfec"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_5f6b2e8eb1804f15997a563770a9233a~mv2.jpg",
+      "kind": "media",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/984eac86-f4e9-36a2-87b1-c7d7bbffa377",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/programs"
+      ],
+      "file": "assets/bab9068340860955.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/84770f_5f6b2e8eb1804f15997a563770a9233a~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 47295,
+      "sha256": "4b288bdd353bee5621dc72e3b8a6472a86807ae1b019eafb09754a8636eb2bc5"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_bcc95e66c16e43e696e9d3c2dcd0edd2~mv2.jpg",
+      "kind": "media",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/7b8b847e-0819-3ac0-abb5-d3548aa8a734",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/programs"
+      ],
+      "file": "assets/802520690e2e9759.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/84770f_bcc95e66c16e43e696e9d3c2dcd0edd2~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 48644,
+      "sha256": "aee6c7b88de2f8b28f59a5c2de5826d79486046bce835468a9bfcf6210e166e2"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_ff7b535ee6044480a5d0656a5c712ddf~mv2.jpg",
+      "kind": "media",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/challenge-page/2d11499d-a6f7-3ae7-8365-05009d432e1a",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/programs"
+      ],
+      "file": "assets/58006199512b1fc3.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/84770f_ff7b535ee6044480a5d0656a5c712ddf~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 48264,
+      "sha256": "b15e271179e231b9afc9c8dd1541d3982ef8bb9c26e3f0c32c60bfb556acdc4b"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/team"
+      ],
+      "file": "assets/3bd152cdd5a89181.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "contentType": "image/png",
+      "bytes": 3198,
+      "sha256": "31111c9a0b0ae15d22c2aa18219c423846680cc79aee24ceec69633267812159"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_035f4b996857415991f68c3beb9c2d8e~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/f2327db3b07d9655.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_035f4b996857415991f68c3beb9c2d8e~mv2.png",
+      "contentType": "image/png",
+      "bytes": 334072,
+      "sha256": "ef2c0684c41544080f65010d9fc2204188384ea6210e85c4fbb66860c711171a"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_037866e2281746778f0602f34bcdd8a2~mv2.webp",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/bad061906119de5f.webp",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_037866e2281746778f0602f34bcdd8a2~mv2.webp",
+      "contentType": "image/webp",
+      "bytes": 25240,
+      "sha256": "b638c8571e75b52c853d6c797ef0eb392a8e2a3aef1623492c2361c0b80ad218"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_1e4eed40d1f3402bb9c5bf0414d97000~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/896bae8989684048.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_1e4eed40d1f3402bb9c5bf0414d97000~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 9012,
+      "sha256": "f03dc60035574f249ea52c05f7fdfe1d1127561985e176d031977a298317fa5f"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_200af56e23e54983aa987cd025b94e83~mv2.webp",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/8f3a38794ab05ab3.webp",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_200af56e23e54983aa987cd025b94e83~mv2.webp",
+      "contentType": "image/webp",
+      "bytes": 19954,
+      "sha256": "b9e8381b527eb149e7ac22287f58a65288587ecb29dc61fa4dfff6c309380662"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_264d119581614e34b452fded360bb1ec~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/7b221fa77ff6a949.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_264d119581614e34b452fded360bb1ec~mv2.png",
+      "contentType": "image/png",
+      "bytes": 76540,
+      "sha256": "7c6b8a6da9b2efc211527be0072c64d66623c669a88f74c2f2470ef92e2b3159"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_35cb93a934ad4d13a15de4c6ee107e04~mv2.webp",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/0e202a2fdb53a524.webp",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_35cb93a934ad4d13a15de4c6ee107e04~mv2.webp",
+      "contentType": "image/webp",
+      "bytes": 93500,
+      "sha256": "d5137236143e8db78aa483a30dd8e59bee1e646a48004050f2e720047ac7cf72"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_40403ef19a0444e2982ff7cfc664ae91~mv2.gif",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/b92e9886b5a401c4.gif",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_40403ef19a0444e2982ff7cfc664ae91~mv2.gif",
+      "contentType": "image/gif",
+      "bytes": 6854762,
+      "sha256": "b4806a2ce563e21bfb1a7e4ff54bd006d2913f9528363414c29bfb78469b9a74"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_4f930e666cde40f19719403fb28f3ef3~mv2.png",
+      "kind": "media",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/7ccd7eafb90a5868.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_4f930e666cde40f19719403fb28f3ef3~mv2.png",
+      "contentType": "image/png",
+      "bytes": 3258,
+      "sha256": "7e36d6c9c460c5f5d61b7f121dd13e19a993a51b4f1bfb0ed6a5ac7c34cff5ae"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_5827a811b9cb46f6a054bf8f3fda5e09~mv2.jpg",
+      "kind": "media",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/7667fb3249eead57.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_5827a811b9cb46f6a054bf8f3fda5e09~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 5312,
+      "sha256": "f691a4692f7998ef8f6037495452594b3d9e6e9b066834b56abe6fbd0aa616f8"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_59e571337be84601a99a914d5d87bfc2~mv2.webp",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/b7380eace85c1c2e.webp",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_59e571337be84601a99a914d5d87bfc2~mv2.webp",
+      "contentType": "image/webp",
+      "bytes": 30394,
+      "sha256": "cb0977de9a75454fb4d8dd3320d7c3050a72988ed6b28b65c6d6c8cfae3913ea"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_6b17b2ad884b490ba63ee7236ffe58f5~mv2.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/53e60b0580bc5549.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_6b17b2ad884b490ba63ee7236ffe58f5~mv2.png",
+      "contentType": "image/png",
+      "bytes": 740406,
+      "sha256": "6dbb54c262459272023fcf04d895c70b071186f97ce4d0ffdcd3a39b6fc9a0d4"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_6e33d0119b65469c94d487852c5ea925~mv2.webp",
+      "kind": "media",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/06c73213a8fd6bb3.webp",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_6e33d0119b65469c94d487852c5ea925~mv2.webp",
+      "contentType": "image/webp",
+      "bytes": 10082,
+      "sha256": "4d71afb012bde926dd974c736fba7bc51b5f3eacfca9810543ad07e4cbca896d"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_993795a30e9c48eea23d58aca8272ea3~mv2.png",
+      "kind": "media",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/c15608d8d89c3925.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_993795a30e9c48eea23d58aca8272ea3~mv2.png",
+      "contentType": "image/png",
+      "bytes": 3515,
+      "sha256": "8f6d7f1c538d500df22d2922fc7a0df6d6a64b21181e2079cd630c4b37051113"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_a547d5bf28de400db362d734dcd2c88c~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/7f9ea48d776c6f1f.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_a547d5bf28de400db362d734dcd2c88c~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 11444,
+      "sha256": "871440f0f93902bb80e521cdd51c924edbcc0137316c60d661822d7ea0e5e522"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_d52c9593b22e41bfa1f303c17b37c20c~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/8a8980de9305c7b2.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_d52c9593b22e41bfa1f303c17b37c20c~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 20083,
+      "sha256": "957320d43b9faff80da0b15fc12e480878edf68ea9b05a6358b4d812f3e89316"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9c2e37_dd60dced57284f2888e7c9f50cb7617e~mv2.webp",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blogs"
+      ],
+      "file": "assets/dd6309118264a356.webp",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/9c2e37_dd60dced57284f2888e7c9f50cb7617e~mv2.webp",
+      "contentType": "image/webp",
+      "bytes": 80036,
+      "sha256": "8143b65d60db1bea77502b7c716043810334f0e4dbd737b4388f0e1539ba946b"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_0225bd316b414eb88d3358ba488bde5e~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified"
+      ],
+      "file": "assets/2a84a9e4b27577ff.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_0225bd316b414eb88d3358ba488bde5e~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 3073217,
+      "sha256": "6dc1676a81cec0156c07e175312cec3f95f9ef7e4a273710305e0597fb0b570f"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_20122b9a32cc4e9a9faca835b9f82d14~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified"
+      ],
+      "file": "assets/d73f29b2875bf8d1.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_20122b9a32cc4e9a9faca835b9f82d14~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 885765,
+      "sha256": "fdb0cd2c8d96b89f5bf8a434eadfea3958312ef8b4c2faf01f56e0c91ec988d9"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_39921e319b4c4009b5324851bc7ecdc8~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/c9f995d1e42da2db.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_39921e319b4c4009b5324851bc7ecdc8~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1997701,
+      "sha256": "addfe95c2e102488cb34bb68a24c8e9b19dd83f380d788247ec68d15029643b2"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_4c9ff7f594c1414f9f7894e514098894~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/74b0e37bb74ca366.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_4c9ff7f594c1414f9f7894e514098894~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 2484039,
+      "sha256": "c4d2af655c49e8e32eb6142cca299548bf1b2d202f79306fb7c58fd2910939ab"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_6f27754e06844d62a1708b316797fc08~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/cddc521d61d3d656.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_6f27754e06844d62a1708b316797fc08~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1379082,
+      "sha256": "e2e0105c140eeeddeb0e36e47adfb61cbddfcb9a33725087f346ac8f3f9a8083"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_71b4cce39b6043418e62ec5a75b65563~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/267d7da7e7221951.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_71b4cce39b6043418e62ec5a75b65563~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 687762,
+      "sha256": "f8eb1f7dd3eae0debcea339e1a93d4d15455931aea498b82cd6dca6ba94cc6b8"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_8143624184174bd98cc1262723b6d8a3~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/e4a8952cfa20e0b1.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_8143624184174bd98cc1262723b6d8a3~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1307999,
+      "sha256": "5ec62bad9528bdd1476ad44980b32cdf00cef101d2e4df0cb4fc150c1e352953"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_91dc165103f9438bbc9a0216b278a11d~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified"
+      ],
+      "file": "assets/38782c3d03df181d.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_91dc165103f9438bbc9a0216b278a11d~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 3537651,
+      "sha256": "f4d1f8884fbe2b60ea8673286be830fef9d155a86bd2f65b7bf6e52544bccd31"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_a948e560c4fb44eb9ec9a30bf5c105c4~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/more"
+      ],
+      "file": "assets/dade6120f48b9c1e.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_a948e560c4fb44eb9ec9a30bf5c105c4~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 687762,
+      "sha256": "f8eb1f7dd3eae0debcea339e1a93d4d15455931aea498b82cd6dca6ba94cc6b8"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_b1efd27c479d430baf6513f717b4d7df~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/b0f290b3f4c19774.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_b1efd27c479d430baf6513f717b4d7df~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1647058,
+      "sha256": "f48867e800250db0933f9c1fe593ad03e3cbf54a69e1b7c57d8e67cb7edc9613"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_c3a1f52d22f34ebf807575c44a0b3c46~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/ddc58e450a3a9ebe.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_c3a1f52d22f34ebf807575c44a0b3c46~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1788021,
+      "sha256": "aaadda022c6f92a531dfdcf137ee179819eabea40f41524f523586852df2ed2b"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_d272d21cf9724e17be9e01ffe7173b88~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified"
+      ],
+      "file": "assets/a4eeaa5e37890f73.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_d272d21cf9724e17be9e01ffe7173b88~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 3549539,
+      "sha256": "dea92bc4167fc00ef99a4528fe819d5bd818bad12e2ff22cf2c7f5bd9494196f"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_d4bce0806e2946afbf7c718af7ba2890~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/56a6c7b635209481.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_d4bce0806e2946afbf7c718af7ba2890~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 2394622,
+      "sha256": "00eccfb175d6652cb246d1dc52cec5f14d58667fec6601a679547251a6e1c402"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_e2d1ff51b7d143438f06552ee7e25704~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/more",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-to-be-modified"
+      ],
+      "file": "assets/d72a9667de75f15f.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_e2d1ff51b7d143438f06552ee7e25704~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 17305576,
+      "sha256": "2907fd9caa96fcae070f6737287a033a8ee1e3b825cc653d247214d5b19aaa81"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a3c153_ea643fa0bec04606b8e22e51e7d510b4~mv2.jpg",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified"
+      ],
+      "file": "assets/c49d9a0e0aca08c0.jpg",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/a3c153_ea643fa0bec04606b8e22e51e7d510b4~mv2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 4397889,
+      "sha256": "e866ac3d5869ce0bbbe41488962cf0209256f6886aadf7e0379d86b06e2d8e06"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+      "kind": "image",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/blog-to-be-modified",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-to-be-modified"
+      ],
+      "file": "assets/0c77669281423dff.png",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+      "contentType": "image/png",
+      "bytes": 1900,
+      "sha256": "276e07ea2f02a047c84ffcc7aa33f8d61846d0bf00874ff591f4bc6f9a5ce4cc"
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/d23f19_ef8b03dc12d647a4be1ba06fc40b277d/ttf/file.ttf",
+      "kind": "font",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-1",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-1"
+      ],
+      "file": "assets/f920fc84ad62c7cb.ttf",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/ufonts/d23f19_ef8b03dc12d647a4be1ba06fc40b277d/ttf/file.ttf",
+      "contentType": "font/ttf",
+      "bytes": 76708,
+      "sha256": "b5d8c677f4cc5a188af5f6e165e4b0cdd5409a76ec6b15074e5425fef6ed61a9"
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/d23f19_ef8b03dc12d647a4be1ba06fc40b277d/woff/file.woff",
+      "kind": "font",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-1",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-1"
+      ],
+      "file": "assets/6a88a839e01bc5d4.woff",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/ufonts/d23f19_ef8b03dc12d647a4be1ba06fc40b277d/woff/file.woff",
+      "contentType": "font/woff",
+      "bytes": 35488,
+      "sha256": "16896a6e35452b7a6deb720d58feff3a7e3df576d85531b9ecaf86859c8474c6"
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/d23f19_ef8b03dc12d647a4be1ba06fc40b277d/woff2/file.woff2",
+      "kind": "font",
+      "pages": [
+        "https://aiclubwebdev.wixsite.com/aiclub-2/gallery-1",
+        "https://aiclubwebdev.wixsite.com/aiclub-2/archives-1"
+      ],
+      "file": "assets/0a57fb79df20be88.woff2",
+      "status": 200,
+      "finalUrl": "https://static.wixstatic.com/ufonts/d23f19_ef8b03dc12d647a4be1ba06fc40b277d/woff2/file.woff2",
+      "contentType": "font/woff2",
+      "bytes": 25536,
+      "sha256": "bbc89585991c867a4a7658a68811f4013e6a5e3516a99523371647254d27af0b"
+    }
+  ],
+  "discovery": [
+    {
+      "url": "https://aiclubwebdev.wixsite.com/robots.txt",
+      "file": "discovery/robots.txt",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/robots.txt",
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 443
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/sitemap.xml",
+      "file": "discovery/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/sitemap.xml",
+      "contentType": "text/xml; charset=utf-8",
+      "bytes": 521
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/event-pages-sitemap.xml",
+      "file": "discovery/event-pages-sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/event-pages-sitemap.xml",
+      "contentType": "text/xml; charset=utf-8",
+      "bytes": 493
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/online-programs-sitemap.xml",
+      "file": "discovery/online-programs-sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/online-programs-sitemap.xml",
+      "contentType": "text/xml; charset=utf-8",
+      "bytes": 1155
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/pages-sitemap.xml",
+      "file": "discovery/pages-sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/pages-sitemap.xml",
+      "contentType": "text/xml; charset=utf-8",
+      "bytes": 1623
+    }
+  ],
+  "skippedRoutes": [
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/account",
+      "reason": "Dynamic account/profile route: no public user identifier; no sign-in attempted."
+    },
+    {
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/profile",
+      "reason": "Dynamic account/profile route: no public user identifier; no sign-in attempted."
+    }
+  ],
+  "limits": {
+    "maxAssetBytes": 20000000,
+    "scope": "Public pages under /aiclub-2; external destinations indexed, not recursively crawled."
+  },
+  "finishedAt": "2026-10-23T20:24:48.669Z"
+}

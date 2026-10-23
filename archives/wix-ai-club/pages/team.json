@@ -1,0 +1,3439 @@
+{
+  "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+  "fetchedAt": "2026-10-23T20:23:55.556Z",
+  "status": 200,
+  "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+  "contentType": "text/html; charset=UTF-8",
+  "bytes": 877419,
+  "title": "Team | AI Club IITM",
+  "description": "",
+  "canonical": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+  "blocks": [
+    {
+      "tag": "h2",
+      "id": "comp-lzp97u2l1",
+      "text": "Meet the Team",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzp97u3b__item1",
+      "text": "Shailesh",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzp97u3c__item1",
+      "text": "Team Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzp97u3b__item-kf51ysxt",
+      "text": "Jaanav Mathavan",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzp97u3c__item-kf51ysxt",
+      "text": "Team Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzp97u3b__item-kf51yt5v",
+      "text": "Mahendra Kurup",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzp97u3c__item-kf51yt5v",
+      "text": "Team Lead",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzpbgh7r",
+      "text": "Project AI Rahman",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m044rirs__item1",
+      "text": "Pranay Mathur",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m044rirt4__item1",
+      "text": "Project Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m044rirs__item-kel2ntrs",
+      "text": "Swathi Narashiman",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m044rirt4__item-kel2ntrs",
+      "text": "Project Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88u__item-kel2nw7a",
+      "text": "Aniruddh Krishna",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88s4__item-kel2nw7a",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88u__item-kel2nv1t",
+      "text": "Harshith M R",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88s4__item-kel2nv1t",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88u__item-kel2nuio",
+      "text": "Anish Veerakumar",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88s4__item-kel2nuio",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88u__item-kel2o527",
+      "text": "Dipanshu Panda",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88s4__item-kel2o527",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88u__item-kel2nu8f",
+      "text": "Arjun Krishnaswamy",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88s4__item-kel2nu8f",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88u__item-kel2o3kk",
+      "text": "Jayden Koshy Joe",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzhyf88s4__item-kel2o3kk",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m044u4te__item-kel2o4ha",
+      "text": "Keerthiharan A",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m044u4tg__item-kel2o4ha",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzpc6x0e",
+      "text": "Project NightVision",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item1",
+      "text": "Jaanav Mathavan",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item1",
+      "text": "Project Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item-kel2nuio",
+      "text": "Devisree A",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item-kel2nuio",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item-kel2o527",
+      "text": "Sreeram Radhakrishnan",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item-kel2o527",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item-kel2ntrs",
+      "text": "Mahendra Kurup",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item-kel2ntrs",
+      "text": "Project Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item-kel2nu8f",
+      "text": "Nishitha D",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item-kel2nu8f",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item-kel2o3kk",
+      "text": "Archit Joshi",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item-kel2o3kk",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item-kel2nw7a",
+      "text": "Shabarish Balaji",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item-kel2nw7a",
+      "text": "Project Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item-kel2nv1t",
+      "text": "Pranav S Ramanujam",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item-kel2nv1t",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0t__item-kel2o4ha",
+      "text": "Sagar Bag",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpc6x0u2__item-kel2o4ha",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m02haqgg1__item-lzpcdw7v",
+      "text": "Suriya Priyan",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m02haqgi__item-lzpcdw7v",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzpch3nu1",
+      "text": "Project Suncast",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m044dlvr5__item1",
+      "text": "Gandhar Vabale",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m044dlvt3__item1",
+      "text": "Project Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o2__item-kel2ntrs",
+      "text": "Anshuman Mishra",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o3__item-kel2ntrs",
+      "text": "Coordinator and Project member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o2__item-kel2nu8f",
+      "text": "Astha Chand",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o3__item-kel2nu8f",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o2__item-kel2nw7a",
+      "text": "Daniel Calwin Rijhu A J",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o3__item-kel2nw7a",
+      "text": "Coordinator and Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o2__item-kel2nv1t",
+      "text": "Kutraleeshwaran",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o3__item-kel2nv1t",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o2__item-kel2nuio",
+      "text": "Arjun Ganesh",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o3__item-kel2nuio",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o3__item-kel2nuio",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o2__item-m044gdy5",
+      "text": "Pranav Raghuram",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzpch3o3__item-m044gdy5",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m02hdays4__item-kel2o3kk",
+      "text": "Preirana Meruga",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m02hdayv__item-kel2o3kk",
+      "text": "Project Member",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzzvsiyr",
+      "text": "Hackathon Vertical",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzzvsj06__item1",
+      "text": "Akshay Govind S",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzzvsj082__item1",
+      "text": "Hackathon Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzzvsj06__item-kel2ntrs",
+      "text": "Dhruvanshi Shah",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzzvsj082__item-kel2ntrs",
+      "text": "Hackathon Lead",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m02hj2fr4__item-kel2nuio",
+      "text": "Sri Sakthi Prathosh R",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m02hj2ft3__item-kel2nuio",
+      "text": "Hackathon Core",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m02hj2fr4__item-m0443xqm",
+      "text": "Ryan Jacob George",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m02hj2ft3__item-m0443xqm",
+      "text": "Hackathon Core",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzzwbyeq2",
+      "text": "Past Team Leads",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzzwbyey1__item1",
+      "text": "Srikar Babu Gudipudi",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m04418ve__item1",
+      "text": "2023",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzzwbyey1__item-kel2nuio",
+      "text": "Karthick Krishna M",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m04418ve__item-kel2nuio",
+      "text": "2023",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzzwbyey1__item-m046kh9s",
+      "text": "Ruthwik Chivukula",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m04418ve__item-m046kh9s",
+      "text": "2023",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m043tm7e__item-kel2ntrs",
+      "text": "Abhiram Gorle",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m04422ii__item-kel2ntrs",
+      "text": "2022",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m043tm7e__item-kel2nw7a",
+      "text": "Archish S",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m04422ii__item-kel2nw7a",
+      "text": "2022",
+      "links": []
+    }
+  ],
+  "sections": [
+    {
+      "id": "comp-lzp97u28",
+      "text": "Meet the TeamShaileshTeam LeadJaanav MathavanTeam LeadMahendra KurupTeam Lead",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": "Wavy Abstract Background _edited_edited.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg/v1/crop/x_0,y_0,w_453,h_510/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/21a53cc6-486b-489b-b129-f22909f17ce0%20-%20S.jpg",
+          "alt": "21a53cc6-486b-489b-b129-f22909f17ce0 - S"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture_edited_edited.jpg",
+          "alt": "jaanav web picture_edited_edited.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+          "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzp97u2r",
+      "text": "ShaileshTeam LeadJaanav MathavanTeam LeadMahendra KurupTeam Lead",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg/v1/crop/x_0,y_0,w_453,h_510/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/21a53cc6-486b-489b-b129-f22909f17ce0%20-%20S.jpg",
+          "alt": "21a53cc6-486b-489b-b129-f22909f17ce0 - S"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture_edited_edited.jpg",
+          "alt": "jaanav web picture_edited_edited.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+          "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzhyf88d",
+      "text": "Project AI Rahmanai rahmanPranay MathurProject LeadSwathi NarashimanProject LeadAniruddh KrishnaCoordinator and Project MemberHarshith M RCoordinator and Project MemberAnish VeerakumarCoordinator and Project MemberDipanshu PandaProject MemberArjun KrishnaswamyCoordinator and Project MemberJayden Koshy JoeProject MemberKeerthiharan AProject Member",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": "Wavy Abstract Background _edited_edited.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg/v1/crop/x_0,y_68,w_1080,h_907/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_20240811_141639_WhatsApp%20-%20Pranay%20Mathur%20ee22b132.jpg",
+          "alt": "Screenshot_20240811_141639_WhatsApp - Pranay Mathur ee22b132.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg/v1/crop/x_0,y_273,w_1200,h_1007/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-20%20at%2019_14_11_a12a1c5f.jpg",
+          "alt": "WhatsApp Image 2024-08-20 at 19.14.11_a12a1c5f.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg/v1/crop/x_0,y_730,w_3072,h_2584/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/81d03ea6-746e-4292-9cb0-c3b269a963ec%20-%20Aniruddh%20Krishna%20na23b022.jpeg",
+          "alt": "81d03ea6-746e-4292-9cb0-c3b269a963ec - Aniruddh Krishna na23b022.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg/v1/crop/x_0,y_63,w_487,h_409/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a32a6541-e5c8-4266-bba6-ef70534b34d1%20-%20Mylangam%20Ramesh%20Harshith%20me23b049.jpeg",
+          "alt": "a32a6541-e5c8-4266-bba6-ef70534b34d1 - Mylangam Ramesh Harshith me23b049.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg/v1/crop/x_86,y_0,w_1428,h_1200/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-10%20at%2012_41_42_0edce15a%20-%20Anish%20Veerakumar%20me23b156.jpg",
+          "alt": "WhatsApp Image 2024-08-10 at 12.41.42_0edce15a - Anish Veerakumar me23b156.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg/v1/crop/x_0,y_91,w_1453,h_1220/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20231224_153455%20-%20Dipanshu%20Panda%20ce22b004.jpg",
+          "alt": "IMG_20231224_153455 - Dipanshu Panda ce22b004.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg/v1/crop/x_33,y_567,w_696,h_585/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4d405f6-6be0-4cd6-9fd5-e4b5226de21c%20-%20Arjun%20Krishnaswamy%20ee23b009.jpeg",
+          "alt": "b4d405f6-6be0-4cd6-9fd5-e4b5226de21c - Arjun Krishnaswamy ee23b009.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg/v1/crop/x_0,y_34,w_491,h_413/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Picture1_r%20-%20Jayden%20Koshy%20Joe%20ep23b035.jpg",
+          "alt": "Picture1_r - Jayden Koshy Joe ep23b035.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg/v1/crop/x_248,y_0,w_4128,h_3468/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20221119104454%20-%20Keerthiharan%20A%20ch22b026.jpg",
+          "alt": "IMG20221119104454 - Keerthiharan A ch22b026.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "alt": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6wzq",
+      "text": "Project NightVisionsection1Jaanav MathavanProject LeadDevisree ACoordinator and Project MemberSreeram RadhakrishnanCoordinator and Project MemberMahendra KurupProject LeadNishitha DCoordinator and Project MemberArchit JoshiProject MemberShabarish BalajiProject LeadPranav S RamanujamCoordinator and Project MemberSagar BagProject MemberSuriya PriyanProject Member",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": "Wavy Abstract Background _edited_edited.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg/v1/crop/x_0,y_37,w_960,h_807/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture.jpg",
+          "alt": "jaanav web picture.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg/v1/crop/x_0,y_250,w_3071,h_2571/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240717145054~2%20-%20Devisree%20A%20ee23b023.jpg",
+          "alt": "IMG20240717145054~2 - Devisree A ee23b023.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg/v1/crop/x_570,y_293,w_2760,h_2312/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240623_140301%20-%20Sreeram%20R%20ee23b075.jpg",
+          "alt": "20240623_140301 - Sreeram R ee23b075.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/crop/x_0,y_78,w_960,h_804/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+          "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg/v1/crop/x_0,y_282,w_3468,h_2904/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240628183440%20-%20Dharmabotla%20Nishitha%20ee23b188.jpg",
+          "alt": "IMG20240628183440 - Dharmabotla Nishitha ee23b188.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg/v1/crop/x_0,y_142,w_2919,h_2444/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240807_214820%20-%20Archit%20Joshi%20ce23b055.jpg",
+          "alt": "IMG_20240807_214820 - Archit Joshi ce23b055.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg/v1/crop/x_0,y_199,w_1821,h_1526/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1372%20-%20Shabarish%20B%20me22b051.jpeg",
+          "alt": "IMG_1372 - Shabarish B me22b051.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg/v1/crop/x_0,y_750,w_3024,h_2532/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1026%20-%20Pranav%20S%20Ramanujam%20ep23b038.jpeg",
+          "alt": "IMG_1026 - Pranav S Ramanujam ep23b038.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png/v1/crop/x_76,y_0,w_1070,h_900/fill/w_290,h_244,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/sagar_pic.png",
+          "alt": "sagar_pic.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg/v1/crop/x_0,y_213,w_1959,h_1640/fill/w_295,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240810_002857%20-%20Suriya%20Priyan%20D%20be22b039.jpg",
+          "alt": "IMG_20240810_002857 - Suriya Priyan D be22b039.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpch3mo",
+      "text": "Project SuncastsuncastGandhar VabaleProject LeadAnshuman MishraCoordinator and Project memberAstha ChandProject MemberDaniel Calwin Rijhu A JCoordinator and Project MemberKutraleeshwaranProject MemberArjun GaneshProject Member\n\n​Pranav RaghuramProject MemberPreirana MerugaProject Member",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": "Wavy Abstract Background _edited_edited.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg/v1/crop/x_0,y_565,w_1960,h_1645/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/photo%20-%20Vabale%20Gandhar%20Yogendra%20ep22b047.jpeg",
+          "alt": "photo - Vabale Gandhar Yogendra ep22b047.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg/v1/crop/x_0,y_55,w_867,h_728/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG-20240807-WA0019%20-%20Anshuman%20Mishra%20ed23b006.jpg",
+          "alt": "IMG-20240807-WA0019 - Anshuman Mishra ed23b006.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg/v1/crop/x_98,y_514,w_1014,h_852/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-07%20at%2009_39_46%20-%20Astha%20Chand%20ee23b013.jpeg",
+          "alt": "WhatsApp Image 2024-08-07 at 09.39.46 - Astha Chand ee23b013.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg/v1/crop/x_0,y_76,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9443a89a-85de-44c0-a25f-e9ca4df7eed3%20-%20Daniel%20Calwin%20Rijhu%20A%20J%20me23b104.jpeg",
+          "alt": "9443a89a-85de-44c0-a25f-e9ca4df7eed3 - Daniel Calwin Rijhu A J me23b104.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg/v1/crop/x_0,y_19,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/my_pic%20-%20Kutraleeswaran%20Nattamai%20Harikri.jpg",
+          "alt": "my_pic - Kutraleeswaran Nattamai Harikri"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg/v1/crop/x_0,y_191,w_1768,h_1485/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240811_024552%20-%20Arjun%20Ganesh%20ch23b073.jpg",
+          "alt": "IMG_20240811_024552 - Arjun Ganesh ch23b073.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg/v1/crop/x_0,y_296,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20-%20Pranav%20Raghuram%20ed23b054.jpg",
+          "alt": "Photo - Pranav Raghuram ed23b054.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg/v1/crop/x_71,y_0,w_1178,h_990/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457%20-%20Preirana%20Meruga%20ee23b147.jpeg",
+          "alt": "428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457 - Preirana Meruga ee23b147.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzzvsix1",
+      "text": "Hackathon VerticalAkshay Govind SHackathon LeadDhruvanshi ShahHackathon LeadSri Sakthi Prathosh RHackathon CoreRyan Jacob GeorgeHackathon Core",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": "Wavy Abstract Background _edited_edited.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png/v1/crop/x_0,y_13,w_599,h_504/fill/w_294,h_247,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/best%20photo1%20-%20Akshay%20Govind%20S%20me22b102.png",
+          "alt": "best photo1 - Akshay Govind S me22b102.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg/v1/crop/x_0,y_158,w_4896,h_4113/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240528_104631%20-%20Shah%20Dhruvanshi%20Kamlesh%20ee22b143.jpg",
+          "alt": "20240528_104631 - Shah Dhruvanshi Kamlesh ee22b143.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg/v1/crop/x_0,y_681,w_1036,h_870/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230101_213743073~2%20-%20Sri%20Sakthi%20Prathosh%20R%20ed22b029.jpg",
+          "alt": "IMG_20230101_213743073~2 - Sri Sakthi Prathosh R ed22b029.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg/v1/crop/x_0,y_663,w_1792,h_1505/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230706_102621~2%20-%20Ryan%20Jacob%20George%20me22b013.jpg",
+          "alt": "IMG_20230706_102621~2 - Ryan Jacob George me22b013.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzzwbydw",
+      "text": "Past Team LeadsSrikar Babu Gudipudi2023Karthick Krishna M2023Ruthwik Chivukula2023Abhiram Gorle2022Archish S2022",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+          "alt": "Wavy Abstract Background _edited_edited.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg/v1/crop/x_0,y_379,w_1536,h_1290/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000103478%20-%20Srikar%20Babu%20Gadipudi%20ee21b138.jpeg",
+          "alt": "1000103478 - Srikar Babu Gadipudi ee21b138.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg/v1/crop/x_0,y_5,w_591,h_497/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20221121_153121_208%20-%20Karthick%20Krishna%20M%20ee21b067.jpg",
+          "alt": "IMG_20221121_153121_208 - Karthick Krishna M ee21b067.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg/v1/crop/x_0,y_11,w_1147,h_965/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/35913%20-%20Ruthwik%20Chivukula%20me21b166.jpeg",
+          "alt": "35913 - Ruthwik Chivukula me21b166.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg/v1/crop/x_216,y_0,w_3599,h_3024/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5526%20-%20Gorle%20Abhiram%20Rao%20ee20b037.jpeg",
+          "alt": "IMG_5526 - Gorle Abhiram Rao ee20b037.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg/v1/crop/x_0,y_746,w_3024,h_2541/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6201%20-%20Archish%20S%20me20b032.jpeg",
+          "alt": "IMG_6201 - Archish S me20b032.jpeg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "alt": "LinkedIn"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "text": "This website was built on Wix. Create yours today.Get Started",
+      "url": "https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=35609fcf-d83c-4b19-9c81-af719b99dbd8&adsVersion=banner_2024",
+      "target": "_blank"
+    },
+    {
+      "text": "AI Club IITM",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "target": "_self"
+    },
+    {
+      "text": "Home",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "target": "_self"
+    },
+    {
+      "text": "Projects",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+      "target": "_self"
+    },
+    {
+      "text": "Events",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+      "target": "_self"
+    },
+    {
+      "text": "Team",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "target": "_self"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+      "target": "_self"
+    },
+    {
+      "text": "21a53cc6-486b-489b-b129-f22909f17ce0 - S",
+      "url": "https://www.linkedin.com/in/shaileshkvr",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shaileshkvr",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "http://www.linkedin.com/in/jaanav-mathavan-0455aa249",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mahendra-kurup/",
+      "target": "_blank"
+    },
+    {
+      "text": "Screenshot_20240811_141639_WhatsApp - Pranay Mathur ee22b132.jpg",
+      "url": "https://www.linkedin.com/me?trk=p_mwlite_profile_view-secondary_nav",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/me?trk=p_mwlite_profile_view-secondary_nav",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "http://www.linkedin.com/in/swathi-narashiman-62633825a",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aniruddh-krishna-86b4aa306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harshith-m-r-341b9329a/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "http://www.linkedin.com/in/anishveerakumar",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dipanshu-panda-3953a228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "http://linkedin.com/in/arjun-krishnaswamy-196a6b304",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sagar-bag-a23b01195?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/keerthiharan-a-26d04/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "http://www.linkedin.com/in/jaanav-mathavan-0455aa249",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/devisree-akashapu-b98640322/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sreeram-r-317a87285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mahendra-kurup/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nishitha-dharmabotla-5a2784309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/architjoshiprofile/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "http://www.linkedin.com/in/shabarish-balaji-999040202",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pranav-ramanujam-3a981a2a6/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sagar-bag-a23b01195?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/suriya-priyan-7870bb255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gandhar-vabale/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://in.linkedin.com/in/anshuman-mishra-b2ab432a9",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://in.linkedin.com/in/astha-chand-139aba27b",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-calwin-rijhu-a-j-a844742b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kutraleeswaran-n-h-2433a7282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://il.linkedin.com/company/wix-com?trk=public_jobs_topcard_logo",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pranav-raghuram/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/preirana-meruga-65110027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/akshaygovinds/",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dhruvanshi-shah-72176b25b",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sri-sakthi-prathosh-r-b0737725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-george-8a714627a",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/srikar-babu-gadipudi-985b15250",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/karthick-krishna-m-454777225",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ruthwik-chivukula-09027123a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/abhiram-rao-b710141bb?trk=contact-info",
+      "target": "_blank"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/xerefic",
+      "target": "_blank"
+    }
+  ],
+  "images": [
+    {
+      "alt": "ai_logo.png",
+      "src": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_46,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png",
+      "srcset": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_46,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png 1x, https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_92,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png 2x",
+      "width": "46",
+      "height": "45",
+      "localFile": "assets/a9727fafdd02c884.png"
+    },
+    {
+      "alt": "Wavy Abstract Background _edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "625",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    },
+    {
+      "alt": "21a53cc6-486b-489b-b129-f22909f17ce0 - S",
+      "src": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg/v1/crop/x_0,y_0,w_453,h_510/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/21a53cc6-486b-489b-b129-f22909f17ce0%20-%20S.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg/v1/crop/x_0,y_0,w_453,h_510/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/21a53cc6-486b-489b-b129-f22909f17ce0%20-%20S.jpg 1x, https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg/v1/crop/x_0,y_0,w_453,h_510/fill/w_544,h_608,al_c,lg_1,q_80,enc_avif,quality_auto/21a53cc6-486b-489b-b129-f22909f17ce0%20-%20S.jpg 2x",
+      "width": "289",
+      "height": "323",
+      "localFile": "assets/d2f933e21ec29c5a.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "jaanav web picture_edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture_edited_edited.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture_edited_edited.jpg 1x, https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg/v1/fill/w_578,h_646,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture_edited_edited.jpg 2x",
+      "width": "289",
+      "height": "323",
+      "localFile": "assets/ffe94b3170e1336e.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg 1x, https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/fill/w_578,h_646,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg 2x",
+      "width": "289",
+      "height": "323",
+      "localFile": "assets/d1f3ddfd90f9849f.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "Wavy Abstract Background _edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "1699",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    },
+    {
+      "alt": "Screenshot_20240811_141639_WhatsApp - Pranay Mathur ee22b132.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg/v1/crop/x_0,y_68,w_1080,h_907/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_20240811_141639_WhatsApp%20-%20Pranay%20Mathur%20ee22b132.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg/v1/crop/x_0,y_68,w_1080,h_907/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_20240811_141639_WhatsApp%20-%20Pranay%20Mathur%20ee22b132.jpg 1x, https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg/v1/crop/x_0,y_68,w_1080,h_907/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_20240811_141639_WhatsApp%20-%20Pranay%20Mathur%20ee22b132.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/c03cf39cf75129ab.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "WhatsApp Image 2024-08-20 at 19.14.11_a12a1c5f.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg/v1/crop/x_0,y_273,w_1200,h_1007/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-20%20at%2019_14_11_a12a1c5f.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg/v1/crop/x_0,y_273,w_1200,h_1007/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-20%20at%2019_14_11_a12a1c5f.jpg 1x, https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg/v1/crop/x_0,y_273,w_1200,h_1007/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-20%20at%2019_14_11_a12a1c5f.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/e0c699d53e42f190.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "81d03ea6-746e-4292-9cb0-c3b269a963ec - Aniruddh Krishna na23b022.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg/v1/crop/x_0,y_730,w_3072,h_2584/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/81d03ea6-746e-4292-9cb0-c3b269a963ec%20-%20Aniruddh%20Krishna%20na23b022.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg/v1/crop/x_0,y_730,w_3072,h_2584/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/81d03ea6-746e-4292-9cb0-c3b269a963ec%20-%20Aniruddh%20Krishna%20na23b022.jpeg 1x, https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg/v1/crop/x_0,y_730,w_3072,h_2584/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/81d03ea6-746e-4292-9cb0-c3b269a963ec%20-%20Aniruddh%20Krishna%20na23b022.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/6380722bb3a5336b.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "a32a6541-e5c8-4266-bba6-ef70534b34d1 - Mylangam Ramesh Harshith me23b049.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg/v1/crop/x_0,y_63,w_487,h_409/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a32a6541-e5c8-4266-bba6-ef70534b34d1%20-%20Mylangam%20Ramesh%20Harshith%20me23b049.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg/v1/crop/x_0,y_63,w_487,h_409/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a32a6541-e5c8-4266-bba6-ef70534b34d1%20-%20Mylangam%20Ramesh%20Harshith%20me23b049.jpeg 1x, https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg/v1/crop/x_0,y_63,w_487,h_409/fill/w_584,h_491,al_c,lg_1,q_80,enc_avif,quality_auto/a32a6541-e5c8-4266-bba6-ef70534b34d1%20-%20Mylangam%20Ramesh%20Harshith%20me23b049.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/361ade3d0b7a043a.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "WhatsApp Image 2024-08-10 at 12.41.42_0edce15a - Anish Veerakumar me23b156.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg/v1/crop/x_86,y_0,w_1428,h_1200/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-10%20at%2012_41_42_0edce15a%20-%20Anish%20Veerakumar%20me23b156.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg/v1/crop/x_86,y_0,w_1428,h_1200/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-10%20at%2012_41_42_0edce15a%20-%20Anish%20Veerakumar%20me23b156.jpg 1x, https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg/v1/crop/x_86,y_0,w_1428,h_1200/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-10%20at%2012_41_42_0edce15a%20-%20Anish%20Veerakumar%20me23b156.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/dddd8b50436ccccb.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "IMG_20231224_153455 - Dipanshu Panda ce22b004.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg/v1/crop/x_0,y_91,w_1453,h_1220/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20231224_153455%20-%20Dipanshu%20Panda%20ce22b004.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg/v1/crop/x_0,y_91,w_1453,h_1220/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20231224_153455%20-%20Dipanshu%20Panda%20ce22b004.jpg 1x, https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg/v1/crop/x_0,y_91,w_1453,h_1220/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20231224_153455%20-%20Dipanshu%20Panda%20ce22b004.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/6389e88d811a70a2.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "b4d405f6-6be0-4cd6-9fd5-e4b5226de21c - Arjun Krishnaswamy ee23b009.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg/v1/crop/x_33,y_567,w_696,h_585/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4d405f6-6be0-4cd6-9fd5-e4b5226de21c%20-%20Arjun%20Krishnaswamy%20ee23b009.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg/v1/crop/x_33,y_567,w_696,h_585/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4d405f6-6be0-4cd6-9fd5-e4b5226de21c%20-%20Arjun%20Krishnaswamy%20ee23b009.jpeg 1x, https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg/v1/crop/x_33,y_567,w_696,h_585/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4d405f6-6be0-4cd6-9fd5-e4b5226de21c%20-%20Arjun%20Krishnaswamy%20ee23b009.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/856188c0170109ad.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "Picture1_r - Jayden Koshy Joe ep23b035.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg/v1/crop/x_0,y_34,w_491,h_413/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Picture1_r%20-%20Jayden%20Koshy%20Joe%20ep23b035.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg/v1/crop/x_0,y_34,w_491,h_413/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Picture1_r%20-%20Jayden%20Koshy%20Joe%20ep23b035.jpg 1x, https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg/v1/crop/x_0,y_34,w_491,h_413/fill/w_588,h_494,al_c,lg_1,q_80,enc_avif,quality_auto/Picture1_r%20-%20Jayden%20Koshy%20Joe%20ep23b035.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/7d373bc294a5c78f.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "IMG20221119104454 - Keerthiharan A ch22b026.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg/v1/crop/x_248,y_0,w_4128,h_3468/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20221119104454%20-%20Keerthiharan%20A%20ch22b026.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg/v1/crop/x_248,y_0,w_4128,h_3468/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20221119104454%20-%20Keerthiharan%20A%20ch22b026.jpg 1x, https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg/v1/crop/x_248,y_0,w_4128,h_3468/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20221119104454%20-%20Keerthiharan%20A%20ch22b026.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/2f6de480ce68c356.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 1x, https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/7c66322d267a793b.png"
+    },
+    {
+      "alt": "Wavy Abstract Background _edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "1885",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    },
+    {
+      "alt": "jaanav web picture.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg/v1/crop/x_0,y_37,w_960,h_807/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg/v1/crop/x_0,y_37,w_960,h_807/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture.jpg 1x, https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg/v1/crop/x_0,y_37,w_960,h_807/fill/w_580,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture.jpg 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/959c9d8a65f2208a.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG20240717145054~2 - Devisree A ee23b023.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg/v1/crop/x_0,y_250,w_3071,h_2571/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240717145054~2%20-%20Devisree%20A%20ee23b023.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg/v1/crop/x_0,y_250,w_3071,h_2571/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240717145054~2%20-%20Devisree%20A%20ee23b023.jpg 1x, https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg/v1/crop/x_0,y_250,w_3071,h_2571/fill/w_580,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240717145054~2%20-%20Devisree%20A%20ee23b023.jpg 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/c0a65fe90e242c49.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "20240623_140301 - Sreeram R ee23b075.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg/v1/crop/x_570,y_293,w_2760,h_2312/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240623_140301%20-%20Sreeram%20R%20ee23b075.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg/v1/crop/x_570,y_293,w_2760,h_2312/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240623_140301%20-%20Sreeram%20R%20ee23b075.jpg 1x, https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg/v1/crop/x_570,y_293,w_2760,h_2312/fill/w_580,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240623_140301%20-%20Sreeram%20R%20ee23b075.jpg 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/e2d273e112287eb3.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/crop/x_0,y_78,w_960,h_804/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/crop/x_0,y_78,w_960,h_804/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg 1x, https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/crop/x_0,y_78,w_960,h_804/fill/w_580,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/d1f3ddfd90f9849f.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG20240628183440 - Dharmabotla Nishitha ee23b188.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg/v1/crop/x_0,y_282,w_3468,h_2904/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240628183440%20-%20Dharmabotla%20Nishitha%20ee23b188.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg/v1/crop/x_0,y_282,w_3468,h_2904/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240628183440%20-%20Dharmabotla%20Nishitha%20ee23b188.jpg 1x, https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg/v1/crop/x_0,y_282,w_3468,h_2904/fill/w_580,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240628183440%20-%20Dharmabotla%20Nishitha%20ee23b188.jpg 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/cbd1febc1fd519f7.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_20240807_214820 - Archit Joshi ce23b055.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg/v1/crop/x_0,y_142,w_2919,h_2444/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240807_214820%20-%20Archit%20Joshi%20ce23b055.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg/v1/crop/x_0,y_142,w_2919,h_2444/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240807_214820%20-%20Archit%20Joshi%20ce23b055.jpg 1x, https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg/v1/crop/x_0,y_142,w_2919,h_2444/fill/w_580,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240807_214820%20-%20Archit%20Joshi%20ce23b055.jpg 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/8b613bb8d463770c.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_1372 - Shabarish B me22b051.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg/v1/crop/x_0,y_199,w_1821,h_1526/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1372%20-%20Shabarish%20B%20me22b051.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg/v1/crop/x_0,y_199,w_1821,h_1526/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1372%20-%20Shabarish%20B%20me22b051.jpeg 1x, https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg/v1/crop/x_0,y_199,w_1821,h_1526/fill/w_580,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1372%20-%20Shabarish%20B%20me22b051.jpeg 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/1681b2702869d5d0.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_1026 - Pranav S Ramanujam ep23b038.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg/v1/crop/x_0,y_750,w_3024,h_2532/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1026%20-%20Pranav%20S%20Ramanujam%20ep23b038.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg/v1/crop/x_0,y_750,w_3024,h_2532/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1026%20-%20Pranav%20S%20Ramanujam%20ep23b038.jpeg 1x, https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg/v1/crop/x_0,y_750,w_3024,h_2532/fill/w_580,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1026%20-%20Pranav%20S%20Ramanujam%20ep23b038.jpeg 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/5ece8e5cf4fa907b.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "sagar_pic.png",
+      "src": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png/v1/crop/x_76,y_0,w_1070,h_900/fill/w_290,h_244,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/sagar_pic.png",
+      "srcset": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png/v1/crop/x_76,y_0,w_1070,h_900/fill/w_290,h_244,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/sagar_pic.png 1x, https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png/v1/crop/x_76,y_0,w_1070,h_900/fill/w_580,h_488,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/sagar_pic.png 2x",
+      "width": "290",
+      "height": "244",
+      "localFile": "assets/50c2885fef3d7c2b.png"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_20240810_002857 - Suriya Priyan D be22b039.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg/v1/crop/x_0,y_213,w_1959,h_1640/fill/w_295,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240810_002857%20-%20Suriya%20Priyan%20D%20be22b039.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg/v1/crop/x_0,y_213,w_1959,h_1640/fill/w_295,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240810_002857%20-%20Suriya%20Priyan%20D%20be22b039.jpg 1x, https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg/v1/crop/x_0,y_213,w_1959,h_1640/fill/w_590,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240810_002857%20-%20Suriya%20Priyan%20D%20be22b039.jpg 2x",
+      "width": "295",
+      "height": "247",
+      "localFile": "assets/e5ff9ad258bf7621.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "Wavy Abstract Background _edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "1739",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    },
+    {
+      "alt": "photo - Vabale Gandhar Yogendra ep22b047.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg/v1/crop/x_0,y_565,w_1960,h_1645/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/photo%20-%20Vabale%20Gandhar%20Yogendra%20ep22b047.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg/v1/crop/x_0,y_565,w_1960,h_1645/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/photo%20-%20Vabale%20Gandhar%20Yogendra%20ep22b047.jpeg 1x, https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg/v1/crop/x_0,y_565,w_1960,h_1645/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/photo%20-%20Vabale%20Gandhar%20Yogendra%20ep22b047.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/fa45ae213b1f7c94.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG-20240807-WA0019 - Anshuman Mishra ed23b006.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg/v1/crop/x_0,y_55,w_867,h_728/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG-20240807-WA0019%20-%20Anshuman%20Mishra%20ed23b006.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg/v1/crop/x_0,y_55,w_867,h_728/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG-20240807-WA0019%20-%20Anshuman%20Mishra%20ed23b006.jpg 1x, https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg/v1/crop/x_0,y_55,w_867,h_728/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG-20240807-WA0019%20-%20Anshuman%20Mishra%20ed23b006.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/8dbe476f132ceb55.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "WhatsApp Image 2024-08-07 at 09.39.46 - Astha Chand ee23b013.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg/v1/crop/x_98,y_514,w_1014,h_852/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-07%20at%2009_39_46%20-%20Astha%20Chand%20ee23b013.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg/v1/crop/x_98,y_514,w_1014,h_852/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-07%20at%2009_39_46%20-%20Astha%20Chand%20ee23b013.jpeg 1x, https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg/v1/crop/x_98,y_514,w_1014,h_852/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-07%20at%2009_39_46%20-%20Astha%20Chand%20ee23b013.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/08b38ea1649fa505.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "9443a89a-85de-44c0-a25f-e9ca4df7eed3 - Daniel Calwin Rijhu A J me23b104.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg/v1/crop/x_0,y_76,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9443a89a-85de-44c0-a25f-e9ca4df7eed3%20-%20Daniel%20Calwin%20Rijhu%20A%20J%20me23b104.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg/v1/crop/x_0,y_76,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9443a89a-85de-44c0-a25f-e9ca4df7eed3%20-%20Daniel%20Calwin%20Rijhu%20A%20J%20me23b104.jpeg 1x, https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg/v1/crop/x_0,y_76,w_1200,h_1008/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9443a89a-85de-44c0-a25f-e9ca4df7eed3%20-%20Daniel%20Calwin%20Rijhu%20A%20J%20me23b104.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/1c09224edcb2045e.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "my_pic - Kutraleeswaran Nattamai Harikri",
+      "src": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg/v1/crop/x_0,y_19,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/my_pic%20-%20Kutraleeswaran%20Nattamai%20Harikri.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg/v1/crop/x_0,y_19,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/my_pic%20-%20Kutraleeswaran%20Nattamai%20Harikri.jpg 1x, https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg/v1/crop/x_0,y_19,w_1200,h_1008/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/my_pic%20-%20Kutraleeswaran%20Nattamai%20Harikri.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/7c5a9c7dd703d946.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_20240811_024552 - Arjun Ganesh ch23b073.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg/v1/crop/x_0,y_191,w_1768,h_1485/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240811_024552%20-%20Arjun%20Ganesh%20ch23b073.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg/v1/crop/x_0,y_191,w_1768,h_1485/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240811_024552%20-%20Arjun%20Ganesh%20ch23b073.jpg 1x, https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg/v1/crop/x_0,y_191,w_1768,h_1485/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240811_024552%20-%20Arjun%20Ganesh%20ch23b073.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/b42a56742ec6a4b0.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "Photo - Pranav Raghuram ed23b054.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg/v1/crop/x_0,y_296,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20-%20Pranav%20Raghuram%20ed23b054.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg/v1/crop/x_0,y_296,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20-%20Pranav%20Raghuram%20ed23b054.jpg 1x, https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg/v1/crop/x_0,y_296,w_1200,h_1008/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20-%20Pranav%20Raghuram%20ed23b054.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/37b358cfe1e60577.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457 - Preirana Meruga ee23b147.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg/v1/crop/x_71,y_0,w_1178,h_990/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457%20-%20Preirana%20Meruga%20ee23b147.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg/v1/crop/x_71,y_0,w_1178,h_990/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457%20-%20Preirana%20Meruga%20ee23b147.jpeg 1x, https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg/v1/crop/x_71,y_0,w_1178,h_990/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457%20-%20Preirana%20Meruga%20ee23b147.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/0ff3dc7fd4b8d993.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "Wavy Abstract Background _edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "982",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    },
+    {
+      "alt": "best photo1 - Akshay Govind S me22b102.png",
+      "src": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png/v1/crop/x_0,y_13,w_599,h_504/fill/w_294,h_247,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/best%20photo1%20-%20Akshay%20Govind%20S%20me22b102.png",
+      "srcset": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png/v1/crop/x_0,y_13,w_599,h_504/fill/w_294,h_247,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/best%20photo1%20-%20Akshay%20Govind%20S%20me22b102.png 1x, https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png/v1/crop/x_0,y_13,w_599,h_504/fill/w_588,h_494,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/best%20photo1%20-%20Akshay%20Govind%20S%20me22b102.png 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/8f232a5d594c60c7.png"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "20240528_104631 - Shah Dhruvanshi Kamlesh ee22b143.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg/v1/crop/x_0,y_158,w_4896,h_4113/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240528_104631%20-%20Shah%20Dhruvanshi%20Kamlesh%20ee22b143.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg/v1/crop/x_0,y_158,w_4896,h_4113/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240528_104631%20-%20Shah%20Dhruvanshi%20Kamlesh%20ee22b143.jpg 1x, https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg/v1/crop/x_0,y_158,w_4896,h_4113/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240528_104631%20-%20Shah%20Dhruvanshi%20Kamlesh%20ee22b143.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/a5d701ce3df0d524.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_20230101_213743073~2 - Sri Sakthi Prathosh R ed22b029.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg/v1/crop/x_0,y_681,w_1036,h_870/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230101_213743073~2%20-%20Sri%20Sakthi%20Prathosh%20R%20ed22b029.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg/v1/crop/x_0,y_681,w_1036,h_870/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230101_213743073~2%20-%20Sri%20Sakthi%20Prathosh%20R%20ed22b029.jpg 1x, https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg/v1/crop/x_0,y_681,w_1036,h_870/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230101_213743073~2%20-%20Sri%20Sakthi%20Prathosh%20R%20ed22b029.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/9c55cc9c8891e08e.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_20230706_102621~2 - Ryan Jacob George me22b013.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg/v1/crop/x_0,y_663,w_1792,h_1505/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230706_102621~2%20-%20Ryan%20Jacob%20George%20me22b013.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg/v1/crop/x_0,y_663,w_1792,h_1505/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230706_102621~2%20-%20Ryan%20Jacob%20George%20me22b013.jpg 1x, https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg/v1/crop/x_0,y_663,w_1792,h_1505/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230706_102621~2%20-%20Ryan%20Jacob%20George%20me22b013.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/c1c0ba3940b882a8.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "Wavy Abstract Background _edited_edited.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_00202b06d3c741d387335486ee52070c~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "960",
+      "localFile": "assets/a2f238c6507eaa65.jpg"
+    },
+    {
+      "alt": "1000103478 - Srikar Babu Gadipudi ee21b138.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg/v1/crop/x_0,y_379,w_1536,h_1290/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000103478%20-%20Srikar%20Babu%20Gadipudi%20ee21b138.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg/v1/crop/x_0,y_379,w_1536,h_1290/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000103478%20-%20Srikar%20Babu%20Gadipudi%20ee21b138.jpeg 1x, https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg/v1/crop/x_0,y_379,w_1536,h_1290/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000103478%20-%20Srikar%20Babu%20Gadipudi%20ee21b138.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/9d99e09890c958c4.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_20221121_153121_208 - Karthick Krishna M ee21b067.jpg",
+      "src": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg/v1/crop/x_0,y_5,w_591,h_497/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20221121_153121_208%20-%20Karthick%20Krishna%20M%20ee21b067.jpg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg/v1/crop/x_0,y_5,w_591,h_497/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20221121_153121_208%20-%20Karthick%20Krishna%20M%20ee21b067.jpg 1x, https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg/v1/crop/x_0,y_5,w_591,h_497/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20221121_153121_208%20-%20Karthick%20Krishna%20M%20ee21b067.jpg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/57fd189876a3232b.jpg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "35913 - Ruthwik Chivukula me21b166.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg/v1/crop/x_0,y_11,w_1147,h_965/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/35913%20-%20Ruthwik%20Chivukula%20me21b166.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg/v1/crop/x_0,y_11,w_1147,h_965/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/35913%20-%20Ruthwik%20Chivukula%20me21b166.jpeg 1x, https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg/v1/crop/x_0,y_11,w_1147,h_965/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/35913%20-%20Ruthwik%20Chivukula%20me21b166.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/90ae5890c687d722.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_5526 - Gorle Abhiram Rao ee20b037.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg/v1/crop/x_216,y_0,w_3599,h_3024/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5526%20-%20Gorle%20Abhiram%20Rao%20ee20b037.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg/v1/crop/x_216,y_0,w_3599,h_3024/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5526%20-%20Gorle%20Abhiram%20Rao%20ee20b037.jpeg 1x, https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg/v1/crop/x_216,y_0,w_3599,h_3024/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5526%20-%20Gorle%20Abhiram%20Rao%20ee20b037.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/ad04b14750259ddd.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    },
+    {
+      "alt": "IMG_6201 - Archish S me20b032.jpeg",
+      "src": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg/v1/crop/x_0,y_746,w_3024,h_2541/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6201%20-%20Archish%20S%20me20b032.jpeg",
+      "srcset": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg/v1/crop/x_0,y_746,w_3024,h_2541/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6201%20-%20Archish%20S%20me20b032.jpeg 1x, https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg/v1/crop/x_0,y_746,w_3024,h_2541/fill/w_588,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6201%20-%20Archish%20S%20me20b032.jpeg 2x",
+      "width": "294",
+      "height": "247",
+      "localFile": "assets/f9a0c6f05a1b87ac.jpeg"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+      "srcset": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 1x, https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png 2x",
+      "width": "39",
+      "height": "39",
+      "localFile": "assets/3bd152cdd5a89181.png"
+    }
+  ],
+  "embeds": [
+    {
+      "tag": "iframe",
+      "src": null,
+      "title": "Wix Chat",
+      "poster": null
+    }
+  ],
+  "forms": [
+    {
+      "action": "https://aiclubwebdev.wixsite.com/aiclub-2/search",
+      "method": null,
+      "fields": [
+        {
+          "tag": "input",
+          "type": "search",
+          "name": "q",
+          "label": "Search..."
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": null,
+          "label": "Search..."
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "name": null,
+          "label": ""
+        }
+      ]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "label": "Search...",
+      "id": null,
+      "attributes": {
+        "aria-label": "Search..."
+      }
+    }
+  ],
+  "text": "Meet the Team\n\nShailesh\n\nTeam Lead\n\nJaanav Mathavan\n\nTeam Lead\n\nMahendra Kurup\n\nTeam Lead\n\nProject AI Rahman\n\nPranay Mathur\n\nProject Lead\n\nSwathi Narashiman\n\nProject Lead\n\nAniruddh Krishna\n\nCoordinator and Project Member\n\nHarshith M R\n\nCoordinator and Project Member\n\nAnish Veerakumar\n\nCoordinator and Project Member\n\nDipanshu Panda\n\nProject Member\n\nArjun Krishnaswamy\n\nCoordinator and Project Member\n\nJayden Koshy Joe\n\nProject Member\n\nKeerthiharan A\n\nProject Member\n\nProject NightVision\n\nJaanav Mathavan\n\nProject Lead\n\nDevisree A\n\nCoordinator and Project Member\n\nSreeram Radhakrishnan\n\nCoordinator and Project Member\n\nMahendra Kurup\n\nProject Lead\n\nNishitha D\n\nCoordinator and Project Member\n\nArchit Joshi\n\nProject Member\n\nShabarish Balaji\n\nProject Lead\n\nPranav S Ramanujam\n\nCoordinator and Project Member\n\nSagar Bag\n\nProject Member\n\nSuriya Priyan\n\nProject Member\n\nProject Suncast\n\nGandhar Vabale\n\nProject Lead\n\nAnshuman Mishra\n\nCoordinator and Project member\n\nAstha Chand\n\nProject Member\n\nDaniel Calwin Rijhu A J\n\nCoordinator and Project Member\n\nKutraleeshwaran\n\nProject Member\n\nArjun Ganesh\n\nProject Member\n\n​\n\nPranav Raghuram\n\nProject Member\n\nPreirana Meruga\n\nProject Member\n\nHackathon Vertical\n\nAkshay Govind S\n\nHackathon Lead\n\nDhruvanshi Shah\n\nHackathon Lead\n\nSri Sakthi Prathosh R\n\nHackathon Core\n\nRyan Jacob George\n\nHackathon Core\n\nPast Team Leads\n\nSrikar Babu Gudipudi\n\n2023\n\nKarthick Krishna M\n\n2023\n\nRuthwik Chivukula\n\n2023\n\nAbhiram Gorle\n\n2022\n\nArchish S\n\n2022",
+  "allPageText": "top of page This website was built on Wix. Create yours today.Get StartedAI Club IITMHomeProjectsEventsTeamBlogsMoreUse tab to navigate through the menu items.Meet the TeamShaileshTeam LeadJaanav MathavanTeam LeadMahendra KurupTeam LeadProject AI Rahmanai rahmanPranay MathurProject LeadSwathi NarashimanProject LeadAniruddh KrishnaCoordinator and Project MemberHarshith M RCoordinator and Project MemberAnish VeerakumarCoordinator and Project MemberDipanshu PandaProject MemberArjun KrishnaswamyCoordinator and Project MemberJayden Koshy JoeProject MemberKeerthiharan AProject MemberProject NightVisionsection1Jaanav MathavanProject LeadDevisree ACoordinator and Project MemberSreeram RadhakrishnanCoordinator and Project MemberMahendra KurupProject LeadNishitha DCoordinator and Project MemberArchit JoshiProject MemberShabarish BalajiProject LeadPranav S RamanujamCoordinator and Project MemberSagar BagProject MemberSuriya PriyanProject MemberProject SuncastsuncastGandhar VabaleProject LeadAnshuman MishraCoordinator and Project memberAstha ChandProject MemberDaniel Calwin Rijhu A JCoordinator and Project MemberKutraleeshwaranProject MemberArjun GaneshProject Member\n\n​Pranav RaghuramProject MemberPreirana MerugaProject MemberHackathon VerticalAkshay Govind SHackathon LeadDhruvanshi ShahHackathon LeadSri Sakthi Prathosh RHackathon CoreRyan Jacob GeorgeHackathon CorePast Team LeadsSrikar Babu Gudipudi2023Karthick Krishna M2023Ruthwik Chivukula2023Abhiram Gorle2022Archish S2022bottom of page",
+  "cards": [
+    {
+      "id": "comp-lzp97u311__item1",
+      "textBlocks": [
+        "Shailesh",
+        "Team Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/shaileshkvr"
+        },
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/shaileshkvr"
+        }
+      ],
+      "images": [
+        {
+          "alt": "21a53cc6-486b-489b-b129-f22909f17ce0 - S",
+          "url": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg/v1/crop/x_0,y_0,w_453,h_510/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/21a53cc6-486b-489b-b129-f22909f17ce0%20-%20S.jpg",
+          "localFile": "assets/d2f933e21ec29c5a.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_d2f4a5902eae4301ae2c7c99673b028a~mv2.jpg",
+          "localFile": "assets/d2f933e21ec29c5a.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzp97u311__item-kf51ysxt",
+      "textBlocks": [
+        "Jaanav Mathavan",
+        "Team Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "http://www.linkedin.com/in/jaanav-mathavan-0455aa249"
+        }
+      ],
+      "images": [
+        {
+          "alt": "jaanav web picture_edited_edited.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture_edited_edited.jpg",
+          "localFile": "assets/ffe94b3170e1336e.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_a2ad342fe982427c8accdaeb57c0ff56~mv2.jpg",
+          "localFile": "assets/ffe94b3170e1336e.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzp97u311__item-kf51yt5v",
+      "textBlocks": [
+        "Mahendra Kurup",
+        "Team Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/mahendra-kurup/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/fill/w_289,h_323,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+          "localFile": "assets/d1f3ddfd90f9849f.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg",
+          "localFile": "assets/d1f3ddfd90f9849f.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m044rirk__item1",
+      "textBlocks": [
+        "Pranay Mathur",
+        "Project Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/me?trk=p_mwlite_profile_view-secondary_nav"
+        },
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/me?trk=p_mwlite_profile_view-secondary_nav"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Screenshot_20240811_141639_WhatsApp - Pranay Mathur ee22b132.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg/v1/crop/x_0,y_68,w_1080,h_907/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_20240811_141639_WhatsApp%20-%20Pranay%20Mathur%20ee22b132.jpg",
+          "localFile": "assets/c03cf39cf75129ab.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_3bc7f331aac0485b9dc807148536a92a~mv2.jpg",
+          "localFile": "assets/c03cf39cf75129ab.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m044rirk__item-kel2ntrs",
+      "textBlocks": [
+        "Swathi Narashiman",
+        "Project Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "http://www.linkedin.com/in/swathi-narashiman-62633825a"
+        }
+      ],
+      "images": [
+        {
+          "alt": "WhatsApp Image 2024-08-20 at 19.14.11_a12a1c5f.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg/v1/crop/x_0,y_273,w_1200,h_1007/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-20%20at%2019_14_11_a12a1c5f.jpg",
+          "localFile": "assets/e0c699d53e42f190.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_db5a79781b4e47a08f513643cb4870c0~mv2.jpg",
+          "localFile": "assets/e0c699d53e42f190.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzhyf88l5__item-kel2nw7a",
+      "textBlocks": [
+        "Aniruddh Krishna",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/aniruddh-krishna-86b4aa306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "81d03ea6-746e-4292-9cb0-c3b269a963ec - Aniruddh Krishna na23b022.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg/v1/crop/x_0,y_730,w_3072,h_2584/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/81d03ea6-746e-4292-9cb0-c3b269a963ec%20-%20Aniruddh%20Krishna%20na23b022.jpeg",
+          "localFile": "assets/6380722bb3a5336b.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_ac3d5a16a1124cbf82b5b0fd413b90bb~mv2.jpeg",
+          "localFile": "assets/6380722bb3a5336b.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzhyf88l5__item-kel2nv1t",
+      "textBlocks": [
+        "Harshith M R",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/harshith-m-r-341b9329a/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "a32a6541-e5c8-4266-bba6-ef70534b34d1 - Mylangam Ramesh Harshith me23b049.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg/v1/crop/x_0,y_63,w_487,h_409/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a32a6541-e5c8-4266-bba6-ef70534b34d1%20-%20Mylangam%20Ramesh%20Harshith%20me23b049.jpeg",
+          "localFile": "assets/361ade3d0b7a043a.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_c7a20e9acacc4e05a2929fcf11cb4dbb~mv2.jpeg",
+          "localFile": "assets/361ade3d0b7a043a.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzhyf88l5__item-kel2nuio",
+      "textBlocks": [
+        "Anish Veerakumar",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "http://www.linkedin.com/in/anishveerakumar"
+        }
+      ],
+      "images": [
+        {
+          "alt": "WhatsApp Image 2024-08-10 at 12.41.42_0edce15a - Anish Veerakumar me23b156.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg/v1/crop/x_86,y_0,w_1428,h_1200/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-10%20at%2012_41_42_0edce15a%20-%20Anish%20Veerakumar%20me23b156.jpg",
+          "localFile": "assets/dddd8b50436ccccb.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_81548ed7dde945209273335d9bd243d7~mv2.jpg",
+          "localFile": "assets/dddd8b50436ccccb.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzhyf88l5__item-kel2o527",
+      "textBlocks": [
+        "Dipanshu Panda",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/dipanshu-panda-3953a228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_20231224_153455 - Dipanshu Panda ce22b004.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg/v1/crop/x_0,y_91,w_1453,h_1220/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20231224_153455%20-%20Dipanshu%20Panda%20ce22b004.jpg",
+          "localFile": "assets/6389e88d811a70a2.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_5d9410ecd8f245e6a3de046d976f3c5f~mv2.jpg",
+          "localFile": "assets/6389e88d811a70a2.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzhyf88l5__item-kel2nu8f",
+      "textBlocks": [
+        "Arjun Krishnaswamy",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "http://linkedin.com/in/arjun-krishnaswamy-196a6b304"
+        }
+      ],
+      "images": [
+        {
+          "alt": "b4d405f6-6be0-4cd6-9fd5-e4b5226de21c - Arjun Krishnaswamy ee23b009.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg/v1/crop/x_33,y_567,w_696,h_585/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4d405f6-6be0-4cd6-9fd5-e4b5226de21c%20-%20Arjun%20Krishnaswamy%20ee23b009.jpeg",
+          "localFile": "assets/856188c0170109ad.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_f40c78824a7f4efcb1f81935bb4cdfb4~mv2.jpeg",
+          "localFile": "assets/856188c0170109ad.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzhyf88l5__item-kel2o3kk",
+      "textBlocks": [
+        "Jayden Koshy Joe",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/sagar-bag-a23b01195?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Picture1_r - Jayden Koshy Joe ep23b035.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg/v1/crop/x_0,y_34,w_491,h_413/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Picture1_r%20-%20Jayden%20Koshy%20Joe%20ep23b035.jpg",
+          "localFile": "assets/7d373bc294a5c78f.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_34a242e7d22a425d8357905be3d9da9b~mv2.jpg",
+          "localFile": "assets/7d373bc294a5c78f.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m044u4t7__item-kel2o4ha",
+      "textBlocks": [
+        "Keerthiharan A",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/keerthiharan-a-26d04/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG20221119104454 - Keerthiharan A ch22b026.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg/v1/crop/x_248,y_0,w_4128,h_3468/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20221119104454%20-%20Keerthiharan%20A%20ch22b026.jpg",
+          "localFile": "assets/2f6de480ce68c356.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_d9056f4e1dcb456ba898e532ebe03964~mv2.jpg",
+          "localFile": "assets/2f6de480ce68c356.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/11062b_23e5890c2dfc4a04af80178b43ef66fd~mv2.png",
+          "localFile": "assets/7c66322d267a793b.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item1",
+      "textBlocks": [
+        "Jaanav Mathavan",
+        "Project Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "http://www.linkedin.com/in/jaanav-mathavan-0455aa249"
+        }
+      ],
+      "images": [
+        {
+          "alt": "jaanav web picture.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg/v1/crop/x_0,y_37,w_960,h_807/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/jaanav%20web%20picture.jpg",
+          "localFile": "assets/959c9d8a65f2208a.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_70ba95d431454f1382171a47f03556df~mv2.jpg",
+          "localFile": "assets/959c9d8a65f2208a.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item-kel2nuio",
+      "textBlocks": [
+        "Devisree A",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/devisree-akashapu-b98640322/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG20240717145054~2 - Devisree A ee23b023.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg/v1/crop/x_0,y_250,w_3071,h_2571/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240717145054~2%20-%20Devisree%20A%20ee23b023.jpg",
+          "localFile": "assets/c0a65fe90e242c49.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_2b7f9e4bb94c406fb3c18966ef86c2dd~mv2.jpg",
+          "localFile": "assets/c0a65fe90e242c49.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item-kel2o527",
+      "textBlocks": [
+        "Sreeram Radhakrishnan",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/sreeram-r-317a87285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "20240623_140301 - Sreeram R ee23b075.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg/v1/crop/x_570,y_293,w_2760,h_2312/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240623_140301%20-%20Sreeram%20R%20ee23b075.jpg",
+          "localFile": "assets/e2d273e112287eb3.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_262742fd7cda498ea470a1c5fdecac04~mv2.jpg",
+          "localFile": "assets/e2d273e112287eb3.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item-kel2ntrs",
+      "textBlocks": [
+        "Mahendra Kurup",
+        "Project Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/mahendra-kurup/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "pic_mahendra - Mahendra Kurup me22b227.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg/v1/crop/x_0,y_78,w_960,h_804/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/pic_mahendra%20-%20Mahendra%20Kurup%20me22b227.jpg",
+          "localFile": "assets/d1f3ddfd90f9849f.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_9528a2f4d46b425181a21f4fd53d15b7~mv2.jpg",
+          "localFile": "assets/d1f3ddfd90f9849f.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item-kel2nu8f",
+      "textBlocks": [
+        "Nishitha D",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/nishitha-dharmabotla-5a2784309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG20240628183440 - Dharmabotla Nishitha ee23b188.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg/v1/crop/x_0,y_282,w_3468,h_2904/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG20240628183440%20-%20Dharmabotla%20Nishitha%20ee23b188.jpg",
+          "localFile": "assets/cbd1febc1fd519f7.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_3acd7783d7204fcb97658e8a19139e36~mv2.jpg",
+          "localFile": "assets/cbd1febc1fd519f7.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item-kel2o3kk",
+      "textBlocks": [
+        "Archit Joshi",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/architjoshiprofile/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_20240807_214820 - Archit Joshi ce23b055.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg/v1/crop/x_0,y_142,w_2919,h_2444/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240807_214820%20-%20Archit%20Joshi%20ce23b055.jpg",
+          "localFile": "assets/8b613bb8d463770c.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_dbfe6b77646148cab968a1b3531f5de7~mv2.jpg",
+          "localFile": "assets/8b613bb8d463770c.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item-kel2nw7a",
+      "textBlocks": [
+        "Shabarish Balaji",
+        "Project Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "http://www.linkedin.com/in/shabarish-balaji-999040202"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_1372 - Shabarish B me22b051.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg/v1/crop/x_0,y_199,w_1821,h_1526/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1372%20-%20Shabarish%20B%20me22b051.jpeg",
+          "localFile": "assets/1681b2702869d5d0.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_d20ffe8a6b3349e881b81fdd8c01e172~mv2.jpeg",
+          "localFile": "assets/1681b2702869d5d0.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item-kel2nv1t",
+      "textBlocks": [
+        "Pranav S Ramanujam",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/pranav-ramanujam-3a981a2a6/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_1026 - Pranav S Ramanujam ep23b038.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg/v1/crop/x_0,y_750,w_3024,h_2532/fill/w_290,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_1026%20-%20Pranav%20S%20Ramanujam%20ep23b038.jpeg",
+          "localFile": "assets/5ece8e5cf4fa907b.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_84b7f121b3674a3faec074fca929a90a~mv2.jpeg",
+          "localFile": "assets/5ece8e5cf4fa907b.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpc6x0n__item-kel2o4ha",
+      "textBlocks": [
+        "Sagar Bag",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/sagar-bag-a23b01195?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "sagar_pic.png",
+          "url": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png/v1/crop/x_76,y_0,w_1070,h_900/fill/w_290,h_244,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/sagar_pic.png",
+          "localFile": "assets/50c2885fef3d7c2b.png"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_d00f0921e2214fd2accd3cd620815828~mv2.png",
+          "localFile": "assets/50c2885fef3d7c2b.png"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m02haqga__item-lzpcdw7v",
+      "textBlocks": [
+        "Suriya Priyan",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/suriya-priyan-7870bb255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_20240810_002857 - Suriya Priyan D be22b039.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg/v1/crop/x_0,y_213,w_1959,h_1640/fill/w_295,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240810_002857%20-%20Suriya%20Priyan%20D%20be22b039.jpg",
+          "localFile": "assets/e5ff9ad258bf7621.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_e8d2281b8b1749feb3bf513489b86d71~mv2.jpg",
+          "localFile": "assets/e5ff9ad258bf7621.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m044dlvn2__item1",
+      "textBlocks": [
+        "Gandhar Vabale",
+        "Project Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/gandhar-vabale/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "photo - Vabale Gandhar Yogendra ep22b047.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg/v1/crop/x_0,y_565,w_1960,h_1645/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/photo%20-%20Vabale%20Gandhar%20Yogendra%20ep22b047.jpeg",
+          "localFile": "assets/fa45ae213b1f7c94.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_245b12c61d9f4368b3be7ae442e5bf5b~mv2.jpeg",
+          "localFile": "assets/fa45ae213b1f7c94.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpch3ny__item-kel2ntrs",
+      "textBlocks": [
+        "Anshuman Mishra",
+        "Coordinator and Project member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://in.linkedin.com/in/anshuman-mishra-b2ab432a9"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG-20240807-WA0019 - Anshuman Mishra ed23b006.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg/v1/crop/x_0,y_55,w_867,h_728/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG-20240807-WA0019%20-%20Anshuman%20Mishra%20ed23b006.jpg",
+          "localFile": "assets/8dbe476f132ceb55.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_9eda08d6e7734214b3b44af1d2feb793~mv2.jpg",
+          "localFile": "assets/8dbe476f132ceb55.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpch3ny__item-kel2nu8f",
+      "textBlocks": [
+        "Astha Chand",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://in.linkedin.com/in/astha-chand-139aba27b"
+        }
+      ],
+      "images": [
+        {
+          "alt": "WhatsApp Image 2024-08-07 at 09.39.46 - Astha Chand ee23b013.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg/v1/crop/x_98,y_514,w_1014,h_852/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-08-07%20at%2009_39_46%20-%20Astha%20Chand%20ee23b013.jpeg",
+          "localFile": "assets/08b38ea1649fa505.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_b836a0a44c8e4565a58616614dd1c747~mv2.jpeg",
+          "localFile": "assets/08b38ea1649fa505.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpch3ny__item-kel2nw7a",
+      "textBlocks": [
+        "Daniel Calwin Rijhu A J",
+        "Coordinator and Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/daniel-calwin-rijhu-a-j-a844742b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "9443a89a-85de-44c0-a25f-e9ca4df7eed3 - Daniel Calwin Rijhu A J me23b104.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg/v1/crop/x_0,y_76,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9443a89a-85de-44c0-a25f-e9ca4df7eed3%20-%20Daniel%20Calwin%20Rijhu%20A%20J%20me23b104.jpeg",
+          "localFile": "assets/1c09224edcb2045e.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_697991d83fdb498ea2c145e25f4deec4~mv2.jpeg",
+          "localFile": "assets/1c09224edcb2045e.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpch3ny__item-kel2nv1t",
+      "textBlocks": [
+        "Kutraleeshwaran",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/kutraleeswaran-n-h-2433a7282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "my_pic - Kutraleeswaran Nattamai Harikri",
+          "url": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg/v1/crop/x_0,y_19,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/my_pic%20-%20Kutraleeswaran%20Nattamai%20Harikri.jpg",
+          "localFile": "assets/7c5a9c7dd703d946.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_c65a2eb4f706483dbdae44ab8ec2466a~mv2.jpg",
+          "localFile": "assets/7c5a9c7dd703d946.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpch3ny__item-kel2nuio",
+      "textBlocks": [
+        "Arjun Ganesh",
+        "Project Member",
+        "​"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://il.linkedin.com/company/wix-com?trk=public_jobs_topcard_logo"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_20240811_024552 - Arjun Ganesh ch23b073.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg/v1/crop/x_0,y_191,w_1768,h_1485/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20240811_024552%20-%20Arjun%20Ganesh%20ch23b073.jpg",
+          "localFile": "assets/b42a56742ec6a4b0.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_7177ae69a3e245cfa3744d7376b3fe5a~mv2.jpg",
+          "localFile": "assets/b42a56742ec6a4b0.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzpch3ny__item-m044gdy5",
+      "textBlocks": [
+        "Pranav Raghuram",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/pranav-raghuram/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Photo - Pranav Raghuram ed23b054.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg/v1/crop/x_0,y_296,w_1200,h_1008/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20-%20Pranav%20Raghuram%20ed23b054.jpg",
+          "localFile": "assets/37b358cfe1e60577.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_2e110636d73d4473b1f3906b6a3ae950~mv2.jpg",
+          "localFile": "assets/37b358cfe1e60577.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m02hdayn1__item-kel2o3kk",
+      "textBlocks": [
+        "Preirana Meruga",
+        "Project Member"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/preirana-meruga-65110027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457 - Preirana Meruga ee23b147.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg/v1/crop/x_71,y_0,w_1178,h_990/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/428b5db4-4fe9-4ecb-bbe7-9ab0f48e5457%20-%20Preirana%20Meruga%20ee23b147.jpeg",
+          "localFile": "assets/0ff3dc7fd4b8d993.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_13e22f9f2cb24dcea99299afa6f742b6~mv2.jpeg",
+          "localFile": "assets/0ff3dc7fd4b8d993.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzzvsizq__item1",
+      "textBlocks": [
+        "Akshay Govind S",
+        "Hackathon Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/akshaygovinds/"
+        }
+      ],
+      "images": [
+        {
+          "alt": "best photo1 - Akshay Govind S me22b102.png",
+          "url": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png/v1/crop/x_0,y_13,w_599,h_504/fill/w_294,h_247,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/best%20photo1%20-%20Akshay%20Govind%20S%20me22b102.png",
+          "localFile": "assets/8f232a5d594c60c7.png"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_85b609286dfb4016af30cdf93b5146c8~mv2.png",
+          "localFile": "assets/8f232a5d594c60c7.png"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzzvsizq__item-kel2ntrs",
+      "textBlocks": [
+        "Dhruvanshi Shah",
+        "Hackathon Lead"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/dhruvanshi-shah-72176b25b"
+        }
+      ],
+      "images": [
+        {
+          "alt": "20240528_104631 - Shah Dhruvanshi Kamlesh ee22b143.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg/v1/crop/x_0,y_158,w_4896,h_4113/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240528_104631%20-%20Shah%20Dhruvanshi%20Kamlesh%20ee22b143.jpg",
+          "localFile": "assets/a5d701ce3df0d524.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_d276b2eef780439dacad72e5e71e044a~mv2.jpg",
+          "localFile": "assets/a5d701ce3df0d524.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m02hj2fm2__item-kel2nuio",
+      "textBlocks": [
+        "Sri Sakthi Prathosh R",
+        "Hackathon Core"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/sri-sakthi-prathosh-r-b0737725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_20230101_213743073~2 - Sri Sakthi Prathosh R ed22b029.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg/v1/crop/x_0,y_681,w_1036,h_870/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230101_213743073~2%20-%20Sri%20Sakthi%20Prathosh%20R%20ed22b029.jpg",
+          "localFile": "assets/9c55cc9c8891e08e.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_6a86c02ab277491da826bc1ea5a67a7d~mv2.jpg",
+          "localFile": "assets/9c55cc9c8891e08e.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m02hj2fm2__item-m0443xqm",
+      "textBlocks": [
+        "Ryan Jacob George",
+        "Hackathon Core"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/ryan-george-8a714627a"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_20230706_102621~2 - Ryan Jacob George me22b013.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg/v1/crop/x_0,y_663,w_1792,h_1505/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20230706_102621~2%20-%20Ryan%20Jacob%20George%20me22b013.jpg",
+          "localFile": "assets/c1c0ba3940b882a8.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_b3338000ff2b4866950cb0ebc4988bdc~mv2.jpg",
+          "localFile": "assets/c1c0ba3940b882a8.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzzwbyeu9__item1",
+      "textBlocks": [
+        "Srikar Babu Gudipudi",
+        "2023"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/srikar-babu-gadipudi-985b15250"
+        }
+      ],
+      "images": [
+        {
+          "alt": "1000103478 - Srikar Babu Gadipudi ee21b138.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg/v1/crop/x_0,y_379,w_1536,h_1290/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000103478%20-%20Srikar%20Babu%20Gadipudi%20ee21b138.jpeg",
+          "localFile": "assets/9d99e09890c958c4.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_3c52779ad06848efb8a85180a7be5c55~mv2.jpeg",
+          "localFile": "assets/9d99e09890c958c4.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzzwbyeu9__item-kel2nuio",
+      "textBlocks": [
+        "Karthick Krishna M",
+        "2023"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/karthick-krishna-m-454777225"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_20221121_153121_208 - Karthick Krishna M ee21b067.jpg",
+          "url": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg/v1/crop/x_0,y_5,w_591,h_497/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20221121_153121_208%20-%20Karthick%20Krishna%20M%20ee21b067.jpg",
+          "localFile": "assets/57fd189876a3232b.jpg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_0e2d38019a8c43c6b7633a7ed87e93ff~mv2.jpg",
+          "localFile": "assets/57fd189876a3232b.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzzwbyeu9__item-m046kh9s",
+      "textBlocks": [
+        "Ruthwik Chivukula",
+        "2023"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/ruthwik-chivukula-09027123a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        }
+      ],
+      "images": [
+        {
+          "alt": "35913 - Ruthwik Chivukula me21b166.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg/v1/crop/x_0,y_11,w_1147,h_965/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/35913%20-%20Ruthwik%20Chivukula%20me21b166.jpeg",
+          "localFile": "assets/90ae5890c687d722.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_2bfa3a74c481400788f0d423a2a43b1b~mv2.jpeg",
+          "localFile": "assets/90ae5890c687d722.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m043tm71__item-kel2ntrs",
+      "textBlocks": [
+        "Abhiram Gorle",
+        "2022"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/abhiram-rao-b710141bb?trk=contact-info"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_5526 - Gorle Abhiram Rao ee20b037.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg/v1/crop/x_216,y_0,w_3599,h_3024/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5526%20-%20Gorle%20Abhiram%20Rao%20ee20b037.jpeg",
+          "localFile": "assets/ad04b14750259ddd.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_98eecc0d998d4820a5abe96b25051a34~mv2.jpeg",
+          "localFile": "assets/ad04b14750259ddd.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m043tm71__item-kel2nw7a",
+      "textBlocks": [
+        "Archish S",
+        "2022"
+      ],
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/in/xerefic"
+        }
+      ],
+      "images": [
+        {
+          "alt": "IMG_6201 - Archish S me20b032.jpeg",
+          "url": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg/v1/crop/x_0,y_746,w_3024,h_2541/fill/w_294,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6201%20-%20Archish%20S%20me20b032.jpeg",
+          "localFile": "assets/f9a0c6f05a1b87ac.jpeg"
+        },
+        {
+          "alt": "LinkedIn",
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png/v1/fill/w_39,h_39,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ],
+      "backgroundMedia": [
+        {
+          "url": "https://static.wixstatic.com/media/7b152c_269f85393f8e44d4b46dc4760a575522~mv2.jpeg",
+          "localFile": "assets/f9a0c6f05a1b87ac.jpeg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8efda6398c724b5ea342287bfe3f5ed0.png",
+          "localFile": "assets/3bd152cdd5a89181.png"
+        }
+      ]
+    }
+  ],
+  "structuredMetadata": [],
+  "pageDefinitions": [
+    {
+      "pageId": "n3m2t",
+      "title": "Archives - to be modified",
+      "pageUriSEO": "archives-to-be-modified",
+      "pageJsonFileName": "7b152c_39583b819efc3ed015bb29516fe250b7_2"
+    },
+    {
+      "pageId": "u1q52",
+      "title": "Event Details & Registration",
+      "pageUriSEO": "event-details",
+      "pageJsonFileName": "7b152c_caea55bafc227ef944eabdfafc3c50ec_2"
+    },
+    {
+      "pageId": "snge6",
+      "title": "Blog - to be modified",
+      "pageUriSEO": "blog-to-be-modified",
+      "pageJsonFileName": "7b152c_4f0f552e3a3748b72becf60e00a2bbb0_2"
+    },
+    {
+      "pageId": "djeax",
+      "title": "My Programs",
+      "pageUriSEO": "my-programs"
+    },
+    {
+      "pageId": "r0epw",
+      "title": "Participant Page",
+      "pageUriSEO": "participant-page",
+      "pageJsonFileName": "7b152c_d9407c463e1cb9abd24a64ea81c8ca23_2"
+    },
+    {
+      "pageId": "ipopg",
+      "title": "Resources",
+      "pageUriSEO": "resources",
+      "pageJsonFileName": "7b152c_ed550154f8b8e05a146716f44be4994e_2"
+    },
+    {
+      "pageId": "vr98p",
+      "title": "Team",
+      "pageUriSEO": "team",
+      "pageJsonFileName": "7b152c_e460dc9eef7a0aad23ca53f480c682f2_2"
+    },
+    {
+      "pageId": "yt718",
+      "title": "Profile",
+      "pageUriSEO": "profile-1",
+      "pageJsonFileName": "7b152c_1482369cb3fa4b9f6fe757043d1b0a7c_2"
+    },
+    {
+      "pageId": "eif5s",
+      "title": "Notifications",
+      "pageUriSEO": "notifications"
+    },
+    {
+      "pageId": "qptnt",
+      "title": "Programs",
+      "pageUriSEO": "programs",
+      "pageJsonFileName": "7b152c_beb79b53971b8904c38e32b1b03ecc08_2"
+    },
+    {
+      "pageId": "p4tyu",
+      "title": "My Wallet",
+      "pageUriSEO": "my-wallet"
+    },
+    {
+      "pageId": "qyi9l",
+      "title": "Events",
+      "pageUriSEO": "event-list",
+      "pageJsonFileName": "7b152c_193dab13b5a3165c14ca8ce56b8a8c30_2"
+    },
+    {
+      "pageId": "kqv4t",
+      "title": "Visitor Page",
+      "pageUriSEO": "challenge-page",
+      "pageJsonFileName": "7b152c_3a6726df7b1457ca007c0f1ddf8e6458_2"
+    },
+    {
+      "pageId": "qa809",
+      "title": "Projects",
+      "pageUriSEO": "projects",
+      "pageJsonFileName": "7b152c_a4ae1f852ead9a0967e9d8196a6d52a4_2"
+    },
+    {
+      "pageId": "ruimx",
+      "title": "Schedule",
+      "pageUriSEO": "schedule",
+      "pageJsonFileName": "7b152c_3598f8e4e0cd4ed706cfdcda687f89dd_2"
+    },
+    {
+      "pageId": "dvkv0",
+      "title": "Thank You Page",
+      "pageUriSEO": "challenge-thanks",
+      "pageJsonFileName": "7b152c_90eac0452e610e874dcaf7cacda31210_2"
+    },
+    {
+      "pageId": "r0efd",
+      "title": "Archives",
+      "pageUriSEO": "archives-1",
+      "pageJsonFileName": "7b152c_eb027edb822181c9bbfd35af0bd55c55_2"
+    },
+    {
+      "pageId": "ki5qg",
+      "title": "Gallery - to be modified",
+      "pageUriSEO": "gallery-to-be-modified",
+      "pageJsonFileName": "7b152c_b22d0c929146f416217acbcb623ddca5_2"
+    },
+    {
+      "pageId": "e0lhp",
+      "title": "Blogs",
+      "pageUriSEO": "blogs",
+      "pageJsonFileName": "7b152c_be165f6ff0cd23702389dffe5e22f81e_2"
+    },
+    {
+      "pageId": "tljab",
+      "title": "Search Results",
+      "pageUriSEO": "search",
+      "pageJsonFileName": "7b152c_ce416b5e07fb53ab24a407cf8b289ab0_2"
+    },
+    {
+      "pageId": "m9q37",
+      "title": "Events",
+      "pageUriSEO": "events-1",
+      "pageJsonFileName": "7b152c_0a3114cc3ba16186fb212a0eaa29f717_2"
+    },
+    {
+      "pageId": "r2d18",
+      "title": "Payment Page",
+      "pageUriSEO": "challenge-payment",
+      "pageJsonFileName": "7b152c_bd9f3646920d93865a74777928ca9903_2"
+    },
+    {
+      "pageId": "n5d49",
+      "title": "Recruitment",
+      "pageUriSEO": "recruitment"
+    },
+    {
+      "pageId": "gzfro",
+      "title": "Events",
+      "pageUriSEO": "events",
+      "pageJsonFileName": "7b152c_53afdc35d5debbb08f38e03adb7671cd_2"
+    },
+    {
+      "pageId": "c1dmp",
+      "title": "Home",
+      "pageUriSEO": "home",
+      "pageJsonFileName": "7b152c_5ce7529b8a1ce53534b146dcd18b5cd6_2"
+    },
+    {
+      "pageId": "a1kpe",
+      "title": "More",
+      "pageUriSEO": "more",
+      "pageJsonFileName": "7b152c_ef0fe8282edcaa082bb7c3c4cd794863_2"
+    },
+    {
+      "pageId": "wx7l6",
+      "title": "Gallery",
+      "pageUriSEO": "gallery-1",
+      "pageJsonFileName": "7b152c_d2af98579128349675073dd7bf435105_2"
+    },
+    {
+      "pageId": "xviyu",
+      "title": "My Account",
+      "pageUriSEO": "my-account"
+    }
+  ]
+}

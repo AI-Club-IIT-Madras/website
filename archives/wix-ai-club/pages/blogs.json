@@ -1,0 +1,1248 @@
+{
+  "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+  "fetchedAt": "2026-10-23T20:23:40.092Z",
+  "status": 200,
+  "finalUrl": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+  "contentType": "text/html; charset=UTF-8",
+  "bytes": 836499,
+  "title": "Blogs | AI Club IITM",
+  "description": "",
+  "canonical": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+  "blocks": [
+    {
+      "tag": "h2",
+      "id": "comp-lzstq2il",
+      "text": "Blogs",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstq2in1",
+      "text": "Welcome to our blogs!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstq2in1",
+      "text": "Dive into the world of Artificial Intelligence, where we explore cutting-edge research,",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstq2in1",
+      "text": "innovative applications, and the latest trends shaping the future of technology.",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m5kwyco4",
+      "text": "Zero to Mamba",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m5kwycou",
+      "text": "Written by",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m5kwycou",
+      "text": "Harshith MR",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m5b9szg8",
+      "text": "AlphaZero: A Revolutionary Approach to Game-Playing AI",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m5b9szgm",
+      "text": "​Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m5b9szgm",
+      "text": "Sreeram R",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m4r4eavj1",
+      "text": "Minecraft : Pushing the Boundaries of GenAI",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m4r4eavm",
+      "text": "Written by",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m4r4eavm",
+      "text": "Aniruddh K",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m4r4e4qm",
+      "text": "Genie 2: A large-scale foundation world model",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m4r4e4r6",
+      "text": "​Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m4r4e4r6",
+      "text": "Arjun K",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m3oiyj7p",
+      "text": "Paper Review :\nSAIL",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m3oiyj83",
+      "text": "Written by",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m3oiyj83",
+      "text": "Anish V",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m32m0kqu",
+      "text": "Exploring KANs",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m32m0kr7",
+      "text": "​Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m32m0kr7",
+      "text": "Devisree A",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m2izwi48",
+      "text": "Paper Review :\nSoccerNet",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m2izwi4k",
+      "text": "Written by",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m2izwi4k",
+      "text": "Daniel",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m285bdq1",
+      "text": "Paper Review\nGameNGen",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m285bdq4",
+      "text": "​Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m285bdq4",
+      "text": "Anshuman Mishra",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m1ymb0ib",
+      "text": "GPT - 4 (o)rigins",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m1ymb0il",
+      "text": "Developments of GPT models over the years and emphasis on it's latest release, GPT 4o",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m1ymb0il",
+      "text": "Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m1ymb0il",
+      "text": "Nishitha D",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m1oscw4w5",
+      "text": "Paper Review\nMicrosoft Graph RAG",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m1oscw52",
+      "text": "​Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m1oscw52",
+      "text": "Harshith MR",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-m1etyif4",
+      "text": "Paper Review\nConformers",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m1etyiff",
+      "text": "Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-m1etyiff",
+      "text": "Sreeram R",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzstwa59",
+      "text": "LLMs Unveiled",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstwgnb",
+      "text": "Unlocking new worlds, one word at a time. LLMs are reshaping intelligence, creating and innovating beyond imagination",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstwgnb",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstwgnb",
+      "text": "Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstwgnb",
+      "text": "Jaanav Mathavan",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstwgnb",
+      "text": "Sakthi Prathosh",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzstwgnb",
+      "text": "Anupam Loy Geeto",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzsu9gxd1",
+      "text": "NLP for Indian\nLanguages",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsugqw1",
+      "text": "Utilizing NLP and LLM to uncover the hidden details of our languages, bridging the linguistic gap for a more inclusive digital world",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsugqw1",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsugqw1",
+      "text": "Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsugqw1",
+      "text": "Atreya Vedantam",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsugqw1",
+      "text": "Aditya Tamras",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsugqw1",
+      "text": "Pranay Mathur",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzsup2kz",
+      "text": "Gemini\nThe new kid on block",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsusd99",
+      "text": "A look into the newly released GPT model released by Google, its workings and privacy concerns of LLMs",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsusd99",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsusd99",
+      "text": "Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsusd99",
+      "text": "Shailesh Kasivelrajan",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsusd99",
+      "text": "Jyothiraditya",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzsv39ih1",
+      "text": "Paper Review\nMixtral 8x7B",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsv8f8k",
+      "text": "Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsv8f8k",
+      "text": "Sumedh Chatterjee",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsv8f8k",
+      "text": "Ryan Jacob George",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsv8f8k",
+      "text": "B Shabarish",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzsvnf92",
+      "text": "ChatGPT\nHow does it work?",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsvnf95",
+      "text": "Is my future job at danger due to this ?!",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsvnf95",
+      "text": "​",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsvnf95",
+      "text": "Written by",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzsvnf95",
+      "text": "Shakti Sharma",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzswd94r",
+      "text": "Paper Review\nPaint With RL",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzswd94u",
+      "text": "Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzswd94u",
+      "text": "Vinayak",
+      "links": []
+    },
+    {
+      "tag": "h2",
+      "id": "comp-lzswd9552",
+      "text": "Paper Review\nMuZero : 'Unbeatable' RL",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzswd957",
+      "text": "​Written by:",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzswd957",
+      "text": "Niveath",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzswd957",
+      "text": "Priyanka",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzswd957",
+      "text": "Gokul",
+      "links": []
+    },
+    {
+      "tag": "p",
+      "id": "comp-lzswd957",
+      "text": "Ruthwik",
+      "links": []
+    }
+  ],
+  "sections": [
+    {
+      "id": "comp-lzstq2g1",
+      "text": "BlogsWelcome to our blogs!\n\nDive into the world of Artificial Intelligence, where we explore cutting-edge research, \n\ninnovative applications, and the latest trends shaping the future of technology.",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/11062b_d08a90c04c0e4ffeb9441f594f64546a~mv2.jpg/v1/fill/w_83,h_55,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_d08a90c04c0e4ffeb9441f594f64546a~mv2.jpg",
+          "alt": "French Dictionary"
+        }
+      ]
+    },
+    {
+      "id": "comp-m5kwyci6",
+      "text": "Zero to Mamba Written by \n\nHarshith MRBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_59e571337be84601a99a914d5d87bfc2~mv2.webp/v1/fill/w_123,h_46,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_59e571337be84601a99a914d5d87bfc2~mv2.webp",
+          "alt": "0_pL46VTVifBK59bKL.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-m5kwyclu",
+      "text": "Zero to Mamba Written by \n\nHarshith MRBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_59e571337be84601a99a914d5d87bfc2~mv2.webp/v1/fill/w_123,h_46,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_59e571337be84601a99a914d5d87bfc2~mv2.webp",
+          "alt": "0_pL46VTVifBK59bKL.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-m5b9szbz",
+      "text": "AlphaZero: A Revolutionary Approach to Game-Playing AI​Written by:\n\nSreeram RBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_a547d5bf28de400db362d734dcd2c88c~mv2.jpg/v1/fill/w_123,h_79,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_a547d5bf28de400db362d734dcd2c88c~mv2.jpg",
+          "alt": "images.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-m5b9szfp",
+      "text": "AlphaZero: A Revolutionary Approach to Game-Playing AI​Written by:\n\nSreeram RBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_a547d5bf28de400db362d734dcd2c88c~mv2.jpg/v1/fill/w_123,h_79,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_a547d5bf28de400db362d734dcd2c88c~mv2.jpg",
+          "alt": "images.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-m4r4eau6",
+      "text": "Minecraft : Pushing the Boundaries of GenAIWritten by \n\nAniruddh KBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_95d9d77fbfbc4629a3d41ba6e00eaeff~mv2.webp/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_95d9d77fbfbc4629a3d41ba6e00eaeff~mv2.webp",
+          "alt": "0_HzQX5jK7Chz_MjqZ.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-m4r4eav9",
+      "text": "Minecraft : Pushing the Boundaries of GenAIWritten by \n\nAniruddh KBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/7b152c_95d9d77fbfbc4629a3d41ba6e00eaeff~mv2.webp/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_95d9d77fbfbc4629a3d41ba6e00eaeff~mv2.webp",
+          "alt": "0_HzQX5jK7Chz_MjqZ.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-m4r4e4om",
+      "text": "Genie 2: A large-scale foundation world model​Written by:\n\nArjun KBlog",
+      "images": []
+    },
+    {
+      "id": "comp-m4r4e4py",
+      "text": "Genie 2: A large-scale foundation world model​Written by:\n\nArjun KBlog",
+      "images": []
+    },
+    {
+      "id": "comp-m3oiyj58",
+      "text": "Paper Review :\nSAILWritten by \n\nAnish VBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_035f4b996857415991f68c3beb9c2d8e~mv2.png/v1/fill/w_123,h_81,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_035f4b996857415991f68c3beb9c2d8e~mv2.png",
+          "alt": "1_OUD7kkds-tMInHOfT9aBVA.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m3oiyj6u",
+      "text": "Paper Review :\nSAILWritten by \n\nAnish VBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_035f4b996857415991f68c3beb9c2d8e~mv2.png/v1/fill/w_123,h_81,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_035f4b996857415991f68c3beb9c2d8e~mv2.png",
+          "alt": "1_OUD7kkds-tMInHOfT9aBVA.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m32m0kop",
+      "text": "Exploring KANs​Written by:\n\nDevisree ABlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_6b17b2ad884b490ba63ee7236ffe58f5~mv2.png/v1/fill/w_123,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_6b17b2ad884b490ba63ee7236ffe58f5~mv2.png",
+          "alt": "Screenshot 2024-11-04 103115.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m32m0kq61",
+      "text": "Exploring KANs​Written by:\n\nDevisree ABlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_6b17b2ad884b490ba63ee7236ffe58f5~mv2.png/v1/fill/w_123,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_6b17b2ad884b490ba63ee7236ffe58f5~mv2.png",
+          "alt": "Screenshot 2024-11-04 103115.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m2izwi1z",
+      "text": "Paper Review :\nSoccerNetWritten by \n\nDaniel Blog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_1e4eed40d1f3402bb9c5bf0414d97000~mv2.jpg/v1/fill/w_123,h_85,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_1e4eed40d1f3402bb9c5bf0414d97000~mv2.jpg",
+          "alt": "Untitled.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-m2izwi3f",
+      "text": "Paper Review :\nSoccerNetWritten by \n\nDaniel Blog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_1e4eed40d1f3402bb9c5bf0414d97000~mv2.jpg/v1/fill/w_123,h_85,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_1e4eed40d1f3402bb9c5bf0414d97000~mv2.jpg",
+          "alt": "Untitled.jpg"
+        }
+      ]
+    },
+    {
+      "id": "comp-m285bacq",
+      "text": "Paper Review\nGameNGen​Written by:\n\nAnshuman MishraBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_d52c9593b22e41bfa1f303c17b37c20c~mv2.jpg/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_d52c9593b22e41bfa1f303c17b37c20c~mv2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-m285bdn2",
+      "text": "Paper Review\nGameNGen​Written by:\n\nAnshuman MishraBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_d52c9593b22e41bfa1f303c17b37c20c~mv2.jpg/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_d52c9593b22e41bfa1f303c17b37c20c~mv2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "comp-m1ymb0es",
+      "text": "GPT - 4 (o)riginsDevelopments of GPT models over the years and emphasis on it's latest release, GPT 4o\n\nWritten by:\n\nNishitha DBlog",
+      "images": []
+    },
+    {
+      "id": "comp-m1ymb0hb",
+      "text": "GPT - 4 (o)riginsDevelopments of GPT models over the years and emphasis on it's latest release, GPT 4o\n\nWritten by:\n\nNishitha DBlog",
+      "images": []
+    },
+    {
+      "id": "comp-m1oscw3x",
+      "text": "Paper Review\nMicrosoft Graph RAG​Written by:\n\nHarshith MRBlog",
+      "images": []
+    },
+    {
+      "id": "comp-m1oscw4l",
+      "text": "Paper Review\nMicrosoft Graph RAG​Written by:\n\nHarshith MRBlog",
+      "images": []
+    },
+    {
+      "id": "comp-m1etyic4",
+      "text": "Paper Review\nConformersWritten by:\n\nSreeram RBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_264d119581614e34b452fded360bb1ec~mv2.png/v1/fill/w_123,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_264d119581614e34b452fded360bb1ec~mv2.png",
+          "alt": "5-Best-Speech-to-Text-APIs-in-2021-1.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-m1etyidv",
+      "text": "Paper Review\nConformersWritten by:\n\nSreeram RBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_264d119581614e34b452fded360bb1ec~mv2.png/v1/fill/w_123,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_264d119581614e34b452fded360bb1ec~mv2.png",
+          "alt": "5-Best-Speech-to-Text-APIs-in-2021-1.png"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzstwa3u",
+      "text": "LLMs UnveiledUnlocking new worlds, one word at a time. LLMs are reshaping intelligence, creating and innovating beyond imagination \n\n​\n\nWritten by:\n\nJaanav Mathavan\n\nSakthi Prathosh\n\nAnupam Loy GeetoBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_40403ef19a0444e2982ff7cfc664ae91~mv2.gif/v1/fill/w_123,h_45,al_c,usm_0.66_1.00_0.01,blur_2,pstr/9c2e37_40403ef19a0444e2982ff7cfc664ae91~mv2.gif",
+          "alt": "0_tNjyhzDJhQaxlD0X.gif"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzstwa4v1",
+      "text": "LLMs UnveiledUnlocking new worlds, one word at a time. LLMs are reshaping intelligence, creating and innovating beyond imagination \n\n​\n\nWritten by:\n\nJaanav Mathavan\n\nSakthi Prathosh\n\nAnupam Loy GeetoBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_40403ef19a0444e2982ff7cfc664ae91~mv2.gif/v1/fill/w_123,h_45,al_c,usm_0.66_1.00_0.01,blur_2,pstr/9c2e37_40403ef19a0444e2982ff7cfc664ae91~mv2.gif",
+          "alt": "0_tNjyhzDJhQaxlD0X.gif"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzsu9gu7",
+      "text": "NLP for Indian\nLanguagesUtilizing NLP and LLM to uncover the hidden details of our languages, bridging the linguistic gap for a more inclusive digital world \n\n​\n\nWritten by:\n\nAtreya Vedantam\n\nAditya Tamras\n\nPranay MathurBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_037866e2281746778f0602f34bcdd8a2~mv2.webp/v1/fill/w_123,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_037866e2281746778f0602f34bcdd8a2~mv2.webp",
+          "alt": "0_QA_DOvIBEFXw2bOc.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzsu9gww",
+      "text": "NLP for Indian\nLanguagesUtilizing NLP and LLM to uncover the hidden details of our languages, bridging the linguistic gap for a more inclusive digital world \n\n​\n\nWritten by:\n\nAtreya Vedantam\n\nAditya Tamras\n\nPranay MathurBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_037866e2281746778f0602f34bcdd8a2~mv2.webp/v1/fill/w_123,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_037866e2281746778f0602f34bcdd8a2~mv2.webp",
+          "alt": "0_QA_DOvIBEFXw2bOc.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzsup2i5",
+      "text": "Gemini\nThe new kid on blockA look into the newly released GPT model released by Google, its workings and privacy concerns of LLMs \n\n​\n\nWritten by:\n\nShailesh Kasivelrajan\n\nJyothiradityaBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_200af56e23e54983aa987cd025b94e83~mv2.webp/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_200af56e23e54983aa987cd025b94e83~mv2.webp",
+          "alt": "0_Gn18WKfH2LGL-D-L.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzsup2kq",
+      "text": "Gemini\nThe new kid on blockA look into the newly released GPT model released by Google, its workings and privacy concerns of LLMs \n\n​\n\nWritten by:\n\nShailesh Kasivelrajan\n\nJyothiradityaBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_200af56e23e54983aa987cd025b94e83~mv2.webp/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_200af56e23e54983aa987cd025b94e83~mv2.webp",
+          "alt": "0_Gn18WKfH2LGL-D-L.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzsv39gh",
+      "text": "Paper Review\nMixtral 8x7BWritten by:\n\nSumedh Chatterjee\n\nRyan Jacob George\n\nB ShabarishBlog\nChatGPT\nHow does it work?Is my future job at danger due to this ?!\n\n​\n\nWritten by\n\nShakti SharmaBlog",
+      "images": []
+    },
+    {
+      "id": "comp-lzsv39i3",
+      "text": "Paper Review\nMixtral 8x7BWritten by:\n\nSumedh Chatterjee\n\nRyan Jacob George\n\nB ShabarishBlog",
+      "images": []
+    },
+    {
+      "id": "comp-lzsvnf72",
+      "text": "ChatGPT\nHow does it work?Is my future job at danger due to this ?!\n\n​\n\nWritten by\n\nShakti SharmaBlog",
+      "images": []
+    },
+    {
+      "id": "comp-lzswd93n",
+      "text": "Paper Review\nPaint With RLWritten by:\n\nVinayakBlog\nPaper Review\nMuZero : 'Unbeatable' RL​Written by:\n\nNiveath\n\nPriyanka\n\nGokul\n\nRuthwikBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_dd60dced57284f2888e7c9f50cb7617e~mv2.webp/v1/fill/w_123,h_63,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_dd60dced57284f2888e7c9f50cb7617e~mv2.webp",
+          "alt": "0_AdGKTIBxrP4eMHcN.webp"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_35cb93a934ad4d13a15de4c6ee107e04~mv2.webp/v1/fill/w_123,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_35cb93a934ad4d13a15de4c6ee107e04~mv2.webp",
+          "alt": "1_qB2lr0TwM-MCYy4zi-HkzQ.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzswd94g",
+      "text": "Paper Review\nPaint With RLWritten by:\n\nVinayakBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_dd60dced57284f2888e7c9f50cb7617e~mv2.webp/v1/fill/w_123,h_63,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_dd60dced57284f2888e7c9f50cb7617e~mv2.webp",
+          "alt": "0_AdGKTIBxrP4eMHcN.webp"
+        }
+      ]
+    },
+    {
+      "id": "comp-lzswd9521",
+      "text": "Paper Review\nMuZero : 'Unbeatable' RL​Written by:\n\nNiveath\n\nPriyanka\n\nGokul\n\nRuthwikBlog",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/9c2e37_35cb93a934ad4d13a15de4c6ee107e04~mv2.webp/v1/fill/w_123,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_35cb93a934ad4d13a15de4c6ee107e04~mv2.webp",
+          "alt": "1_qB2lr0TwM-MCYy4zi-HkzQ.webp"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "text": "This website was built on Wix. Create yours today.Get Started",
+      "url": "https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=35609fcf-d83c-4b19-9c81-af719b99dbd8&adsVersion=banner_2024",
+      "target": "_blank"
+    },
+    {
+      "text": "AI Club IITM",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "target": "_self"
+    },
+    {
+      "text": "Home",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2",
+      "target": "_self"
+    },
+    {
+      "text": "Projects",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/projects",
+      "target": "_self"
+    },
+    {
+      "text": "Events",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/events-1",
+      "target": "_self"
+    },
+    {
+      "text": "Team",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/team",
+      "target": "_self"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://aiclubwebdev.wixsite.com/aiclub-2/blogs",
+      "target": "_self"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/zero-to-mamba-an-intuitive-explanation-to-the-mamba-architecture-d52265b771ab",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/alphazero-a-revolutionary-approach-to-game-playing-ai-2a4345bac446",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/minecraft-and-ai-pushing-the-boundaries-of-genai-block-by-block-9f10a87e738b",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/genie-2-a-large-scale-foundation-world-model-5dc26f0b21a6",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/paper-review-search-augmented-instruction-learning-445069094b71",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/exploring-kans-a-unique-approach-to-function-approximation-in-ai-7d6c1485c07d",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/paper-review-soccernet-35500693e478",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/paper-review-gamengen-c7f1dfe4cfe5",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/gpt-4-o-rigins-62fe4b7837d1",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/microsofts-graphrag-from-local-to-global-query-focused-summarisation-8aae7cfa55ce",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/paper-review-conformers-c5bb8966730a",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/unvie-8674c80e6801",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/nlps-and-llms-for-the-indian-languages-40a6d0ab5172",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/gemini-a-journey-into-llms-and-words-44ca7adb2d79",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/gemini-a-journey-into-llms-and-words-44ca7adb2d79",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/chatgpt-what-does-it-do-how-does-it-work-and-should-you-be-worried-56ee77e0feb2",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/learning-to-paint-with-deep-rl-d343f50c05b7",
+      "target": "_blank"
+    },
+    {
+      "text": "Blog",
+      "url": "https://medium.com/@aiclub.iitm/muzero-the-undefeatable-player-4eb32bffec14",
+      "target": "_blank"
+    }
+  ],
+  "images": [
+    {
+      "alt": "ai_logo.png",
+      "src": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_46,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png",
+      "srcset": "https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_46,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png 1x, https://static.wixstatic.com/media/7b152c_68c2c8b5f4ff47958b01ce386a7e7ad2~mv2.png/v1/fill/w_92,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ai_logo.png 2x",
+      "width": "46",
+      "height": "45",
+      "localFile": "assets/a9727fafdd02c884.png"
+    },
+    {
+      "alt": "French Dictionary",
+      "src": "https://static.wixstatic.com/media/11062b_d08a90c04c0e4ffeb9441f594f64546a~mv2.jpg/v1/fill/w_83,h_55,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_d08a90c04c0e4ffeb9441f594f64546a~mv2.jpg",
+      "srcset": null,
+      "width": "980",
+      "height": "369",
+      "localFile": "assets/d48ffb4a0109a5e3.jpg"
+    },
+    {
+      "alt": "0_pL46VTVifBK59bKL.webp",
+      "src": "https://static.wixstatic.com/media/9c2e37_59e571337be84601a99a914d5d87bfc2~mv2.webp/v1/fill/w_123,h_46,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_59e571337be84601a99a914d5d87bfc2~mv2.webp",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/b7380eace85c1c2e.webp"
+    },
+    {
+      "alt": "images.jpg",
+      "src": "https://static.wixstatic.com/media/9c2e37_a547d5bf28de400db362d734dcd2c88c~mv2.jpg/v1/fill/w_123,h_79,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_a547d5bf28de400db362d734dcd2c88c~mv2.jpg",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/7f9ea48d776c6f1f.jpg"
+    },
+    {
+      "alt": "0_HzQX5jK7Chz_MjqZ.webp",
+      "src": "https://static.wixstatic.com/media/7b152c_95d9d77fbfbc4629a3d41ba6e00eaeff~mv2.webp/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7b152c_95d9d77fbfbc4629a3d41ba6e00eaeff~mv2.webp",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/71091e49ba0623f3.webp"
+    },
+    {
+      "alt": "1_OUD7kkds-tMInHOfT9aBVA.png",
+      "src": "https://static.wixstatic.com/media/9c2e37_035f4b996857415991f68c3beb9c2d8e~mv2.png/v1/fill/w_123,h_81,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_035f4b996857415991f68c3beb9c2d8e~mv2.png",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/f2327db3b07d9655.png"
+    },
+    {
+      "alt": "Screenshot 2024-11-04 103115.png",
+      "src": "https://static.wixstatic.com/media/9c2e37_6b17b2ad884b490ba63ee7236ffe58f5~mv2.png/v1/fill/w_123,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_6b17b2ad884b490ba63ee7236ffe58f5~mv2.png",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/53e60b0580bc5549.png"
+    },
+    {
+      "alt": "Untitled.jpg",
+      "src": "https://static.wixstatic.com/media/9c2e37_1e4eed40d1f3402bb9c5bf0414d97000~mv2.jpg/v1/fill/w_123,h_85,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_1e4eed40d1f3402bb9c5bf0414d97000~mv2.jpg",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/896bae8989684048.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://static.wixstatic.com/media/9c2e37_d52c9593b22e41bfa1f303c17b37c20c~mv2.jpg/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_d52c9593b22e41bfa1f303c17b37c20c~mv2.jpg",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/8a8980de9305c7b2.jpg"
+    },
+    {
+      "alt": "5-Best-Speech-to-Text-APIs-in-2021-1.png",
+      "src": "https://static.wixstatic.com/media/9c2e37_264d119581614e34b452fded360bb1ec~mv2.png/v1/fill/w_123,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_264d119581614e34b452fded360bb1ec~mv2.png",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/7b221fa77ff6a949.png"
+    },
+    {
+      "alt": "0_tNjyhzDJhQaxlD0X.gif",
+      "src": "https://static.wixstatic.com/media/9c2e37_40403ef19a0444e2982ff7cfc664ae91~mv2.gif/v1/fill/w_123,h_45,al_c,usm_0.66_1.00_0.01,blur_2,pstr/9c2e37_40403ef19a0444e2982ff7cfc664ae91~mv2.gif",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/b92e9886b5a401c4.gif"
+    },
+    {
+      "alt": "0_QA_DOvIBEFXw2bOc.webp",
+      "src": "https://static.wixstatic.com/media/9c2e37_037866e2281746778f0602f34bcdd8a2~mv2.webp/v1/fill/w_123,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_037866e2281746778f0602f34bcdd8a2~mv2.webp",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/bad061906119de5f.webp"
+    },
+    {
+      "alt": "0_Gn18WKfH2LGL-D-L.webp",
+      "src": "https://static.wixstatic.com/media/9c2e37_200af56e23e54983aa987cd025b94e83~mv2.webp/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_200af56e23e54983aa987cd025b94e83~mv2.webp",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/8f3a38794ab05ab3.webp"
+    },
+    {
+      "alt": "0_AdGKTIBxrP4eMHcN.webp",
+      "src": "https://static.wixstatic.com/media/9c2e37_dd60dced57284f2888e7c9f50cb7617e~mv2.webp/v1/fill/w_123,h_63,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_dd60dced57284f2888e7c9f50cb7617e~mv2.webp",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/dd6309118264a356.webp"
+    },
+    {
+      "alt": "1_qB2lr0TwM-MCYy4zi-HkzQ.webp",
+      "src": "https://static.wixstatic.com/media/9c2e37_35cb93a934ad4d13a15de4c6ee107e04~mv2.webp/v1/fill/w_123,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9c2e37_35cb93a934ad4d13a15de4c6ee107e04~mv2.webp",
+      "srcset": null,
+      "width": "491",
+      "height": "664",
+      "localFile": "assets/0e202a2fdb53a524.webp"
+    }
+  ],
+  "embeds": [
+    {
+      "tag": "iframe",
+      "src": null,
+      "title": "Wix Chat",
+      "poster": null
+    }
+  ],
+  "forms": [
+    {
+      "action": "https://aiclubwebdev.wixsite.com/aiclub-2/search",
+      "method": null,
+      "fields": [
+        {
+          "tag": "input",
+          "type": "search",
+          "name": "q",
+          "label": "Search..."
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": null,
+          "label": "Search..."
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "name": null,
+          "label": ""
+        }
+      ]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "label": "Search...",
+      "id": null,
+      "attributes": {
+        "aria-label": "Search..."
+      }
+    }
+  ],
+  "text": "Blogs\n\nWelcome to our blogs!\n\nDive into the world of Artificial Intelligence, where we explore cutting-edge research,\n\ninnovative applications, and the latest trends shaping the future of technology.\n\nZero to Mamba\n\nWritten by\n\nHarshith MR\n\nAlphaZero: A Revolutionary Approach to Game-Playing AI\n\n​Written by:\n\nSreeram R\n\nMinecraft : Pushing the Boundaries of GenAI\n\nWritten by\n\nAniruddh K\n\nGenie 2: A large-scale foundation world model\n\n​Written by:\n\nArjun K\n\nPaper Review :\nSAIL\n\nWritten by\n\nAnish V\n\nExploring KANs\n\n​Written by:\n\nDevisree A\n\nPaper Review :\nSoccerNet\n\nWritten by\n\nDaniel\n\nPaper Review\nGameNGen\n\n​Written by:\n\nAnshuman Mishra\n\nGPT - 4 (o)rigins\n\nDevelopments of GPT models over the years and emphasis on it's latest release, GPT 4o\n\nWritten by:\n\nNishitha D\n\nPaper Review\nMicrosoft Graph RAG\n\n​Written by:\n\nHarshith MR\n\nPaper Review\nConformers\n\nWritten by:\n\nSreeram R\n\nLLMs Unveiled\n\nUnlocking new worlds, one word at a time. LLMs are reshaping intelligence, creating and innovating beyond imagination\n\n​\n\nWritten by:\n\nJaanav Mathavan\n\nSakthi Prathosh\n\nAnupam Loy Geeto\n\nNLP for Indian\nLanguages\n\nUtilizing NLP and LLM to uncover the hidden details of our languages, bridging the linguistic gap for a more inclusive digital world\n\n​\n\nWritten by:\n\nAtreya Vedantam\n\nAditya Tamras\n\nPranay Mathur\n\nGemini\nThe new kid on block\n\nA look into the newly released GPT model released by Google, its workings and privacy concerns of LLMs\n\n​\n\nWritten by:\n\nShailesh Kasivelrajan\n\nJyothiraditya\n\nPaper Review\nMixtral 8x7B\n\nWritten by:\n\nSumedh Chatterjee\n\nRyan Jacob George\n\nB Shabarish\n\nChatGPT\nHow does it work?\n\nIs my future job at danger due to this ?!\n\n​\n\nWritten by\n\nShakti Sharma\n\nPaper Review\nPaint With RL\n\nWritten by:\n\nVinayak\n\nPaper Review\nMuZero : 'Unbeatable' RL\n\n​Written by:\n\nNiveath\n\nPriyanka\n\nGokul\n\nRuthwik",
+  "allPageText": "top of page This website was built on Wix. Create yours today.Get StartedAI Club IITMHomeProjectsEventsTeamBlogsMoreUse tab to navigate through the menu items.BlogsWelcome to our blogs!\n\nDive into the world of Artificial Intelligence, where we explore cutting-edge research, \n\ninnovative applications, and the latest trends shaping the future of technology.Zero to Mamba Written by \n\nHarshith MRBlog\nAlphaZero: A Revolutionary Approach to Game-Playing AI​Written by:\n\nSreeram RBlog\nMinecraft : Pushing the Boundaries of GenAIWritten by \n\nAniruddh KBlog\nGenie 2: A large-scale foundation world model​Written by:\n\nArjun KBlog\nPaper Review :\nSAILWritten by \n\nAnish VBlog\nExploring KANs​Written by:\n\nDevisree ABlog\nPaper Review :\nSoccerNetWritten by \n\nDaniel Blog\nPaper Review\nGameNGen​Written by:\n\nAnshuman MishraBlog\nGPT - 4 (o)riginsDevelopments of GPT models over the years and emphasis on it's latest release, GPT 4o\n\nWritten by:\n\nNishitha DBlog\nPaper Review\nMicrosoft Graph RAG​Written by:\n\nHarshith MRBlog\nPaper Review\nConformersWritten by:\n\nSreeram RBlog\nLLMs UnveiledUnlocking new worlds, one word at a time. LLMs are reshaping intelligence, creating and innovating beyond imagination \n\n​\n\nWritten by:\n\nJaanav Mathavan\n\nSakthi Prathosh\n\nAnupam Loy GeetoBlog\nNLP for Indian\nLanguagesUtilizing NLP and LLM to uncover the hidden details of our languages, bridging the linguistic gap for a more inclusive digital world \n\n​\n\nWritten by:\n\nAtreya Vedantam\n\nAditya Tamras\n\nPranay MathurBlog\nGemini\nThe new kid on blockA look into the newly released GPT model released by Google, its workings and privacy concerns of LLMs \n\n​\n\nWritten by:\n\nShailesh Kasivelrajan\n\nJyothiradityaBlog\nPaper Review\nMixtral 8x7BWritten by:\n\nSumedh Chatterjee\n\nRyan Jacob George\n\nB ShabarishBlog\nChatGPT\nHow does it work?Is my future job at danger due to this ?!\n\n​\n\nWritten by\n\nShakti SharmaBlog\nPaper Review\nPaint With RLWritten by:\n\nVinayakBlog\nPaper Review\nMuZero : 'Unbeatable' RL​Written by:\n\nNiveath\n\nPriyanka\n\nGokul\n\nRuthwikBlog\nbottom of page",
+  "cards": [],
+  "structuredMetadata": [],
+  "pageDefinitions": [
+    {
+      "pageId": "n3m2t",
+      "title": "Archives - to be modified",
+      "pageUriSEO": "archives-to-be-modified",
+      "pageJsonFileName": "7b152c_39583b819efc3ed015bb29516fe250b7_2"
+    },
+    {
+      "pageId": "u1q52",
+      "title": "Event Details & Registration",
+      "pageUriSEO": "event-details",
+      "pageJsonFileName": "7b152c_caea55bafc227ef944eabdfafc3c50ec_2"
+    },
+    {
+      "pageId": "snge6",
+      "title": "Blog - to be modified",
+      "pageUriSEO": "blog-to-be-modified",
+      "pageJsonFileName": "7b152c_4f0f552e3a3748b72becf60e00a2bbb0_2"
+    },
+    {
+      "pageId": "djeax",
+      "title": "My Programs",
+      "pageUriSEO": "my-programs"
+    },
+    {
+      "pageId": "r0epw",
+      "title": "Participant Page",
+      "pageUriSEO": "participant-page",
+      "pageJsonFileName": "7b152c_d9407c463e1cb9abd24a64ea81c8ca23_2"
+    },
+    {
+      "pageId": "ipopg",
+      "title": "Resources",
+      "pageUriSEO": "resources",
+      "pageJsonFileName": "7b152c_ed550154f8b8e05a146716f44be4994e_2"
+    },
+    {
+      "pageId": "vr98p",
+      "title": "Team",
+      "pageUriSEO": "team",
+      "pageJsonFileName": "7b152c_e460dc9eef7a0aad23ca53f480c682f2_2"
+    },
+    {
+      "pageId": "yt718",
+      "title": "Profile",
+      "pageUriSEO": "profile-1",
+      "pageJsonFileName": "7b152c_1482369cb3fa4b9f6fe757043d1b0a7c_2"
+    },
+    {
+      "pageId": "eif5s",
+      "title": "Notifications",
+      "pageUriSEO": "notifications"
+    },
+    {
+      "pageId": "qptnt",
+      "title": "Programs",
+      "pageUriSEO": "programs",
+      "pageJsonFileName": "7b152c_beb79b53971b8904c38e32b1b03ecc08_2"
+    },
+    {
+      "pageId": "p4tyu",
+      "title": "My Wallet",
+      "pageUriSEO": "my-wallet"
+    },
+    {
+      "pageId": "qyi9l",
+      "title": "Events",
+      "pageUriSEO": "event-list",
+      "pageJsonFileName": "7b152c_193dab13b5a3165c14ca8ce56b8a8c30_2"
+    },
+    {
+      "pageId": "kqv4t",
+      "title": "Visitor Page",
+      "pageUriSEO": "challenge-page",
+      "pageJsonFileName": "7b152c_3a6726df7b1457ca007c0f1ddf8e6458_2"
+    },
+    {
+      "pageId": "qa809",
+      "title": "Projects",
+      "pageUriSEO": "projects",
+      "pageJsonFileName": "7b152c_a4ae1f852ead9a0967e9d8196a6d52a4_2"
+    },
+    {
+      "pageId": "ruimx",
+      "title": "Schedule",
+      "pageUriSEO": "schedule",
+      "pageJsonFileName": "7b152c_3598f8e4e0cd4ed706cfdcda687f89dd_2"
+    },
+    {
+      "pageId": "dvkv0",
+      "title": "Thank You Page",
+      "pageUriSEO": "challenge-thanks",
+      "pageJsonFileName": "7b152c_90eac0452e610e874dcaf7cacda31210_2"
+    },
+    {
+      "pageId": "r0efd",
+      "title": "Archives",
+      "pageUriSEO": "archives-1",
+      "pageJsonFileName": "7b152c_eb027edb822181c9bbfd35af0bd55c55_2"
+    },
+    {
+      "pageId": "ki5qg",
+      "title": "Gallery - to be modified",
+      "pageUriSEO": "gallery-to-be-modified",
+      "pageJsonFileName": "7b152c_b22d0c929146f416217acbcb623ddca5_2"
+    },
+    {
+      "pageId": "e0lhp",
+      "title": "Blogs",
+      "pageUriSEO": "blogs",
+      "pageJsonFileName": "7b152c_be165f6ff0cd23702389dffe5e22f81e_2"
+    },
+    {
+      "pageId": "tljab",
+      "title": "Search Results",
+      "pageUriSEO": "search",
+      "pageJsonFileName": "7b152c_ce416b5e07fb53ab24a407cf8b289ab0_2"
+    },
+    {
+      "pageId": "m9q37",
+      "title": "Events",
+      "pageUriSEO": "events-1",
+      "pageJsonFileName": "7b152c_0a3114cc3ba16186fb212a0eaa29f717_2"
+    },
+    {
+      "pageId": "r2d18",
+      "title": "Payment Page",
+      "pageUriSEO": "challenge-payment",
+      "pageJsonFileName": "7b152c_bd9f3646920d93865a74777928ca9903_2"
+    },
+    {
+      "pageId": "n5d49",
+      "title": "Recruitment",
+      "pageUriSEO": "recruitment"
+    },
+    {
+      "pageId": "gzfro",
+      "title": "Events",
+      "pageUriSEO": "events",
+      "pageJsonFileName": "7b152c_53afdc35d5debbb08f38e03adb7671cd_2"
+    },
+    {
+      "pageId": "c1dmp",
+      "title": "Home",
+      "pageUriSEO": "home",
+      "pageJsonFileName": "7b152c_5ce7529b8a1ce53534b146dcd18b5cd6_2"
+    },
+    {
+      "pageId": "a1kpe",
+      "title": "More",
+      "pageUriSEO": "more",
+      "pageJsonFileName": "7b152c_ef0fe8282edcaa082bb7c3c4cd794863_2"
+    },
+    {
+      "pageId": "wx7l6",
+      "title": "Gallery",
+      "pageUriSEO": "gallery-1",
+      "pageJsonFileName": "7b152c_d2af98579128349675073dd7bf435105_2"
+    },
+    {
+      "pageId": "xviyu",
+      "title": "My Account",
+      "pageUriSEO": "my-account"
+    }
+  ]
+}
