@@ -51,11 +51,22 @@ build-reference screenshots are kept in `reference/` for visual comparison.
 Edit `src/data/events.json`. A record needs a unique `id`, ISO `date`, human-readable
 `displayDate`, `academicYear` (`25-26` or `26-27`), exact `description`, and `status`.
 Set `image` or `resourceUrl` to `null` when unavailable. The homepage automatically shows
-the three newest records whose status is `published`.
+the three newest completed records whose status is `published`.
 
-The upcoming-event panel is intentionally a placeholder. Once details are confirmed,
-edit `src/data/announcements.json`; do not add a countdown unless a real future date is
-known.
+Upcoming and past events are determined from dates, not from whether a countdown exists.
+Use `endDate` (`YYYY-MM-DD`) for a multi-day event. Without an end time, it stays active
+until the end of its final day in **Asia/Kolkata**. Optionally set `endsAt` to an ISO
+timestamp with timezone, such as `2026-10-21T18:30:00+05:30`, for an exact finish time.
+`countdownTo` is the start timestamp; `registrationUrl` is shown only while the event
+is active. Completed events automatically appear in the past archive and homepage
+recent-event cards. All future published events appear in the upcoming archive.
+
+The GitHub Pages workflow rebuilds daily at 12:17 AM IST (18:47 UTC), so the static
+site moves completed events at the next daily rebuild without a content commit.
+GitHub may delay scheduled runs, and schedules
+must be enabled on the default branch. A manual workflow run refreshes it immediately.
+No event records are deleted or moved between files. The legacy announcement placeholder
+is only used when there are no published events in the current archive.
 
 ### Add or edit a blog
 

@@ -4,6 +4,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Refresh event sections daily at 00:17 IST (18:47 UTC).
+  schedule:
+    - cron: "47 18 * * *"
 
 permissions:
   contents: read

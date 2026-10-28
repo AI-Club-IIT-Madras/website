@@ -20,7 +20,8 @@
     "image": "/images/events/safe-responsible-ai-evening-26-27.png",
     "resourceUrl": null,
     "status": "published",
-    "legacyAnchor": null
+    "legacyAnchor": null,
+    "endsAt": "2026-10-21T18:30:00+05:30"
   },
   {
     "id": "epoch-3",
@@ -52,7 +53,8 @@
       }
     ],
     "status": "published",
-    "legacyAnchor": null
+    "legacyAnchor": null,
+    "endDate": "2026-09-29"
   },
   {
     "id": "introduction-to-neural-networks",

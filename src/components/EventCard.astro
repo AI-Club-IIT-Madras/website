@@ -3,6 +3,7 @@ import type events from "../data/events.json";
 import { localUrl } from "../lib/urls";
 import site from "../data/site.json";
 import Arrow from "./Arrow.astro";
+import { isActiveEvent } from "../lib/content.mjs";
 interface Props {
   event: (typeof events)[number];
   compact?: boolean;
@@ -16,10 +17,11 @@ const resourceLinks =
 const descriptionParagraphs = event.description.split(/\n\s*\n/);
 const eventQuestions =
   "questions" in event && event.questions ? event.questions : [];
+const active = isActiveEvent(event);
 const countdownTo =
-  "countdownTo" in event && event.countdownTo ? event.countdownTo : null;
+  active && "countdownTo" in event && event.countdownTo ? event.countdownTo : null;
 const registrationUrl =
-  "registrationUrl" in event && event.registrationUrl
+  active && "registrationUrl" in event && event.registrationUrl
     ? event.registrationUrl
     : null;
 ---

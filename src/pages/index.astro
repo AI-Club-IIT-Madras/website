@@ -9,15 +9,11 @@ import site from "../data/site.json";
 import events from "../data/events.json";
 import blogs from "../data/blogs.json";
 import achievements from "../data/achievements.json";
-import { newestPublished } from "../lib/content.mjs";
+import { newestPublished, partitionEvents } from "../lib/content.mjs";
 import { localUrl } from "../lib/urls";
-const publishedEvents = newestPublished(events);
-const upcomingEvent = publishedEvents.find(
-  (event) => "countdownTo" in event && event.countdownTo,
-);
-const recentEvents = publishedEvents
-  .filter((event) => event.id !== upcomingEvent?.id)
-  .slice(0, 3);
+const { upcoming, past } = partitionEvents(events);
+const upcomingEvent = upcoming[0];
+const recentEvents = past.filter(event => event.date).slice(0, 3);
 const recentBlogs = newestPublished(blogs).slice(0, 3);
 const featuredResearch = achievements.publications
   .filter((item) => item.category === "Research")
@@ -52,6 +48,12 @@ const featuredHackathons = achievements.hackathons.slice(0, 3);
         <Arrow />
       </a>
     </div>
+    {!upcomingEvent && (
+      <p class="upcoming-status">
+        <span>{site.labels.upcomingEvents}</span>
+        <strong>{site.labels.noUpcomingEvents}</strong>
+      </p>
+    )}
     {upcomingEvent && (
       <div class="home-upcoming-event">
         <EventCard event={upcomingEvent} compact featured />

@@ -7,26 +7,14 @@ import events from "../data/events.json";
 import announcements from "../data/announcements.json";
 import site from "../data/site.json";
 import { academicYear } from "../lib/urls";
-import { newestPublished } from "../lib/content.mjs";
+import { partitionEvents } from "../lib/content.mjs";
 interface Props {
   year: string;
 }
 const { year } = Astro.props;
-const datedRecords = newestPublished(events).filter(
-  (event) => event.academicYear === year,
-);
-const undatedRecords = events.filter(
-  (event) =>
-    event.status === "published" && event.academicYear === year && !event.date,
-);
-const records = [...datedRecords, ...undatedRecords];
+const records = events.filter(event => event.status === "published" && event.academicYear === year);
+const { upcoming: upcomingRecords, past: pastRecords } = partitionEvents(records);
 const upcoming = announcements.upcomingEvent;
-const upcomingRecord = records.find(
-  (event) => "countdownTo" in event && event.countdownTo,
-);
-const pastRecords = upcomingRecord
-  ? records.filter((event) => event.id !== upcomingRecord.id)
-  : records;
 const youtube = site.socials.find((social) => social.label === "YouTube");
 ---
 
@@ -35,7 +23,7 @@ const youtube = site.socials.find((social) => social.label === "YouTube");
     <YearNav kind="events" current={year} />
   </PageHeading>
   <div class="shell archive-content">
-    {year === "26-27" && !upcomingRecord && (
+    {year === "26-27" && !upcomingRecords.length && (
       <p class="upcoming-status">
         <span>{site.labels.upcomingEvents}</span>
         <strong>{site.labels.noUpcomingEvents}</strong>
@@ -65,14 +53,14 @@ const youtube = site.socials.find((social) => social.label === "YouTube");
         </a>
       </p>
     )}
-    {upcomingRecord && (
+    {upcomingRecords.length > 0 && (
       <section class="event-archive-section upcoming-events-section">
         <div class="year-heading">
           <h2>{site.labels.upcoming}</h2>
-          <span>1 event</span>
+          <span>{upcomingRecords.length} {site.labels.eventCount}</span>
         </div>
         <div class="event-list upcoming-event-list">
-          <EventCard event={upcomingRecord} />
+          {upcomingRecords.map(event => <EventCard event={event} />)}
         </div>
       </section>
     )}
@@ -80,7 +68,7 @@ const youtube = site.socials.find((social) => social.label === "YouTube");
       <section class="event-archive-section past-events-section">
         <div class="year-heading">
           <h2>
-            {upcomingRecord ? site.labels.pastEvents : academicYear(year)}
+            {upcomingRecords.length ? site.labels.pastEvents : academicYear(year)}
           </h2>
           <span>
             {pastRecords.length} {site.labels.eventCount}
