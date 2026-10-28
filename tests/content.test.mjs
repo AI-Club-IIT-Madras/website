@@ -330,7 +330,7 @@ test("team data separates core, coordinators, and project rosters", async () => 
   assert.equal(count("hackathon-coordinators"), 4);
   assert.equal(count("viveka-2"), 11);
   assert.equal(count("triton-cu"), 11);
-  assert.equal(count("kathai"), 2);
+  assert.equal(count("kathai"), 8);
   const clubCoordinators = team.members.filter(
     (member) =>
       member.group === "club-coordinators" ||
@@ -365,7 +365,7 @@ test("team data separates core, coordinators, and project rosters", async () => 
     team.members
       .filter((member) => member.group === "kathai")
       .map((member) => member.name),
-    ["Venkatesh", "Vibhu"],
+    ["Venkatesh", "Vibhu", "Anirudh K", "Nandish Kori", "Jaiwanth Karthi M K", "Aparna Chowdary", "Diyaansh", "Krish"],
   );
   assert.equal(
     team.members.find((member) => member.id === "mukunthan-triton-cu")?.url,
