@@ -20,7 +20,7 @@ test("homepage content sorts newest published records first", async () => {
   const events = newestPublished(await load("events"));
   const blogs = newestPublished(await load("blogs"));
 
-  assert.equal(events[0].id, "safe-responsible-ai-evening");
+  assert.equal(events[0].id, "prof-talk-ram-prabhakar");
   assert.equal(blogs[0].id, "is-the-latent-reasoning-entangled");
   assert.ok(
     events.every(
@@ -59,6 +59,7 @@ test("2026–27 events include the complete poster-backed archive", async () => 
   assert.deepEqual(
     current.map((event) => event.id),
     [
+      "prof-talk-ram-prabhakar",
       "safe-responsible-ai-evening",
       "epoch-3",
       "introduction-to-neural-networks",
@@ -95,7 +96,28 @@ test("2026–27 events include the complete poster-backed archive", async () => 
   );
   assert.equal(
     events.filter((event) => event.academicYear === "26-27").length,
-    9,
+    10,
+  );
+});
+
+test("the Ram Prabhakar Prof Talk includes its supplied schedule and sources", async () => {
+  const events = await load("events");
+  const event = events.find(
+    (record) => record.id === "prof-talk-ram-prabhakar",
+  );
+
+  assert.equal(event?.date, "2026-10-30");
+  assert.equal(event?.displayTime, "5:15 PM onwards");
+  assert.equal(event?.location, "NAC2 – 631");
+  assert.equal(event?.countdownTo, "2026-10-30T17:15:00+05:30");
+  assert.equal(event?.registrationUrl, null);
+  assert.equal(
+    event?.image,
+    "/images/events/prof-talk-ram-prabhakar-26-27.png",
+  );
+  assert.deepEqual(
+    event?.resourceLinks?.map((resource) => resource.label),
+    ["Speaker Profile", "WSAI"],
   );
 });
 

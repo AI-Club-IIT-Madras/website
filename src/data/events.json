@@ -1,5 +1,31 @@
 [
   {
+    "id": "prof-talk-ram-prabhakar",
+    "title": "Prof Talks: How to Train Your AI — The Few-Shot Adventure",
+    "date": "2026-10-30",
+    "displayDate": "30 October, 2026 · Friday",
+    "displayTime": "5:15 PM onwards",
+    "location": "NAC2 – 631",
+    "description": "AI Club is excited to invite you all to the second session of the Prof Talks series, featuring Prof. Ram Prabhakar. This series aims to provide students with direct exposure to the active research and expertise of our faculty members.\n\nHow can AI learn to see and understand the world with less supervision? This talk explores how few-shot learning and related approaches help address challenges across computer vision—from enhancing images captured in near darkness to understanding actions in videos. We will examine how models adapt using only a handful of examples and learn from naturally available cues such as narration. We will conclude with ongoing research directions in learning action representations and composing them to reason about complex activities in long videos.\n\nProf. Ram Prabhakar is an Assistant Professor at WSAI. His research group, the Artificial Perception X (APX) Lab, investigates core problems in computer vision and deep learning. Prior to joining IIT Madras, he was an Assistant Research Scientist at Johns Hopkins University, working under the guidance of Prof. Rama Chellappa. He earned his Ph.D. from the Vision and AI Lab in the Department of Computational and Data Sciences at IISc.",
+    "countdownTo": "2026-10-30T17:15:00+05:30",
+    "registrationUrl": null,
+    "academicYear": "26-27",
+    "image": "/images/events/prof-talk-ram-prabhakar-26-27.png",
+    "resourceUrl": null,
+    "resourceLinks": [
+      {
+        "label": "Speaker Profile",
+        "url": "https://kramprabhakar.github.io/"
+      },
+      {
+        "label": "WSAI",
+        "url": "http://wsai.iitm.ac.in/"
+      }
+    ],
+    "status": "published",
+    "legacyAnchor": null
+  },
+  {
     "id": "safe-responsible-ai-evening",
     "title": "An Evening on Safe and Responsible AI",
     "date": "2026-10-21",
